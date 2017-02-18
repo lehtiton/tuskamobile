@@ -1,0 +1,214 @@
+[
+
+    {
+        "category": "restaurant",
+        "title_fi": "3 Kaverin Jäätelö",
+        "title_en": "3 Kaverin Jäätelö",
+        "descr_fi": "<p>Kotimainen jäätelötehdas valmistaa jäätelönsä puhtaista ja raikkaista raaka-aineista.<\/p>",
+        "descr_en": "<p>Ice cream prepared with pure and fresh ingredients, made in Finland.<\/p>",
+        "lat": "35.5925",
+        "lng": "-36.41025"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Black Dining",
+        "title_en": "Black Dining",
+        "descr_fi": "<p>Mustempi ruoka, synkempi mieli. Viime vuonna lanseerattu hitti löytyy alueelta tänäkin vuonna. Mustan keittiön mustan menun mustanpuhuvissa annoksissa huomioidaan festarikävijäin lihattomat ja lihalliset dieetit.<\/p>",
+        "descr_en": "<p>Black food, black mind. Last year´s new food concept is back, now darker than ever.<\/p>",
+        "lat": "76.82401",
+        "lng": "80.80638"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Eatos Mexican Diner",
+        "title_en": "Eatos Mexican Diner",
+        "descr_fi": "<p>Klassisesta katuruoka valikoimasta löytyy tacoja, eli alkuperäisiä pehmeitä maissitortilloja kuin myös täytettyjä burritoja, quesadilloja ja tostadoita.<\/p>",
+        "descr_en": "<p>Classic streetfood menu with tacos, the original soft corntortillas as well as filled burritos, quesadillas and tostados.<\/p>",
+        "lat": "72.2135",
+        "lng": "-57.81525"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Fafa’s Smokery BBQ",
+        "title_en": "Fafa’s Smokery BBQ",
+        "descr_fi": "<p>The best smoked BBQ street food You can get.<\/p>",
+        "descr_en": "<p>The best smoked BBQ street food You can get.<\/p>",
+        "lat": "54.4655",
+        "lng": "-68.01275"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Festaring",
+        "title_en": "Festaring",
+        "descr_fi": "<p>Kotiruokaa?! Jättilihapullat raikkaan salaatin ja valittavissa olevan perunavaihtoehdon kanssa? Toimii!<\/p>",
+        "descr_en": "<p>Homely fare?! A bit crazy served at a festival.. Well, how does it sound to eat giant meatballs with a fresh salad and potatoes instead of french fries and sausage? Works for me!<\/p>",
+        "lat": "47.9655",
+        "lng": "-70.71275"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Happie’s",
+        "title_en": "Happie’s",
+        "descr_fi": "<p>Gourmet-hodareita laadukkaista ja tuoreista raaka-aineista!<\/p>",
+        "descr_en": "<p>Gourmet hot dogs made from fresh, quality ingredients!<\/p>",
+        "lat": "83.064",
+        "lng": "-51.60775"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Il Siciliano",
+        "title_en": "Il Siciliano",
+        "descr_fi": "<p>Italialainen keittiö on maailmankuulu. Italialainen keittiö on antanut vaikutteita monien muiden maiden keittiöihin.<\/p>",
+        "descr_en": "<p>The Italian kitchen is known worldwide. It has affected many kitchens around the world.<\/p>",
+        "lat": "87.062",
+        "lng": "-44.18763"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Kalatalo",
+        "title_en": "Kalatalo",
+        "descr_fi": "<p>Sushi agony from Kalatalo!<\/p>",
+        "descr_en": "<p>Sushi agony from Kalatalo!<\/p>",
+        "lat": "42.679",
+        "lng": "-74.18775"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Namaskaar",
+        "title_en": "Namaskaar",
+        "descr_fi": "<p>Intialaisen keittiön sydämenä toimii aito tandoori-saviuuni, jossa ruuan kypsennys tapahtuu pehmeällä tulella ruuan aromit säilyttäen.<\/p>",
+        "descr_en": "<p>The tandoor is the heart of the Indian kitchen. The owen cooks the food in low temperature, thus preserving the aromas.<\/p>",
+        "lat": "37.56799",
+        "lng": "-77.02725"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Rakkaz",
+        "title_en": "Rakkaz",
+        "descr_fi": "<p>Rakkazin valikoimiin kuuluvat tapahtuma-annosten klassikot kuten makkaraperunat, kebab- ja kana-ateriat sekä muikut, kasviruoka kahvia unohtamatta.<\/p>",
+        "descr_en": "<p>If you’re after for traditional festival dishes such as sausage & french fries, kebab and chicken skewers Rakkaz’s selling booth is the place to head for.<\/p>",
+        "lat": "84.56799",
+        "lng": "-35.00625"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Rooi",
+        "title_en": "Rooi",
+        "descr_fi": "<p>Belgialaisia vohveleita ja Ranskalaisia crepesejä.<\/p>",
+        "descr_en": "<p>Belgian waffles and French crepes.<\/p>",
+        "lat": "77.28901",
+        "lng": "-54.64725"
+    },
+
+    {
+        "category": "restaurant",
+        "title_fi": "Tuska Burgers",
+        "title_en": "Tuska Burgers",
+        "title_en": "Tuska Burgers",
+        "descr_fi": "<p>Tuskan klassikkoburgerit.<\/p>",
+        "descr_en": "<p>Tuska´s classic burgers.<\/p>",
+        "lat": "50.321",
+        "lng": "30.83125"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Alepa",
+        "title_en": "Alepa",
+        "descr_fi": "<p>Naapurin hevari, jonka tunnet nimestä. Alepan kontista saat alueelta kaikki tuotteet arkihinnoin, ilman mitään festarilisää tai muuta kurjuutusta hyvällä tykityksellä! Viime vuonna kassat vetivät corpse paintit kasvoilla, saa nähdä mitä he tänä vuonna keksivät.<\/p>",
+        "descr_en": "<p>The neighborhood metalhead who you know by the name. All products sold in the Alepa container on the venue have normal prices, with no additional festival taxing or other miseries, only good cannoning! Cashiers wore corpse paint last year; let’s see what they come up with this year!<\/p>",
+        "lat": "4.2295",
+        "lng": "-79.50275"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Bald Fellows",
+        "title_en": "Bald Fellows",
+        "descr_fi": "<p>Korut & lävistykset.<\/p>",
+        "descr_en": "<p>Heavy duty jewellery.<\/p>",
+        "lat": "40.97549",
+        "lng": "-48.06425"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Bio Luvil Black",
+        "title_en": "Bio Luvil Black",
+        "descr_fi": "<p>Musta ei haalistu! Ovatko vaatteesi keränneet festivaaliodööriä– ei hätää, tervetuloa pesettämään ne Bio Luvil Blackin pisteelle. Mustakin pysyy mustana, eikä maksa muuten mitään!<\/p>",
+        "descr_en": "<p>Fade to Black- Not! Festivals might leave a mark on your clothing, but don’t worry, you are welcome to bring them to Bio Luvil Black to wash off any odours! Black stays black, and it’s completely free!<\/p>",
+        "lat": "33.8925",
+        "lng": "-82.77425"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "EMP",
+        "title_en": "EMP",
+        "descr_fi": "<p>Tuska virallinen nimmaripiste. Artistien vierailuajat julkaistaan niiden vahvistuessa EMP- sivuilla sekä Tuskan uutisvirrassa.<\/p>",
+        "descr_en": "<p>Tuska’s official autograph spot. Artist visiting times will be posted on EMP website and Tuska newsfeed as soon as they are confirmed.<\/p>",
+        "lat": "2.622",
+        "lng": "92.40724"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "iTapsa",
+        "title_en": "iTapsa",
+        "descr_fi": "<p>Loppuiko akku? Hajosiko känny? No worries, iTapsa auttaa!<\/p>",
+        "descr_en": "<p>Battery died? Cracked your screen? No worries, iTapsa to the rescue!<\/p>",
+        "lat": "32.5925",
+        "lng": "-32.01025"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "KVLT",
+        "title_en": "KVLT",
+        "descr_fi": "<p>Virallinen levynmyyntipiste. Löytyy muutes kaikkea harvinaisista erikoisuuksista aina festarilineupin teoksiin. Tsekkaa vaikka.<\/p>",
+        "descr_en": "<p>Official record selling spot. Offers rareties, hard to find records, as well as records from bands performing at the festival. Go take a look.<\/p>",
+        "lat": "38.70351",
+        "lng": "-42.42125"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Leather Heaven",
+        "title_en": "Leather Heaven",
+        "descr_fi": "<p>Rock’n Roll- ja Biker-henkiset vaatteet ja asusteet, nahkaa ja niittiä!<\/p>",
+        "descr_en": "<p>Rock’n Roll- and Biker-clothing and accessories, leather and studs!<\/p>",
+        "lat": "49.08999",
+        "lng": "-44.52475"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Merchandise",
+        "title_en": "Merchandise",
+        "descr_fi": "<p>Virallinen merchandise piste: bändien ja Tuskan merchandise tuotteet. Tervetuloa tsekkaan valikoimat!<\/p>",
+        "descr_en": "<p>Official merchandise spot, both for bands and Tuska. Go check it out!<\/p>",
+        "lat": "12.622",
+        "lng": "95.70724"
+    },
+
+    {
+        "category": "shop",
+        "title_fi": "Tuska-koru",
+        "title_en": "Tuska-koru",
+        "descr_fi": "<p>Korutaitelija Ivary Vimmin suunnittelemat uniikit, käsintaotut Tuska-korut. Pisteellä voit ostaa, tuunata, osallistua kilpailuun sekä tavata Ivaryn.<\/p>",
+        "descr_en": "<p>Hand made unique Tuska-jewelry by Ivary Vimm.<\/p>",
+        "lat": "29.5925",
+        "lng": "-25.41025"
+    }
+
+]
