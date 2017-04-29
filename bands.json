@@ -1,39 +1,797 @@
 [
-    {
-        "id" : "alex_skolnick",
-        "title_fi" : "Alex Skolnick (Testament)",
-        "title_en" : "Alex Skolnick (Testament)",
-        "date" : "1.7.2016",
-        "descr_fi" : "Skolnickin sooloja on opiskeltu lukemattomien sänkyjen laidoilla jo vuosikymmeniä. Solmusalissa pääsee kuulemaan miehen mietteitä Tuska-perjantaina. Haastattelijana hevitutkija Toni-Matti Karjalainen.",
-        "descr_en" : "Alex Skolnick interview",
-        "type" : "band",
-        "schedule" :
-            [
-                {
-                    "timeEnd" : "2016-07-01T15:45:00+02:00",
-                    "stage" : "solmu",
-                    "timeBeg" : "2016-07-01T15:00:00+02:00"
-                }
-            ],
-        "key" :
-            {
-                "id":"alex_skolnick",
-                "title_fi":"Alex Skolnick (Testament)",
-                "title_en":"Alex Skolnick (Testament)",
-                "date":"1.7.2016",
-                "descr_fi":"Skolnickin sooloja on opiskeltu lukemattomien sänkyjen laidoilla jo vuosikymmeniä. Solmusalissa pääsee kuulemaan miehen mietteitä Tuska-perjantaina. Haastattelijana hevitutkija Toni-Matti Karjalainen.",
-                "descr_en":"Alex Skolnick interview",
-                "type":"band",
-                "schedule":[
-                    {"timeEnd":null,
-                        "stage":"solmu",
-                        "timeBeg":null,
-                        "timeBegShift":"2016-07-01T14:00:00.000Z",
-                        "timeEndShift":"2016-07-01T14:45:00.000Z"}
-                ]
-            },
-        "img":"img/band/alex_skolnick.jpg",
-        "starred":false
-    },
+	{
+		"id": "sabaton",
+		"title_fi": "Sabaton",
+		"title_en": "Sabaton",
+		"descr_fi": "Nämä ruotsalaiset ovat jälleen liikekannalla ja pyrkivät valloittamaan hevareiden sydämet tämän kesän Tuskassa! Sabatonin viime vuoden elokuussa julkaiseman \"The Last Stand\"-nimisen albumin myötä ei tosin luulisi valloitusyrityksestä esiintyvän kovasti vastarintaa.",
+		"descr_en": "These Swedish dudes are on the move again and attempt to conquer the hearts of metalheads at Tuska! Though there probably ain’t much resistance about this attempt due to “The Last Stand\" album that was released last year.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T13:00:00+02:00",
+				"timeEnd": "2017-06-30T14:00:00+02:00"
+			}
+		],
+		"img": "img/band/sabaton.jpeg",
+		"link_spotify": "spotify:artist:3o2dn2O0FCVsWDFSh8qxgG",
+		"link_band": "https://www.facebook.com/sabaton",
+		"starred": false
+	},
+	{
+		"id": "devin-townsend-project",
+		"title_fi": "Devin Townsend Project",
+		"title_en": "Devin Townsend Project",
+		"descr_fi": "Devin Townsend Project julkaisi äskettäin kovaa suitsutusta osakseen saaneen \"Transcendence\"-albumin, joka on hienoa jatkumoa miehen moninaiselle, odottamattomia käänteitä pursuavalle uralle. Kun bändi on timanttisessa iskussa ja itse mestarin sävellyskynä terävä, on albumillinen kruunun jalokiviä jälleen tosiasia!",
+		"descr_en": "Devin has always had a very special place in the Finnish hearts. The Finns just love him. He just played two shows in Finland, including a sold out show at The Circus in Helsinki.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T15:00:00+02:00",
+				"timeEnd": "2017-06-30T16:00:00+02:00"
+			}
+		],
+		"img": "img/band/devin-townsend-project.jpeg",
+		"link_spotify": "spotify:artist:54Xuca1P5nDqfKYZGDfHxl",
+		"link_band": "https://www.facebook.com/dvntownsend",
+		"starred": false
+	},
+	{
+		"id": "suicidal-tendencies",
+		"title_fi": "Suicidal Tendencies",
+		"title_en": "Suicidal Tendencies",
+		"descr_fi": "Crossover-jyrä Suicidal Tendencies palaa Tuskaan vuosien tauon jälkeen! Edellisen kerran Suikkarit meuhkasivat Tuskan lavalla Kaisaniemessä ja se olikin ikimuistoinen keikka se. Suicidal Tendenciesin kone ei hyydy. Mike Muir ja kumppanit virittelivät riffejään ennenkuulumattomalla tyylillä Venice Beachilla jo vuonna 1980 ja meininki on jatkunut samana läpi vuosien. Nykyään rumpupallilla istuu itse Dave Lombardo, joten on kaikki syyt uskoa, että Suicidal Tendencies vuosimallia 2016 on kovemmassa vedossa kuin ikinä!",
+		"descr_en": "Crossover-pioneers Suicidal Tendencies are back at it! The last time they took the Tuska-stage by storm, was at the old venue in Kaisaniemi in 2009. The Suicidal-machine will not slow down. Mike Muir & co were riffing away at Venice Beach in 1980 in a manner that no one had riffed before and Cyko Miko and his crew are still going as strong as ever. Perhaps even stronger as the drum throne is now occupied by none other than almighty Dave Lombardo!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T17:00:00+02:00",
+				"timeEnd": "2017-06-30T18:00:00+02:00"
+			}
+		],
+		"img": "img/band/suicidal-tendencies.jpeg",
+		"link_spotify": "spotify:artist:54Xuca1P5nDqfKYZGDfHxl",
+		"link_band": "https://www.facebook.com/suicidaltendencies/",
+		"starred": false
+	},
+	{
+		"id": "mayhem",
+		"title_fi": "Mayhem",
+		"title_en": "Mayhem",
+		"descr_fi": "Norjalainen black metal -uranuurtaja Mayhem saapuu vihdoin Tuskaan. Yhtyeen \"värikkääseen\" historiaan mahtuu yhtä sun toista, useita vähintäänkin kyseenalaisia tapahtumia, joista voit lukea vaikka wikipediasta. Yhtäkaikki, Mayhem on todellinen black metal -genren tiennäyttäjä ja bändi saapuu Tuskaan esittämään klassisen \"De Mysteriis Dom Sathanas\"-albuminsa. Kyllä nyt kelpaa.",
+		"descr_en": "Norway’s Mayhem is a true black metal trailblazer, they were among those who started it all. Mayhem played black metal when there was no such thing. Mayhem’s history is controversial to say the least. Read about it in wikipedia if you like. What matters now, is that Mayhem will be at Tuska to play their classic \"De Mysteriis Dom Sathanas\" album in its entirety.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T19:00:00+02:00",
+				"timeEnd": "2017-06-30T20:00:00+02:00"
+			}
+		],
+		"img": "img/band/mayhem.jpeg",
+		"link_spotify": "spotify:artist:0dR10i73opHXuRuLbgxltM",
+		"link_band": "https://www.facebook.com/mayhemofficial/",
+		"starred": false
+	},
+	{
+		"id": "wintersun",
+		"title_fi": "Wintersun",
+		"title_en": "Wintersun",
+		"descr_fi": "Jari Mäenpään luotsaama Wintersun valmistelee parhaillaan uutta albumia ja Tuskan lauteilla toivottavasti kuullaan jo uutta materiaalia. Wintersunin soitto on perinteisesti kirurgin tarkkaa työskentelyä, jota aiotaan tiukentaa entisestään lisäämällä riveihin uusi kitaristi. Tämä mahdollistaa Mäenpään keskittymisen ainoastaan vokaaleihin. Mielenkiinnolla odotamme kuinka tiukalle ruuvia voi kiristää!",
+		"descr_en": "Local heroes Wintersun make a triumphant return to Tuska. The band is currently finalizing their upcoming album – you know that’s going to be beyond epic! How tech can you get?!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T21:00:00+02:00",
+				"timeEnd": "2017-06-30T22:00:00+02:00"
+			}
+		],
+		"img": "img/band/wintersun.jpeg",
+		"link_spotify": "spotify:artist:6ui6SwChan7c1KYBQCqGKV",
+		"link_band": "https://www.facebook.com/wintersun",
+		"starred": false
+	},
+	{
+		"id": "insomnium",
+		"title_fi": "Insomnium",
+		"title_en": "Insomnium",
+		"descr_fi": "Insomniumin tuorein \"Winter’s Gate\"-niminen pitkäsoitto on irtiotto perinteisestä albumiformaatista. Levy koostuu yhdestä ainoasta neljäkymmentä minuuttisesta raidasta. Melodisen dödiksen parissa vastaavaa ei varmasti ole aiemmin nähty!",
+		"descr_en": "Insomnium’s latest \"Winter’s Gate\" album consists of a single, 40 minute track. That’s epic melo death for you, sir!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-06-30T23:00:00+02:00",
+				"timeEnd": "2017-06-30T24:00:00+02:00"
+			}
+		],
+		"img": "img/band/insomnium.jpeg",
+		"link_spotify": "spotify:artist:3uIgLG971oRM5fe6v8lvQS",
+		"link_band": "https://www.facebook.com/insomniumofficial/",
+		"starred": false
+	},
+	{
+		"id": "brujeria",
+		"title_fi": "Brujeria",
+		"title_en": "Brujeria",
+		"descr_fi": "Meksikolais-amerikkalainen Brujeria ei pyytele anteeksi. Bändin äärimetallin teemat ovat vahvasti poliittisia ja anti-amerikkalaisia. Huumeet, seksi ja satanismi ovat kovaa valuuttaa Brujerian maailmassa. Brujeria perustettiin Los Angelesissa jo 80-luvun lopulla ja alkuperäiseen kokoonpanoon kuuluivat yhtyeen kantavan voiman Juan Brujon lisäksi mm. Fear Factoryn Dino Cazares sekä itse Jello Biafra. Naamat balaclavojen ja huivien takana ovat vuosien varrella vaihtuneet mutta saaga jatkuu. Brujeria julkaisi juuri tuoreen \"Pocho Aztlan\"-nimisen albumin, joka on saanut messevän vastaanoton metallimedioissa ympäri palloa.",
+		"descr_en": "Mexican-American Brujeria does not apologize. The band’s extreme metal is strongly political and anti-American. Drugs, sex and satanism rule the world that Brujeria comes from. Brujeria was formed in Los Angeles at the tailend of the eighties by band leader Juan Brujo and original line-up consisted such notables as Jello Biafra and Dino Cazares of Fear Factory. The faces behind the blaclavas have changed over the years but the message remains the same. Brujeria just recently released their new \"Pocho Aztlan\"-album which has been praised all over.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-06-30T14:00:00+02:00",
+				"timeEnd": "2017-06-30T15:00:00+02:00"
+			}
+		],
+		"img": "img/band/brujeria.jpeg",
+		"link_spotify": "spotify:artist:1VV61UepOgsPiOjljK6mBY",
+		"link_band": "https://www.facebook.com/Brujeria",
+		"starred": false
+	},
+	{
+		"id": "anneke-van-giersbereens-vuur",
+		"title_fi": "Anneke Van Giersbergen’s Vuur",
+		"title_en": "Anneke Van Giersbergen’s Vuur",
+		"descr_fi": "The Gatheringin laulajana tunnetuksi tullut, sittemmin sooloartistina sekä The Gentle Storm -kokoonpanon kärjessä vakuuttanut hunajaääninen Anneke Van Giersbergen on laittanut uuden bändin tulille. Pistämättömän melodiatajun omaava huippulahjakas lauluntekijä on palannut juurilleen rock-bändi-muotoisen soitannan pariin. Anneke Van Gierbergen’s Vuur on uuden uunituoreen proggiksen nimi ja Tuska on erittäin ylpeä saadessaan esittää bändin ensimmäisen Suomen keikan.",
+		"descr_en": "Everyone knows her as the leadsinger of The Gathering. She’s been around as the leadfigure of The Gentle Storm. Her heartwarming solo acoustic shows are simply stunning. Now she’s back with a new band. A rock band. Tuska is extremely proud to present the first ever Finnish show by Anneke Van Giersbergen’s Vuur.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-06-30T16:00:00+02:00",
+				"timeEnd": "2017-06-30T17:00:00+02:00"
+			}
+		],
+		"img": "img/band/anneke-van-giersbereens-vuur.jpeg",
+		"link_spotify": "spotify:artist:6TZqJnkAytY8HFQBEdDF8v",
+		"link_band": "https://www.facebook.com/vuurband",
+		"starred": false
+	},
+	{
+		"id": "rotten-sound",
+		"title_fi": "Rotten Sound",
+		"title_en": "Rotten Sound",
+		"descr_fi": "Grindcoren ilosanomalla saarnaava Vaasalainen Rotten Sound julkaisi viime vuonna \"Abuse to Suffer\" -nimisen levyn ja on sen tiimoilta keikkaillut kiitettävästi ympäriinsä. Saarnahetki saadaan Suvilahteenkin kesällä. Ei muutako kuuntelee.",
+		"descr_en": "Rotten Sound, that is preaching with the gospel of grindcore, released an album called “Abuse to Suffer\" last year and has since then toured a lot all over the place. Sermon will be available in the summer at Suvilahti as well. So, there’s your chance for that.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-06-30T18:00:00+02:00",
+				"timeEnd": "2017-06-30T19:00:00+02:00"
+			}
+		],
+		"img": "img/band/rotten-sound.jpeg",
+		"link_spotify": "spotify:artist:4aglyvdJ7ApTfDC6aQ2LFf",
+		"link_band": "https://www.facebook.com/RottenSoundOfficial/",
+		"starred": false
+	},
+	{
+		"id": "brother-firetribe",
+		"title_fi": "Brother Firetribe",
+		"title_en": "Brother Firetribe",
+		"descr_fi": "Keikkalavoille tovin tauon jälkeen palanneella Brother Firetribella on myös aihetta juhlaan tänä vuonna. Nimittäin uusi levy \"Sunbound\" sekä 15 vuoden iän saavuttaminen! Yhteisjuhlistusta ja uusia biisejä siis luvassa kesän parhaissa bailuissa.",
+		"descr_en": "After being away from the stages for a while Brother Firetribe is back in business. They are also celebrating this year because they have a new \"Sunbound\" -album coming out and they’re turning 15! So let’s celebrate together at the best party of the summer!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-06-30T20:00:00+02:00",
+				"timeEnd": "2017-06-30T21:00:00+02:00"
+			}
+		],
+		"img": "img/band/brother-firetribe.jpeg",
+		"link_spotify": "spotify:artist:0FP1GVYq6WKexCiBkPftha",
+		"link_band": "https://www.facebook.com/brotherfiretribeofficial/",
+		"starred": false
+	},
+	{
+		"id": "barathrum",
+		"title_fi": "Barathrum",
+		"title_en": "Barathrum",
+		"descr_fi": "Paljon on virrannut vettä Vantaanjoessa sen jälkeen kun Barathrum soitti Tuskassa edellisen kerran. Sitä on virrannut tarpeeksi. Barathrum nousee Tuskan lavalle jälleen vuonna 2017.",
+		"descr_en": "Cvlt black metallers Barathrum haven’t played Tuska in ages, and many thought they never again would. In the year 2017, the time is right, again.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-06-30T22:00:00+02:00",
+				"timeEnd": "2017-06-30T23:00:00+02:00"
+			}
+		],
+		"img": "img/band/barathrum.jpeg",
+		"link_spotify": "spotify:artist:1SGvAkR4nsQoXdhHHFFuM4",
+		"link_band": "https://www.facebook.com/Barathrum-Official",
+		"starred": false
+	},
+	{
+		"id": "baptism",
+		"title_fi": "Baptism",
+		"title_en": "Baptism",
+		"descr_fi": "Pitkän linjan kotimainen black metalin sanansaattaja Baptism astelee Tuskan alttarille ensimmäistä kertaa. Yhdeksänkymmentä luvun lopulla perustettu raskassarjalainen julkaisi taannoin poikkeuksellisen väkevän \"V: The Devil's Fire\" –albumin, jonka saatanalliset säkeet kaikuvat Tuska-perjantaina niitä halajaville.",
+		"descr_en": "Long standing messenger of Finnish black metal, Baptism, will take the stage at Tuska for the first time. Baptism was founded in the late nineties and the band just recently released a behemoth of an album titled V: The Devil's Fire\".",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-06-30T14:00:00+02:00",
+				"timeEnd": "2017-06-30T15:00:00+02:00"
+			}
+		],
+		"img": "img/band/baptism.jpeg",
+		"link_spotify": "spotify:artist:4cinXEEaZpgvhFC8U6rXfl",
+		"link_band": "https://www.facebook.com/baptismofficial/",
+		"starred": false
+	},
+	{
+		"id": "trap-them",
+		"title_fi": "Trap Them",
+		"title_en": "Trap Them",
+		"descr_fi": "Yksi tunnetuista HM-2 -soundin sanansaattajista, amerikkalainen Trap Them pyörii punkin, hard coren ja omaperäisesti nyrjähtäneiden metalliriffien välimaastossa. Bändin energisistä lavaesiintymisistä kertonee se, että viime keväänä Hollannin Bloodshed festeillä yhtyeen laulaja Ryan McKenney mursi molemmat jalkansa hypätessään kaiuttimen päältä. Mies veti keikan loppuun tuolilla istuen. Eipä siitä sen enempää.",
+		"descr_en": "Well-known HM-2 worshippers, Trap Them are functioning within the realms of punk, hard core and twisted metal riffage. Trap Them are known for their energetic live shows: during their their set at the last Bloodshed Fest, singer Ryan McKenney broke both of his feet when jumping off a speaker. He finished the set sitting down on a chair. Enough said.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-06-30T16:00:00+02:00",
+				"timeEnd": "2017-06-30T17:00:00+02:00"
+			}
+		],
+		"img": "img/band/trap-them.jpeg",
+		"link_spotify": "spotify:artist:1QXcKL8Ggy8uCA23mFKgws",
+		"link_band": "https://www.facebook.com/TrapThem/",
+		"starred": false
+	},
+	{
+		"id": "kohti-tuhoa",
+		"title_fi": "Kohti Tuhoa",
+		"title_en": "Kohti Tuhoa",
+		"descr_fi": "Kohti Tuhoa debut album \"Rutiinin Orja\" is one of the undeniable highlights of hardcore punk during the past few years. The album was released by the mighty Southern Lord and it’s been praised by the media all over. Charghing d-beat, screaming guitars and apocalyptic vocals and timeless sound. This is hardcore.",
+		"descr_en": "Kohti Tuhoa -debyyttialbumi \"Rutiinin Orja\" on hardcore punkin kiistattomia merkkitapauksia parin viime vuoden ajalta. Koti-Suomessa levyn julkaisijana toimii Svart ja maailmanlaajuisesti Southern Lord, jonka listoilta löytyy vaikka mitä vaihtoehtoisemman ilmaisun suurnimiä. D-beat raikaa, kitarat kirskuu kuin viimeistä päivää ja vokalisti Helenan huudot repivät ilmaa. Tätä on hardcore.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-06-30T18:00:00+02:00",
+				"timeEnd": "2017-06-30T19:00:00+02:00"
+			}
+		],
+		"img": "img/band/kohti-tuhoa.jpeg",
+		"link_spotify": "spotify:artist:0lZWMjVWFHrSulpGmIqUXf",
+		"link_band": "https://www.facebook.com/kohtituhoa/",
+		"starred": false
+	},
+	{
+		"id": "ratface",
+		"title_fi": "Ratface",
+		"title_en": "Ratface",
+		"descr_fi": "MC Respektorin luotsaama hardcore-ryhmä Ratface astuu jälleen Tuskan lavalle. Ja sopivasti perjantai-iltapäivänä. Ainaisen stressaamisen sijasta Ratface keskittyy miellyttävimpiin asioihin elämässä, kuten päihtymiseen. Ei muuta kuin korkki roskiin ja jalalla koreasti Ratfacen tahtiin.",
+		"descr_en": "Lead by the enigmatic MC Respektor, local Helsinki hardcore outfit Ratface focuses on finer things in life. Like getting fucked up. If that’s your case, you know exactly where you’re going to be on Tuska Friday afternoon.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-06-30T20:00:00+02:00",
+				"timeEnd": "2017-06-30T21:00:00+02:00"
+			}
+		],
+		"img": "img/band/ratface.jpeg",
+		"link_spotify": "spotify:artist:2r7lnak702lbNcP34gtkDB",
+		"link_band": "https://www.facebook.com/ratface09hc",
+		"starred": false
+	},
+	{
+		"id": "pekko-kappi-and-khhl",
+		"title_fi": "Pekko Käppi & KHHL",
+		"title_en": "Pekko Käppi & KHHL",
+		"descr_fi": "Pekko Käppi & KHHL julkaisee tänä keväänä uuden albumin, joka kantaa nimeä \"Matilda\". Matildalla on aika isot saappaat täytettävänä, sillä aikaisempi \"Sangeus meus, mama!\" -albumi keräsi huomiota muun muassa Emma gaalaa myöten. Uusi albumi saadaan kuunteluun pian joten kauan ei tarvitse enää odotella ja livenä uusia kappaleita päästään kuuntelemaan vanhempien veisujen ohella toivottavasti kesällä!",
+		"descr_en": "Pekko Käppi & KHHL is releasing a new album this spring called “Matilda\". Matilda has quite big boots to fill for the previous album “Sangeus meus, mama!\" gathered attention far and vide, for example in the Finnish music awards Emma gala. We’ll hear the new album soon enough though so we don’t have to wait for long now. Plus we’ll hopefully get to hear the new tunes among with the older ones live in the summer!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-06-30T22:00:00+02:00",
+				"timeEnd": "2017-06-30T23:00:00+02:00"
+			}
+		],
+		"img": "img/band/pekko-kappi-and-khhl.jpeg",
+		"link_spotify": "spotify:artist:6FPtqOY03KO7k9bcClZC5q",
+		"link_band": "https://www.facebook.com/KAPPIPEKKO",
+		"starred": false
+	},
+	{
+		"id": "alabama-kush",
+		"title_fi": "Alabama Kush",
+		"title_en": "Alabama Kush",
+		"descr_fi": "Alabama Kushin avaruus-stoner-intstrumentaali siirtää niin vuoria kuin valtameriäkin. Raskasta vääntöä jossa biisien kestot pyörivät siina 10-30 minuutin haitarissa. Vaikutteina mainittakoon mm. Morgion ja Boris, joten raskaammalla puolella pyöritään.",
+		"descr_en": "Alabama Kush moves both mountains and oceans with their space-stoner-instrumental music. Song lengths are around 10-30 minutes and include heavy tunes all the way. They take their influences from for example Morgion and Boris.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T13:00:00+02:00",
+				"timeEnd": "2017-07-01T14:00:00+02:00"
+			}
+		],
+		"img": "img/band/alabama-kush.png",
+		"link_band": "https://www.facebook.com/AlabamaKushBand",
+		"starred": false
+	},
+	{
+		"id": "paara",
+		"title_fi": "Paara",
+		"title_en": "Paara",
+		"descr_fi": "Kotimaiseen black metaliin uutta verta tuo helsinkiläinen Paara. Suomenkielistä black metalia viskova Paara on vasta julkaisut ensimmäisen levynsä ja yhtye nauhoittaa seuraavan levynsä osuuksia paraikaa. Julkaisu on kaavailtu keväälle 2017. Ensimmäisellä albumilla vierailijoita olikin aika nippu niin Swallow The Sunista, Moonsorrowista, Shape Of Despairista, kuin myös Katatoniasta.",
+		"descr_en": "Paara from Helsinki brings some new blood to the Finnish black metal scene. Performing with their native tongue, Paara has only released their first album and are just recording their second one. They’ve planned to release the album in the spring 2017. On their first album, they had visitors from Swallow The Sun, Moonsorrow, Shape Of Despair as well as from Katatonia.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T15:00:00+02:00",
+				"timeEnd": "2017-07-01T16:00:00+02:00"
+			}
+		],
+		"img": "img/band/paara.jpeg",
+		"link_spotify": "spotify:artist:03ohfNo0AGtEhLDi51ddcQ",
+		"link_band": "https://www.facebook.com/paaranmaa",
+		"starred": false
+	},
+	{
+		"id": "throes-of-dawn",
+		"title_fi": "Throes Of Dawn",
+		"title_en": "Throes Of Dawn",
+		"descr_fi": "Vuonna 1994perustettu black metal -yhtye Throes Of Dawn on matkalla näihin päiviin kokenut totaalisen muutoksen. Black Metalista progressiiviseen dark metaliin on yllättävän pitkä matka vain vaivaisella kuudella albumilla. Jo vuonna 2010 julkaistu \"The Great Fleet Of Echoes \" oli veret seisauttava progressiivinen pläjäys eikä uusin, viime vuonna vuonna julkaistu \"Our Voices Shall Remain \" päästä yhtään vähemmällä. Päinvastoin...",
+		"descr_en": "Black metal band Throes of Dawn, formed in 1994, has been through quite a massive change on the journey to this day. The change from black metal to progressive dark metal is surprisingly long. Even though the distance is only six albums long. \"The Great Fleet Of Echoes\", that was released in 2010, was a blood chilling progressive explosion and the last year’s release \"Our Voices Shall Remain \" won’t go any easier on you. Quite the opposite…",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T17:00:00+02:00",
+				"timeEnd": "2017-07-01T18:00:00+02:00"
+			}
+		],
+		"img": "img/band/throes-of-dawn.jpeg",
+		"link_spotify": "spotify:artist:0nsDDShJT4YhjIVGcJ3jJa",
+		"link_band": "https://www.facebook.com/throesofdawn",
+		"starred": false
+	},
+	{
+		"id": "sleep-of-monsters ",
+		"title_fi": "Sleep Of Monsters",
+		"title_en": "Sleep Of Monsters",
+		"descr_fi": "Sleep Of Monsters tai tuttavallisemmin SOM, on julkaissut urallaan kaksi LP:tä mutta bändin ympärillä on kohistu alusta asti. Eikä ihme. Onhan yhtyeen nokkamiehen Ike Vilin biisinkirjoituskynä edelleen terävä ja asiansa osaava, oppirahansa moneen kertaan maksanut jäsenistö esittää niin monipuolista ja polvelilevaa rokkenrollia, että alta pois.",
+		"descr_en": "Sleep Of Monsters, SOM between friends, has released two LPs in their career. Still they’ve raised positive buzz around them since the beginning and that is no wonder. Their leading man, Ike Vil’s songwriting pen is still as sharp and on point as ever and they play diverse and meandering rock’n’roll that’ll sweep you off your feet.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T19:00:00+02:00",
+				"timeEnd": "2017-07-01T20:00:00+02:00"
+			}
+		],
+		"img": "img/band/sleep-of-monsters.jpeg",
+		"link_spotify": "spotify:artist:6U2jcW4AQHZTf5LTvh5s5e",
+		"link_band": "https://www.facebook.com/sleepofmonsters",
+		"starred": false
+	},
+	{
+		"id": "mind-riot",
+		"title_fi": "Mind Riot",
+		"title_en": "Mind Riot",
+		"descr_fi": "Mind Riot oli eräs 90-luvun Suomi-metallin pioneereista ja kummajaisista seikkaillessaan tyylillisesti jossakin death metallin ja alternative rockin välimaastossa. Parin lupaavan albumijulkaisun jälkeen bändin into kuitenkin hiipui ja keulamies Tuomo Saikkonen aloitti pitkän polkunsa Mokoman kitaristina. 20 vuoden hiljaiselon jälkeen Mind Riot on päättänyt äänittää muutaman pöytälaatikossa kummittelevan kappaleen ja tehdä jokusen keikankin.",
+		"descr_en": "Mind Riot was one of the pioneers of Finnish metal in the 90's, hovering somewhere in between death metal and alternative rock. After a few promising releases life happened and front man Tuomo Saikkonen started his long year journey as the guitar player of one of the biggest names in Finnish metal, Mokoma. After a 20 year hiatus, Mind Riot is back together with a few unreleased songs put out and a few shows to play.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T21:00:00+02:00",
+				"timeEnd": "2017-07-01T22:00:00+02:00"
+			}
+		],
+		"img": "img/band/mind-riot.jpeg",
+		"link_spotify": "spotify:artist:1TfGMeYSHRoSmgkNqhPdRw",
+		"link_band": "https://www.facebook.com/sleepofmonsters",
+		"starred": false
+	},
+	{
+		"id": "fear-of-domination",
+		"title_fi": "Fear Of Domination",
+		"title_en": "Fear Of Domination",
+		"descr_fi": "Konetta ja metallia yhdistelevä FOD on vähintäänkin Turmion Kätilöiden ilkikurinen pikkuveli. Tiukkoja riffejä, tanakkaa rumpalointia ja tykkejä biisejä viljelevä FOD on julkaissut lyhyen uransa aikana jo neljä studioalbumia eikä meno näytä laantuvan. Kotimaata ja ulkomaita kiertänyt yhtye esiintyy ensimmäistä kertaa Tuskassa.",
+		"descr_en": "Combining machines and metal in their sound, FOD is at least mischievous little brother of Turmion Kätilöt. FOD has already released four studio albums in their short career and they show no signs of slowing down. They’ve already toured all around Finland and abroad and now they’ll perform for the first time at Tuska.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-01T23:00:00+02:00",
+				"timeEnd": "2017-07-01T24:00:00+02:00"
+			}
+		],
+		"img": "img/band/fear-of-domination.jpeg",
+		"link_spotify": "spotify:artist:4KmUqzBGTHWlO46RpvMBUq",
+		"link_band": "https://www.facebook.com/FearOfDomination",
+		"starred": false
+	},
+	{
+		"id": "demonztrator",
+		"title_fi": "Demonztrator",
+		"title_en": "Demonztrator",
+		"descr_fi": "Pääkaupunkiseudulta ponnistava thrash metal yhtye Demonztrator tekee huikean aikahypyn vuonna 2017 julkaisemalla levyllisen enemmän tai vähemmän unohdettuja suomalaisia thrash metal biisejä. Mukana on kappaleita bändeiltä: Airdash, Brainwash, Charged, Defection, Dementia, Dirty Damage, Faff-Bey, Mengele, National Napalm Syndicate, Oppression, Protected Illusion, Terrific Verdict ja The Hirvi. Suurin osa alkuperäisistä äänitteistä ovat demo-tason julkaisuja, mutta mukaan mahtuu myös jokunen virallisesti albumeilla julkaistu tuotos. Demonztrator Tuskassa 2017 tulee olemaan ainutkertainen tapahtuma jossa vanhat thrash-kappaleet heräävät jälleen eloon yleisön edessä. Osa näistä melkein kolmenkymmenen vuoden hiljaiselon jälkeen. Jos jätät tämän väliin tulet katumaan sitä ikuisesti...",
+		"descr_en": "Demonztrator, a new thrash metal time machine from Finland will take a giant quantum leap in 2017 by releasing some forgotten Finnish thrash metal jewels. The forthcoming album will contain covers of obscure tracks from such artists as: Airdash, Brainwash, Charged, Defection, Dementia, Dirty Damage, Faff-Bey, Mengele, National Napalm Syndicate, Oppression, Protected Illusion, Terrific Verdict and The Hirvi. Most of the original tracks have only been released as demos, however some of the tracks have been included on proper album releases. The band will take the stage at Tuska 2017 and make it one unique event where these old thrash tunes will come alive once again. These tunes where written almost thirty years ago and this is now your chance to witness them live again. Miss this and regret it forever...",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-01T14:00:00+02:00",
+				"timeEnd": "2017-07-01T15:00:00+02:00"
+			}
+		],
+		"img": "img/band/demonztrator.jpeg",
+		"starred": false
+	},
+	{
+		"id": "avatarium",
+		"title_fi": "Avatarium",
+		"title_en": "Avatarium",
+		"descr_fi": "Ruotsalainen, juurevan väkevästi rokkaava Avatarium on tuoreehko ryhmä, jonka jäsenistön taustasta löytyy sellaisia yhtyeitä kuten Candlemass, Evergrey ja Tiamat, joten osaamista ja kokemusta löytyy enemmän kuin pienestä pitäjästä. Tsekkaapa bändin viimeisin “The Girl With The Raven Mask\" -albumi – kyllä se jyrää! Ja uuttakin pukkaa kohta!",
+		"descr_en": "Sweden’s Avatarium may be a fresh new name but the band members have certainly been around the block. If names like Candlemass, Evergrey and Tiamat ring a bell, you definitely want to check out this hard grooving machine. Check their current album “The Girl With The Raven Mask\" for proof!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-01T16:00:00+02:00",
+				"timeEnd": "2017-07-01T17:00:00+02:00"
+			}
+		],
+		"img": "img/band/avatarium.jpeg",
+		"link_spotify": "spotify:artist:42W5ONRbOs5vXUbedSWJQlA",
+		"link_band": "http://www.facebook.com/avatariumofficial",
+		"starred": false
+	},
+	{
+		"id": "lost-society",
+		"title_fi": "Lost Society",
+		"title_en": "Lost Society",
+		"descr_fi": "\"Braindead\" metallia soittava Jyväskyläläinen Lost Society louhii Suvilahdessa kesällä! Tämän energisen bändin keikalla moshataan varmasti niskat kipeäksi ja pittaillaan armotta.",
+		"descr_en": "\"Braindead\" metal band Lost Society from Jyväskylä is gonna tear the ground open in Suvilahti this summer! At the gig of this energetic band you’ll probably mosh till your neck aches and moshpit with no mercy.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-01T18:00:00+02:00",
+				"timeEnd": "2017-07-01T19:00:00+02:00"
+			}
+		],
+		"img": "img/band/lost-society.jpeg",
+		"link_spotify": "spotify:artist:5Vy1NbrZXTMTAGFa4Im6hN",
+		"link_band": "https://www.facebook.com/lostsocietyfinland/",
+		"starred": false
+	},
+	{
+		"id": "impaled-nazarene ",
+		"title_fi": "Impaled Nazarene",
+		"title_en": "Impaled Nazarene",
+		"descr_fi": "\"Suomalainen bläkkisjyrä Impaled Nazarene heräilee kryptastaan synkentämään Tuskaista kesäpäivää. Yhtyeeltä on tullut viimeksi vuonna 2014 uusi albumi, josko pian saataisiin taas jotain uutta kuunneltavaa? Vaikkei, synkkä ja vihainen show lienee taattu!",
+		"descr_en": "\"Finnish black metal bulldozer Impaled Nazarene awakens from their crypt to gloom the summery days of Tuska. They released their latest album in 2014, hopefully we’ll get something new to listen someday soon in the future? Even if we don’t, gloomy and “in your face\" show is on the way!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-01T20:00:00+02:00",
+				"timeEnd": "2017-07-01T21:00:00+02:00"
+			}
+		],
+		"img": "img/band/impaled-nazarene.jpeg",
+		"link_spotify": "spotify:artist:5Vy1NbrZXTMTAGFa4Im6hN",
+		"link_band": "https://www.facebook.com/ImpaledNazareneOfficial/",
+		"starred": false
+	},
+	{
+		"id": "electric-wizard",
+		"title_fi": "Electric Wizard",
+		"title_en": "Electric Wizard",
+		"descr_fi": "\"Jus Obornin luotsaama, englantilainen, synkällä puolella operoiva doom-jyrä Electric Wizard tulee pimentämään päivää Suvilahteen ensi kesänä. Yli kaksikymmentä vuotta toimineella bändillä on uusi levy työn alla, josta toivottavasti tullaan kuulemaan maistiaisia. Klassikoita tokikaan unohtamatta.",
+		"descr_en": "\"British doomsters Electric Wizard, led by Jus Osborn, will make sure the skies are overcast as they return to Tuska after several years of absence.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-01T22:00:00+02:00",
+				"timeEnd": "2017-07-01T23:00:00+02:00"
+			}
+		],
+		"img": "img/band/electric-wizard.jpeg",
+		"link_spotify": "spotify:artist:4htjQW3lgIwL6fEJlTOez4",
+		"link_band": "https://www.facebook.com/electricwizarddorsetdoom",
+		"starred": false
+	},
+	{
+		"id": "soilwork",
+		"title_fi": "Soilwork",
+		"title_en": "Soilwork",
+		"descr_fi": "\"Göteborgin metalliympyröiden muovaaja Soilwork julkaisi viime vuoden elokuussa kokoelma-albumin nimeltä \"Death Resonance\", vaikka aikaisemman \"The Ride Majestic\" -albumin julkaisemisesta ei ollut vuottakaan. Death Resonance -albumi sisälsi Aasiassa julkaistujen bonuskappaleiden lisäksi muutaman uuden kappaleen. Nämä Ruotsalaiset melodeath-ukkelit soittivat Suomessa viimeksi helmikuussa, mutta ilo heitä on kuunnella myös kesällä!",
+		"descr_en": "\"Soilwork released their latest work, a compilation album \"Death Resonance\" in August last year, even though “The Ride Majestic\" had been out for less than a year. Death Resonance contains bonus songs that had been released in Asia before, but among them there were also couple of new songs. These Swedish melodeath dudes were in Finland last time in February, but we’re glad that they’re gonna play for our joy in the summer as well!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-01T15:00:00+02:00",
+				"timeEnd": "2017-07-01T16:00:00+02:00"
+			}
+		],
+		"img": "img/band/soilwork.jpeg",
+		"link_spotify": "spotify:artist:7wqP36o9lqWteOCxBnXlwx",
+		"link_band": "https://www.facebook.com/soilwork",
+		"starred": false
+	},
+	{
+		"id": "triptykon",
+		"title_fi": "Triptykon",
+		"title_en": "Triptykon",
+		"descr_fi": "\"Entisen Celtic Frost -vokalisti Thomas Gabriel Fischerin, eli Tom Gabriel Warriorin, luotsaama Triptykon on julkaissut viimeisimmän \"Melana Chasmata\" -levynsä vuonna 2014. Olisi hienoa saada sveitsiläisiltä uuden levyllisen verran lisää synkkää tunnelmointia ja kuulemma uusi levy onkin tekeillä.",
+		"descr_en": "\"The Church Of Darkness is here. Founded by the former Celtic Frost frontman Thomas Gabriel Fischer, a.k.a. Tom Gabriel Warrior, Triptykon is writing new music. That’s some good news right there. You know it’s going to be as heavy as they come.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+	      "timeBeg": "2017-07-01T17:00:00+02:00",
+				"timeEnd": "2017-07-01T18:00:00+02:00"
+			}
+		],
+		"img": "img/band/triptykon.jpeg",
+		"link_spotify": "spotify:artist:37fG1EQuwb6zBHyFYUGfj8",
+		"link_band": "https://www.facebook.com/triptykonofficial",
+		"starred": false
+	},
+	{
+		"id": "mokoma",
+		"title_fi": "Mokoma",
+		"title_en": "Mokoma",
+		"descr_fi": "\"Mokoman viimeisin julkaisu on viime vuonna julkaistu \"Laulurovio\"-akustinen albumi, joka esitteli karjalaistykittelijät ja heidän tuotantonsa herkässä ja hienossa valossa. Tuskassa ei akkareita raavita vaan säröpedaalissa palaa valo koko keikan.",
+		"descr_en": "\"Mokoma are among Finland’s finest and most successful metal acts. More than 20 years deep, they have something very Finnish about their sound and the way they carry themselves. Humble but leave no margin for questioning – they’re in it to win it.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-01T19:00:00+02:00",
+				"timeEnd": "2017-07-01T20:00:00+02:00"
+			}
+		],
+		"img": "img/band/mokoma.jpeg",
+		"link_spotify": "spotify:artist:2LBteY4vnSD2zKwAgzOijB",
+		"link_band": "https://www.facebook.com/mokomamusic/",
+		"starred": false
+	},
+	{
+		"id": "timo-rautiainen-and-trio-niskalaukaus ",
+		"title_fi": "Timo Rautiainen & Trio Niskalaukaus",
+		"title_en": "Timo Rautiainen & Trio Niskalaukaus",
+		"descr_fi": "\"Trio Niskalaukaus on palannut! Ja juuri parahiksi Tuskan juhlavuodelle. Soittaisikohan Raut(i)aisen lujalla otteella esiintyvä yhtye muutaman klassikkokappaleen paluun kunniaksi festareilla? Niskalaukaus oli aktiiviaikanaan Tuskan vakiovieras. Alkuperäisen Tuska-vision mukaan Timon miehineen tuli soittaa jokaisessa Tuskassa. Ja näinhän lähes tulkoon tapahtuikin. Onkin siis oikeus ja kohtuus, että yksi paluukeikoista osuu myös Tuskan lavalle.",
+		"descr_en": "The term \" legendary \" is being thrown around way too easliy these days but here it's more than appropriate. Legendary Trio Niskalaukaus is back! And just in time for the 20th celebration of Tuska. Perhaps they’ll play some of their old classics at the festival as a celebration? According to the original Tuska vision, Timo Rautiainen & Trio Niskalaukaus were to play every Tuska. And they nearly did during their existence. Now they're back and rightly on Tuska stage.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-01T20:00:00+02:00",
+				"timeEnd": "2017-07-01T21:00:00+02:00"
+			}
+		],
+		"img": "img/band/timo-rautiainen-and-trio-niskalaukaus.jpeg",
+		"link_spotify": "spotify:artist:6sJ8TvVdY3NLFxtG4TESzC",
+		"link_band": "http://https//www.facebook.com/niskalaukaus",
+		"starred": false
+	},
+	{
+		"id": "amorphis",
+		"title_fi": "Amorphis",
+		"title_en": "Amorphis",
+		"descr_fi": "\"Kuten monet hienot juomat, Amorphis vain paranee vanhetessaan. \"Under The Red Cloud\"-albumi on taattua, täyteläistä Amorphista koko rahalla. Harvan bändin ura on nousukiidossa vielä yli kahdenkymmenviiden vuoden jälkeen, mutta Amorphiksen kohdalla se on kiistämätön tosiasia.",
+		"descr_en": "\"Like fine beverages, Amorphis only gets better with age. \"Under The Red Cloud\" album is guaranteed, rich-flavored Amorphis to the core. Not many bands can say that their career is still on a ascending curve after 25 years, but Amorphis can.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-01T21:00:00+02:00",
+				"timeEnd": "2017-07-01T22:00:00+02:00"
+			}
+		],
+		"img": "img/band/amorphis.jpeg",
+		"link_spotify": "spotify:artist:2UOVgpgiNTC6KK0vSC77aD",
+		"link_band": "https://www.facebook.com/amorphis/",
+		"starred": false
+	},
+	{
+		"id": "him",
+		"title_fi": "Him",
+		"title_en": "Him",
+		"descr_fi": "\"Ville Valon luotsaama HIM on tehnyt jättiläismäisen uran kaikilla mittapuilla ja yhtyeen hitit, nimi ja estetiikka ovat tunnettuja ympäri maailman. Onkin myös kaikilla mittapuilla erikoista, ettei HIM ole esiintynyt Tuskassa aiemmin, ovathan bändin ja Tuskan elinkaaret hyvin samansuuntaiset ja samaan aikaan alkaneet. Tuska-keikka on ollut paperilla useina vuosina ja kesällä 2017 asia onneksi korjaantuu. Sopivampaa pääesiintyjää on Tuskan 20-vuotiskinkereille mahdoton keksiä!",
+		"descr_en": "\"Finland’s music export number 1 has made their love-branded metal a household name all around the world. No matter where ever you go, every one knows the hit songs, recognizes the name and the aesthetics. HIM is gothic metal embodied. Since both HIM and Tuska got their start around the same time and in the same scene, it’s a small wonder that HIM hasn’t played Tuska before. 2017 will be the year when the wrong will be righted. We can’t think of a more appropriate headliner for Tuska’s 20th anniversary bash.",
+		"type": "band",
+		"schedule": [
+			{
 
-    {"id":"anthrax","title_fi":"ANTHRAX","title_en":"ANTHRAX","date":"2.7.2016","descr_fi":"Kiistatta yksi kovimmista, thrashin parhaaseen A-ryhmään lukeutuva Anthrax on kiinnitetty ensi kesän ohjelmistoa lujittamaan. Bändi on vastuussa kaikkien aikojen legendaarisimmista thrash-hymneistä, kuten \"Caught In A Mosh”, “I Am The Law” and “Be All, End All” vain pari esimerkkiä mainitakseni.","descr_en":"There can never be enough thrash metal in the line-up and the legendary Anthrax is here to up the intake. One of the Big Four, Anthrax has produced some of the most memorable thrash anthems to date, such as “Caught In A Mosh”, “I Am The Law” and “Be All, End All” to name a few.","link_spotify":"spotify:artist:3JysSUOyfVs1UQ0UaESheP","link_band":"http://m.facebook.com/anthrax","type":"band","schedule":[{"timeEnd":"2016-07-02T19:25:00+02:00","stage":"main","timeBeg":"2016-07-02T18:20:00+02:00"}],"key":{"id":"anthrax","title_fi":"ANTHRAX","title_en":"ANTHRAX","date":"2.7.2016","descr_fi":"Kiistatta yksi kovimmista, thrashin parhaaseen A-ryhmään lukeutuva Anthrax on kiinnitetty ensi kesän ohjelmistoa lujittamaan. Bändi on vastuussa kaikkien aikojen legendaarisimmista thrash-hymneistä, kuten \"Caught In A Mosh”, “I Am The Law” and “Be All, End All” vain pari esimerkkiä mainitakseni.","descr_en":"There can never be enough thrash metal in the line-up and the legendary Anthrax is here to up the intake. One of the Big Four, Anthrax has produced some of the most memorable thrash anthems to date, such as “Caught In A Mosh”, “I Am The Law” and “Be All, End All” to name a few.","link_spotify":"spotify:artist:3JysSUOyfVs1UQ0UaESheP","link_band":"http://m.facebook.com/anthrax","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T17:20:00.000Z","timeEndShift":"2016-07-02T18:25:00.000Z"}]},"img":"img/band/anthrax.jpg","starred":true},{"id":"avantasia","title_fi":"AVANTASIA","title_en":"AVANTASIA","date":"1.7.2016","descr_fi":"Avantasia on yksi aikamme merkittävimmistä rock-oopperoista ja yhtye tunnetaan sen primus motor Tobias Sammetista. Edguy-solistinakin tunnettu laulaja-säveltäjä on onnistunut luomaan Avantasiasta monipuolisen metallikollektiivin, jonka musiikki nojaa sinfonisen ja power-metalin raaka-aineisiin. Herra Sammetin rinnalla Avantasia-vokaaliosuuksia on kuultu mm. Michael Kisken, Jorn Landen, Marco Hietalan sekä Dee Sniderin tulkitsemina. Yhtyeen tuorein julkaisu on vuoden 2016 ”Ghostlights”.","descr_en":"Avantasia is one of the most significant rock operas of our time. Avantasia’s primus motor Tobias Sammet, also known from power metal giants Edguy, has created a multifaceted metal collective pushing the boundaries of symphonic and melodic metal. Avantasia’s vocal parts have been delivered by such metal greats as Michael Kiske, Jorn Lande, Marco Hietala and Dee Snider. The band’s seventh album, “Ghostlights”, will be released in January 2016.","link_spotify":"spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa","link_band":"http://m.facebook.com/avantasia","type":"band","schedule":[{"timeEnd":"2016-07-01T22:00:00+02:00","stage":"main","timeBeg":"2016-07-01T20:00:00+02:00"}],"key":{"id":"avantasia","title_fi":"AVANTASIA","title_en":"AVANTASIA","date":"1.7.2016","descr_fi":"Avantasia on yksi aikamme merkittävimmistä rock-oopperoista ja yhtye tunnetaan sen primus motor Tobias Sammetista. Edguy-solistinakin tunnettu laulaja-säveltäjä on onnistunut luomaan Avantasiasta monipuolisen metallikollektiivin, jonka musiikki nojaa sinfonisen ja power-metalin raaka-aineisiin. Herra Sammetin rinnalla Avantasia-vokaaliosuuksia on kuultu mm. Michael Kisken, Jorn Landen, Marco Hietalan sekä Dee Sniderin tulkitsemina. Yhtyeen tuorein julkaisu on vuoden 2016 ”Ghostlights”.","descr_en":"Avantasia is one of the most significant rock operas of our time. Avantasia’s primus motor Tobias Sammet, also known from power metal giants Edguy, has created a multifaceted metal collective pushing the boundaries of symphonic and melodic metal. Avantasia’s vocal parts have been delivered by such metal greats as Michael Kiske, Jorn Lande, Marco Hietala and Dee Snider. The band’s seventh album, “Ghostlights”, will be released in January 2016.","link_spotify":"spotify:artist:1Ih0fEQQsy9EeAJbYEeQRa","link_band":"http://m.facebook.com/avantasia","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-01T19:00:00.000Z","timeEndShift":"2016-07-01T21:00:00.000Z"}]},"img":"img/band/avantasia.jpg","starred":true},{"id":"beast_in_black","title_fi":"BEAST IN BLACK","title_en":"BEAST IN BLACK","date":"1.7.2016","descr_fi":"Uutta suoleen kun vanha kuolee. Kabasella ei kauaa nokka tuhissut kun pistettiin uutta projektia tulille, ja hyvä niin. Mies on haastatteluissa kertonut että heavy metal on edelleen homman nimi, mutta kunnianhimoa on tullut lisää. Ensimmäinen pitkäsoitto on pumpulla työn alla, epäilemättä tuoretta materiaalia tullaan kuulemaan Suvilahdessa.","descr_en":"Anton Kabanen parted ways Battle Beast in not the best terms, but he has quickly regained his strength and on his feet again. From the ruins rises Beast in Black and it sets to deliver a great amount of undisputed heavy metal. The band is also working on their first full lenght album, so there definitely will be some fresh tunes to be played at Suvilahti this year!","link_band":"http://m.facebook.com/beastinblackofficial/","type":"band","schedule":[{"timeEnd":"2016-07-01T19:45:00+02:00","stage":"club","timeBeg":"2016-07-01T19:00:00+02:00"}],"key":{"id":"beast_in_black","title_fi":"BEAST IN BLACK","title_en":"BEAST IN BLACK","date":"1.7.2016","descr_fi":"Uutta suoleen kun vanha kuolee. Kabasella ei kauaa nokka tuhissut kun pistettiin uutta projektia tulille, ja hyvä niin. Mies on haastatteluissa kertonut että heavy metal on edelleen homman nimi, mutta kunnianhimoa on tullut lisää. Ensimmäinen pitkäsoitto on pumpulla työn alla, epäilemättä tuoretta materiaalia tullaan kuulemaan Suvilahdessa.","descr_en":"Anton Kabanen parted ways Battle Beast in not the best terms, but he has quickly regained his strength and on his feet again. From the ruins rises Beast in Black and it sets to deliver a great amount of undisputed heavy metal. The band is also working on their first full lenght album, so there definitely will be some fresh tunes to be played at Suvilahti this year!","link_band":"http://m.facebook.com/beastinblackofficial/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T18:00:00.000Z","timeEndShift":"2016-07-01T18:45:00.000Z"}]},"img":"img/band/beast_in_black.jpg","starred":false},{"id":"behemoth","title_fi":"BEHEMOTH","title_en":"BEHEMOTH","date":"1.7.2016","descr_fi":"BEHEMOTH on ollut mukana kuviossa black metal -skenen auringonnoususta alkaen. Bändi on vuosien varrella tykitellyt 10. studioalbumia Nergalin johtamana ja on totutun verevässä iskussa edelleen. TUSKASSA bändi soittaa viimeisimmän levynsä teemakeikan. Mikäs sen parempaa, onhan vuonna 2014 julkaistu ”The Satanist” -lätyn soundimaailma on monipuolisinta Behemothia miesmuistiin.  ","descr_en":"Polish black metal ensemble Behemoth was formed nearly 25 years ago. The band took its first breath anno 1991 ja has ever since released ten studio albums still being on top of their game. Band is led by front man Nergal whose metaphors are strongly present on the band’s latest album. ”The Satanist”, released in 2014, is diverse in its soundscape which TUSKA 2016 audience is able to witness live. Behemoth will bring ”The Satanist” theme show to Helsinki next summer. ","link_spotify":"spotify:artist:1MK0sGeyTNkbefYGj673e9","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/behemoth","type":"band","schedule":[{"timeEnd":"2016-07-01T19:55:00+02:00","stage":"second","timeBeg":"2016-07-01T18:55:00+02:00"}],"key":{"id":"behemoth","title_fi":"BEHEMOTH","title_en":"BEHEMOTH","date":"1.7.2016","descr_fi":"BEHEMOTH on ollut mukana kuviossa black metal -skenen auringonnoususta alkaen. Bändi on vuosien varrella tykitellyt 10. studioalbumia Nergalin johtamana ja on totutun verevässä iskussa edelleen. TUSKASSA bändi soittaa viimeisimmän levynsä teemakeikan. Mikäs sen parempaa, onhan vuonna 2014 julkaistu ”The Satanist” -lätyn soundimaailma on monipuolisinta Behemothia miesmuistiin.  ","descr_en":"Polish black metal ensemble Behemoth was formed nearly 25 years ago. The band took its first breath anno 1991 ja has ever since released ten studio albums still being on top of their game. Band is led by front man Nergal whose metaphors are strongly present on the band’s latest album. ”The Satanist”, released in 2014, is diverse in its soundscape which TUSKA 2016 audience is able to witness live. Behemoth will bring ”The Satanist” theme show to Helsinki next summer. ","link_spotify":"spotify:artist:1MK0sGeyTNkbefYGj673e9","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/behemoth","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-01T17:55:00.000Z","timeEndShift":"2016-07-01T18:55:00.000Z"}]},"img":"img/band/behemoth.jpg","starred":false},{"id":"bendover","title_fi":"BENDOVER","title_en":"BENDOVER","date":"1.7.2016","descr_fi":"Bendoverista voisi käyttää termiä \"super group\". Pumpussa on melkoisen kokeneita veistelijöitä, nimittäin paljujen takaa löytyy Gas Lipstick (ex-HIM, To Separate Flesh From The Bones, Dementia, Ääritila mm.), nelikielistä ja äänihuulia kurittaa Ali Suviala (Corporal Punishment, Brainwash) ja pirunviulua renkuttaa Janne Metsola (Bury Me Deep). Bändi on sieltä raskaammasta päästä, ainakin jos yhtyeen jäsenten yhteispainoa on katsominen (minimi 350kg). Musa ei ole poikkeus tähän.","descr_en":"One could argue that Bendover is a super group. Well, it certainly has some very seasoned musicians in it. Gas Lipstick (ex-HIM, To Separate Flesh From The Bones, Dementia, Ääritila) handles the drums, in bass/vocals they have Ali Suviala (Corporal Punishment, Brainwash) and guitars are handled by Janne Metsola (Bury Me Deep). The band is on the heavy side, both physically and musically as they inform that the minimum wieight of their trio is 350kg.","link_spotify":"spotify:artist:3HrsbJUolZSkE9DuuJ7qGv","link_band":"https://myspace.com/bendoverfinland","type":"band","schedule":[{"timeEnd":"2016-07-01T17:15:00+02:00","stage":"club","timeBeg":"2016-07-01T16:30:00+02:00"}],"key":{"id":"bendover","title_fi":"BENDOVER","title_en":"BENDOVER","date":"1.7.2016","descr_fi":"Bendoverista voisi käyttää termiä \"super group\". Pumpussa on melkoisen kokeneita veistelijöitä, nimittäin paljujen takaa löytyy Gas Lipstick (ex-HIM, To Separate Flesh From The Bones, Dementia, Ääritila mm.), nelikielistä ja äänihuulia kurittaa Ali Suviala (Corporal Punishment, Brainwash) ja pirunviulua renkuttaa Janne Metsola (Bury Me Deep). Bändi on sieltä raskaammasta päästä, ainakin jos yhtyeen jäsenten yhteispainoa on katsominen (minimi 350kg). Musa ei ole poikkeus tähän.","descr_en":"One could argue that Bendover is a super group. Well, it certainly has some very seasoned musicians in it. Gas Lipstick (ex-HIM, To Separate Flesh From The Bones, Dementia, Ääritila) handles the drums, in bass/vocals they have Ali Suviala (Corporal Punishment, Brainwash) and guitars are handled by Janne Metsola (Bury Me Deep). The band is on the heavy side, both physically and musically as they inform that the minimum wieight of their trio is 350kg.","link_spotify":"spotify:artist:3HrsbJUolZSkE9DuuJ7qGv","link_band":"https://myspace.com/bendoverfinland","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T15:30:00.000Z","timeEndShift":"2016-07-01T16:15:00.000Z"}]},"img":"img/band/bendover.jpg","starred":false},{"id":"blaakyum","title_fi":"BLAAKYUM","title_en":"BLAAKYUM","date":"1.7.2016","descr_fi":"No nyt lähtee. Nimittäin hevanderin ja rässin sekasoppaa Libanonista, sattumia samassa sopassa ovat myös groove metal ja lähi-itä-vibat. Yli kaksikymmenvuotias pumppu on marinoitunut monissa liemissä, mm. pokkaamalla kolmossijan Wacken Metal Battlen finaalista viime vuonna. Jos wanha hevi ja räsändeerus natsaa niin tästäpä melkoisen mielenkiintoinen tapaus tarkastettavaksi ihmiselle.","descr_en":"We don’t always book bands from Lebanon. But when we do, it’s Blaakyum from Beirut. Their music combines old school thrash with heavy metal, but also throws in the mix some middle-eastern folk music and groove metal bits. Over twenty year old band is seasoned in many battles, such as reaching third place in Wacken Metal Battle 2015. If your mind is tuned to old school thrash and heavy metal, now is your change to see something interesting.","link_spotify":"spotify:artist:2pddgL1ZW41XCeEQNVvomB","link_band":"http://m.facebook.com/Blaakyum/","type":"band","schedule":[{"timeEnd":"2016-07-01T14:45:00+02:00","stage":"club","timeBeg":"2016-07-01T14:15:00+02:00"}],"key":{"id":"blaakyum","title_fi":"BLAAKYUM","title_en":"BLAAKYUM","date":"1.7.2016","descr_fi":"No nyt lähtee. Nimittäin hevanderin ja rässin sekasoppaa Libanonista, sattumia samassa sopassa ovat myös groove metal ja lähi-itä-vibat. Yli kaksikymmenvuotias pumppu on marinoitunut monissa liemissä, mm. pokkaamalla kolmossijan Wacken Metal Battlen finaalista viime vuonna. Jos wanha hevi ja räsändeerus natsaa niin tästäpä melkoisen mielenkiintoinen tapaus tarkastettavaksi ihmiselle.","descr_en":"We don’t always book bands from Lebanon. But when we do, it’s Blaakyum from Beirut. Their music combines old school thrash with heavy metal, but also throws in the mix some middle-eastern folk music and groove metal bits. Over twenty year old band is seasoned in many battles, such as reaching third place in Wacken Metal Battle 2015. If your mind is tuned to old school thrash and heavy metal, now is your change to see something interesting.","link_spotify":"spotify:artist:2pddgL1ZW41XCeEQNVvomB","link_band":"http://m.facebook.com/Blaakyum/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T13:15:00.000Z","timeEndShift":"2016-07-01T13:45:00.000Z"}]},"img":"img/band/blaakyum.jpg","starred":false},{"id":"block_buster","title_fi":"BLOCK BUSTER","title_en":"BLOCK BUSTER","date":"3.7.2016","descr_fi":"Tuskan On Wheelsistäkin tuttu kuopiolaisrykmentti on ollut ahkerana. Takana on mm. Bon Jovin lämppäyskeikka Olympiastadionilta, ahkeraa Suomen ympäri pusaamista mm. Santa Cruzin kanssa sekä läjä EP:tä. Uusi täyspitkä on porisemassa reeniksellä. Jos hard rock on sun juttu, niin ota koppi tästä!","descr_en":"Block Buster is familiar from the Tuska on Wheels tour, but the guys from Kuopio have been busy otherwise also. The band has been warming Bon Jovi and touring all over Finland with Santa Cruz. They have released a bunch of EP’s and their first full-lengt is brewing in their rehearsal place. If you like hard rock, they’re definitely worth checking out.","link_spotify":"spotify:artist:3S3GkWRebvqlB3IE48vjbi","link_band":"https://m.facebook.com/blockbusterrocks/","type":"band","schedule":[{"timeEnd":"2016-07-03T12:40:00+02:00","stage":"main","timeBeg":"2016-07-03T12:10:00+02:00"}],"key":{"id":"block_buster","title_fi":"BLOCK BUSTER","title_en":"BLOCK BUSTER","date":"3.7.2016","descr_fi":"Tuskan On Wheelsistäkin tuttu kuopiolaisrykmentti on ollut ahkerana. Takana on mm. Bon Jovin lämppäyskeikka Olympiastadionilta, ahkeraa Suomen ympäri pusaamista mm. Santa Cruzin kanssa sekä läjä EP:tä. Uusi täyspitkä on porisemassa reeniksellä. Jos hard rock on sun juttu, niin ota koppi tästä!","descr_en":"Block Buster is familiar from the Tuska on Wheels tour, but the guys from Kuopio have been busy otherwise also. The band has been warming Bon Jovi and touring all over Finland with Santa Cruz. They have released a bunch of EP’s and their first full-lengt is brewing in their rehearsal place. If you like hard rock, they’re definitely worth checking out.","link_spotify":"spotify:artist:3S3GkWRebvqlB3IE48vjbi","link_band":"https://m.facebook.com/blockbusterrocks/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-03T11:10:00.000Z","timeEndShift":"2016-07-03T11:40:00.000Z"}]},"img":"img/band/block_buster.jpg","starred":false},{"id":"brymir","title_fi":"BRYMIR","title_en":"BRYMIR","date":"2.7.2016","descr_fi":"Kovaa tulitusta ja orkestroinnit peesaa taustalla. Se on Brymirin juttu. Ja se on hyvä juttu se! Kiitelty debyytti tuli pihalle 2011, mutta nyt kaduilla liikkuu villejä huhuja että uutta matskua ollaan työstämässä ahkerasti. Tuskan tietotoimisto osaa kertoa että näitä kuullaan kesällä Suvilahdessa.","descr_en":"Extreme metal mixed with majestetic orchestrations. That’s what Brymir is all about. Their debut album Breathe Fire to the Sun was released in 2011 and it was well received. Now the rumors tell that the band has started to work on their second release. There will definitely be new tunes played in Suvilahti!","link_spotify":"spotify:artist:3YDtlBGmfvE2Xw0avhHeK5","link_band":"http://m.facebook.com/Brymir/","type":"band","schedule":[{"timeEnd":"2016-07-02T12:15:00+02:00","stage":"main","timeBeg":"2016-07-02T11:45:00+02:00"}],"key":{"id":"brymir","title_fi":"BRYMIR","title_en":"BRYMIR","date":"2.7.2016","descr_fi":"Kovaa tulitusta ja orkestroinnit peesaa taustalla. Se on Brymirin juttu. Ja se on hyvä juttu se! Kiitelty debyytti tuli pihalle 2011, mutta nyt kaduilla liikkuu villejä huhuja että uutta matskua ollaan työstämässä ahkerasti. Tuskan tietotoimisto osaa kertoa että näitä kuullaan kesällä Suvilahdessa.","descr_en":"Extreme metal mixed with majestetic orchestrations. That’s what Brymir is all about. Their debut album Breathe Fire to the Sun was released in 2011 and it was well received. Now the rumors tell that the band has started to work on their second release. There will definitely be new tunes played in Suvilahti!","link_spotify":"spotify:artist:3YDtlBGmfvE2Xw0avhHeK5","link_band":"http://m.facebook.com/Brymir/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T10:45:00.000Z","timeEndShift":"2016-07-02T11:15:00.000Z"}]},"img":"img/band/brymir.jpg","starred":false},{"id":"cains_offering","title_fi":"CAIN'S OFFERING","title_en":"CAIN'S OFFERING","date":"1.7.2016","descr_fi":"Cain’s Offeringista voi hyvällä omallatunnolla käyttää termiä power metal supergroup. Miehistöä on mm. bändeistä kuten Stratovarius ja Sonata Arctica. Viime vuonna julkaistu Stormcrow-albumi on saanut paljon kiitosta alan medioissa ja fanien keskuudessa ja bändi kävi juuri Japanissa veistelemässä. Pokkasipa synisti Jens japanilaisen Burrn! Magazinen Keyboard Champion -palkinnon reissulta mukaan.","descr_en":"Cain’s Offering is band that you can call a true power metal supergroup. It has members from i.e. Stratovarius and Sonata Arctica. Last year the band released their second album \"Stormcrow\" and it was received very well by both critics and fans. The band just toured in Japan and the keyboard player Jens took Burrn! Magazine’s Keyboard Champion prize home along with him.","link_band":"http://m.facebook.com/cainsoffering/","type":"band","schedule":[{"timeEnd":"2016-07-01T15:50:00+02:00","stage":"second","timeBeg":"2016-07-01T14:50:00+02:00"}],"key":{"id":"cains_offering","title_fi":"CAIN'S OFFERING","title_en":"CAIN'S OFFERING","date":"1.7.2016","descr_fi":"Cain’s Offeringista voi hyvällä omallatunnolla käyttää termiä power metal supergroup. Miehistöä on mm. bändeistä kuten Stratovarius ja Sonata Arctica. Viime vuonna julkaistu Stormcrow-albumi on saanut paljon kiitosta alan medioissa ja fanien keskuudessa ja bändi kävi juuri Japanissa veistelemässä. Pokkasipa synisti Jens japanilaisen Burrn! Magazinen Keyboard Champion -palkinnon reissulta mukaan.","descr_en":"Cain’s Offering is band that you can call a true power metal supergroup. It has members from i.e. Stratovarius and Sonata Arctica. Last year the band released their second album \"Stormcrow\" and it was received very well by both critics and fans. The band just toured in Japan and the keyboard player Jens took Burrn! Magazine’s Keyboard Champion prize home along with him.","link_band":"http://m.facebook.com/cainsoffering/","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-01T13:50:00.000Z","timeEndShift":"2016-07-01T14:50:00.000Z"}]},"img":"img/band/cains_offering.jpg","starred":false},{"id":"cattle_decapitation","title_fi":"CATTLE DECAPITATION","title_en":"CATTLE DECAPITATION","date":"1.7.2016","descr_fi":"San Diegon lämmöstä käsin operoiva Cattle Decapitation on lähes 20-vuotisen uransa aikana julkaissut 6 täyspitkää albumia, soittanut lukemattoman määrän keikkoja ja vakiinnuttanut asemansa death metal -genren äärimmäisen päädyn lipunkantajana. Cattle Decapitationin muusta brutaalista pakasta erottaa kyky lisätä omintakeisia elementtejä muuten täysin armottomaan ruhjomiseen. Vuoden 2012 ”Monolith Of Humanity”-albumilla bändi otti selkeän askeleen melodian pariin, säilyttäen silti äärimmäisen räjähtävän ja väkivaltaisen soundimaailman.","descr_en":"San Diego, California based Cattle Decapitation has been re-writing the rules of death metal throughout their nearly 20 years spanning career. Six full-length albums and a countless number of shows have cemented their status as one of the trailblazers of the genre. What sets them apart from the pack is their ability to add unique and unexpected elements to the otherwise relentless death metal ass kicking. The band’s 2012 effort ”Monolith Of Humanity” saw Cattle Decapitation take a leap towards melodic approach, but without compromising the intensity and brutality they are known for.","link_spotify":"spotify:artist:67ZMMtA88DDO0gTuRrzGjn","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/cattledecapitation","type":"band","schedule":[{"timeEnd":"2016-07-01T12:50:00+02:00","stage":"main","timeBeg":"2016-07-01T12:00:00+02:00"}],"key":{"id":"cattle_decapitation","title_fi":"CATTLE DECAPITATION","title_en":"CATTLE DECAPITATION","date":"1.7.2016","descr_fi":"San Diegon lämmöstä käsin operoiva Cattle Decapitation on lähes 20-vuotisen uransa aikana julkaissut 6 täyspitkää albumia, soittanut lukemattoman määrän keikkoja ja vakiinnuttanut asemansa death metal -genren äärimmäisen päädyn lipunkantajana. Cattle Decapitationin muusta brutaalista pakasta erottaa kyky lisätä omintakeisia elementtejä muuten täysin armottomaan ruhjomiseen. Vuoden 2012 ”Monolith Of Humanity”-albumilla bändi otti selkeän askeleen melodian pariin, säilyttäen silti äärimmäisen räjähtävän ja väkivaltaisen soundimaailman.","descr_en":"San Diego, California based Cattle Decapitation has been re-writing the rules of death metal throughout their nearly 20 years spanning career. Six full-length albums and a countless number of shows have cemented their status as one of the trailblazers of the genre. What sets them apart from the pack is their ability to add unique and unexpected elements to the otherwise relentless death metal ass kicking. The band’s 2012 effort ”Monolith Of Humanity” saw Cattle Decapitation take a leap towards melodic approach, but without compromising the intensity and brutality they are known for.","link_spotify":"spotify:artist:67ZMMtA88DDO0gTuRrzGjn","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/cattledecapitation","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-01T11:00:00.000Z","timeEndShift":"2016-07-01T11:50:00.000Z"}]},"img":"img/band/cattle_decapitation.jpg","starred":false},{"id":"children_of_bodom","title_fi":"CHILDREN OF BODOM","title_en":"CHILDREN OF BODOM","date":"3.7.2016","descr_fi":"Bodomit ei varmaan tarvinne sen suurempia esittelyitä kenellekään. Uusin lätty \"I Worship Chaos\" lyötiin tiskiin viime syksynä ja bändirivistöön on saatu uutta verta kitaran varteen Daniel Freybergin otettua Roope Latvalan jättämä aukko haltuun. Bändi on lupaillut Suvilahteen jotain spessua, joten tavanomaisesta festarivedosta ei tälläkään kertaa ole kyse!","descr_en":"Children of Bodom is a band that needs no further introductions, everybody know what they are all about. Their newest album \"I Worship Chaos\" was released last year and there is also fresh blood in the band since Daniel Freyberg filled the slot that Roope Latvala had left open. The band has promised to deliver something special for you in Suvilahti, so no ordinary festival show is to be expected this time!","link_spotify":"spotify:artist:1xUhNgw4eJDZfvumIpcz1B","link_band":"http://www.cobhc.com","type":"band","schedule":[{"timeEnd":"2016-07-03T19:00:00+02:00","stage":"main","timeBeg":"2016-07-03T17:40:00+02:00"}],"key":{"id":"children_of_bodom","title_fi":"CHILDREN OF BODOM","title_en":"CHILDREN OF BODOM","date":"3.7.2016","descr_fi":"Bodomit ei varmaan tarvinne sen suurempia esittelyitä kenellekään. Uusin lätty \"I Worship Chaos\" lyötiin tiskiin viime syksynä ja bändirivistöön on saatu uutta verta kitaran varteen Daniel Freybergin otettua Roope Latvalan jättämä aukko haltuun. Bändi on lupaillut Suvilahteen jotain spessua, joten tavanomaisesta festarivedosta ei tälläkään kertaa ole kyse!","descr_en":"Children of Bodom is a band that needs no further introductions, everybody know what they are all about. Their newest album \"I Worship Chaos\" was released last year and there is also fresh blood in the band since Daniel Freyberg filled the slot that Roope Latvala had left open. The band has promised to deliver something special for you in Suvilahti, so no ordinary festival show is to be expected this time!","link_spotify":"spotify:artist:1xUhNgw4eJDZfvumIpcz1B","link_band":"http://www.cobhc.com","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-03T16:40:00.000Z","timeEndShift":"2016-07-03T18:00:00.000Z"}]},"img":"img/band/children_of_bodom.jpg","starred":false},{"id":"circle","title_fi":"CIRCLE","title_en":"CIRCLE","date":"2.7.2016","descr_fi":"Jos meinaa Jussi Lehtisalon luotsaamaa Circleä genrettää, niin saattaa havaita että se on aika vaikeahko projekti. Meiningin voisi luonnehtia liikkuvan Krautin, progen, psykedelian ja post-rockin välimaastossa. Yhtyeen katalogi on myös melkoinen, nimittäin viime vuonna julkaistu Pharaoh Overlord on pumpun 31. levy. Kunnioitettava lukema kaikin puolin. Sitä ihteään on sitten Suvilahdessa luvassa!","descr_en":"If one attempts to categorize Circle’s music, one may find that it’s a rather difficult task. The music itself revolves around kraut, progressive, psychedelic and post rock. The band’s back catalogue is quite impressive, the latest release Pharaoh Overlord is their 31th album.","link_band":"http://www.circlefinland.com/","type":"band","schedule":[{"timeEnd":"2016-07-02T13:40:00+02:00","stage":"club","timeBeg":"2016-07-02T12:55:00+02:00"}],"key":{"id":"circle","title_fi":"CIRCLE","title_en":"CIRCLE","date":"2.7.2016","descr_fi":"Jos meinaa Jussi Lehtisalon luotsaamaa Circleä genrettää, niin saattaa havaita että se on aika vaikeahko projekti. Meiningin voisi luonnehtia liikkuvan Krautin, progen, psykedelian ja post-rockin välimaastossa. Yhtyeen katalogi on myös melkoinen, nimittäin viime vuonna julkaistu Pharaoh Overlord on pumpun 31. levy. Kunnioitettava lukema kaikin puolin. Sitä ihteään on sitten Suvilahdessa luvassa!","descr_en":"If one attempts to categorize Circle’s music, one may find that it’s a rather difficult task. The music itself revolves around kraut, progressive, psychedelic and post rock. The band’s back catalogue is quite impressive, the latest release Pharaoh Overlord is their 31th album.","link_band":"http://www.circlefinland.com/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T11:55:00.000Z","timeEndShift":"2016-07-02T12:40:00.000Z"}]},"img":"img/band/circle.jpg","starred":false},{"id":"crimson_sun","title_fi":"CRIMSON SUN","title_en":"CRIMSON SUN","date":"2.7.2016","descr_fi":"Kotkasta ponnistava jämäkällä naisäänellä varustettu Crimson Sun täräytti tiskiin edellisvuonna jämäkän debyytin. Kiekko keräsi kiitosta paljolti alan julkaisuissa ja poiki kelpo läjän keikkoja. Melodista metallia on tarjolla siis kelpo lasti kesällä.","descr_en":"Crimson Sun, hailing from Kotka with a strong female voice released its debut album last year. The album received a great deal of appreciation among metal media and fans and also gained a number of shows for the band. Now they will deliver a good amount of melodic metal in Suvilahti this year!","link_spotify":"spotify:artist:6swg1JhIcRgZCqAHi3MDp9","link_band":"http://crimsonsun.net/","type":"band","schedule":[{"timeEnd":"2016-07-02T14:40:00+02:00","stage":"club","timeBeg":"2016-07-02T14:10:00+02:00"}],"key":{"id":"crimson_sun","title_fi":"CRIMSON SUN","title_en":"CRIMSON SUN","date":"2.7.2016","descr_fi":"Kotkasta ponnistava jämäkällä naisäänellä varustettu Crimson Sun täräytti tiskiin edellisvuonna jämäkän debyytin. Kiekko keräsi kiitosta paljolti alan julkaisuissa ja poiki kelpo läjän keikkoja. Melodista metallia on tarjolla siis kelpo lasti kesällä.","descr_en":"Crimson Sun, hailing from Kotka with a strong female voice released its debut album last year. The album received a great deal of appreciation among metal media and fans and also gained a number of shows for the band. Now they will deliver a good amount of melodic metal in Suvilahti this year!","link_spotify":"spotify:artist:6swg1JhIcRgZCqAHi3MDp9","link_band":"http://crimsonsun.net/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T13:10:00.000Z","timeEndShift":"2016-07-02T13:40:00.000Z"}]},"img":"img/band/crimson_sun.jpg","starred":false},{"id":"delain","title_fi":"DELAIN","title_en":"DELAIN","date":"1.7.2016","descr_fi":"Melodisen metallin ystäville tarjoillaan Suomessa ennen kokematonta ekstaasia, kun hollantilainen Delain saapuu Suvilahteen näyttämään miten hommat hoidetaan länsi-eurooppalaiseen malliin. Laulaja Charlotte Wesselsin johdolla, bändi on viimeisen vuosikymmenen aikana ennättänyt purkittaa neljä albumia, joita yhdistävä tekijä on ollut vierailevien muusikoiden läsnäolo. Melometallin suuruuksia Sharon Den Adelesta Marco Hietalaan voi kuulla Delain-levyillä ja yhtyeen seuraava studiolätty on kaavailtu ilmestyväksi vuonna 2016.","descr_en":"Dutch symphonic rockers Delain have been releasing and performing their signature catchy melodic metal sound worldwide for nearly a decade now. So far, the band has released four studio albums and one of the signature trades on the band’s records has been the presence of guest musicians including the titans of the scene such as Sharon Den Adel (Within Temptation), Marco Hietala (Nightwish), Alissa White-Gluz (Arch Enemy) and Burton C. Bell (Fear Factry). Fifth Delain album is planned to be released in 2016.  ","link_spotify":"spotify:artist:6pIRdCtSE5hLFfIfcTAicI","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/delainmusic","type":"band","schedule":[{"timeEnd":"2016-07-01T13:40:00+02:00","stage":"second","timeBeg":"2016-07-01T12:55:00+02:00"}],"key":{"id":"delain","title_fi":"DELAIN","title_en":"DELAIN","date":"1.7.2016","descr_fi":"Melodisen metallin ystäville tarjoillaan Suomessa ennen kokematonta ekstaasia, kun hollantilainen Delain saapuu Suvilahteen näyttämään miten hommat hoidetaan länsi-eurooppalaiseen malliin. Laulaja Charlotte Wesselsin johdolla, bändi on viimeisen vuosikymmenen aikana ennättänyt purkittaa neljä albumia, joita yhdistävä tekijä on ollut vierailevien muusikoiden läsnäolo. Melometallin suuruuksia Sharon Den Adelesta Marco Hietalaan voi kuulla Delain-levyillä ja yhtyeen seuraava studiolätty on kaavailtu ilmestyväksi vuonna 2016.","descr_en":"Dutch symphonic rockers Delain have been releasing and performing their signature catchy melodic metal sound worldwide for nearly a decade now. So far, the band has released four studio albums and one of the signature trades on the band’s records has been the presence of guest musicians including the titans of the scene such as Sharon Den Adel (Within Temptation), Marco Hietala (Nightwish), Alissa White-Gluz (Arch Enemy) and Burton C. Bell (Fear Factry). Fifth Delain album is planned to be released in 2016.  ","link_spotify":"spotify:artist:6pIRdCtSE5hLFfIfcTAicI","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/delainmusic","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-01T11:55:00.000Z","timeEndShift":"2016-07-01T12:40:00.000Z"}]},"img":"img/band/delain.jpg","starred":false},{"id":"diablo","title_fi":"DIABLO","title_en":"DIABLO","date":"3.7.2016","descr_fi":"Diablo on palannut. Edellisestä ”Icaros”-levystä on kulunut jo seitsemän pitkää vuotta. Tervetuloa ”Silvër Horizon”. Diablo näyttää ettei kuluneet vuodet ole tylsentäneet terää vaan ennemminkin päinvastoin. Homma jyrää entistäkin tanakammin. ”Silvër Horizon” toimittaa kenties vuoden kovimman härmähevipaketin. Kyllä alkaa vatsa toimimaan ja keskiketterää tekemään mieli, kun tämän laittaa pauhaamaan autostereoista.","descr_en":"Diablo is back. With a f***ing vengeance. It’s been seven long years since their “Icaros”-album. Enter ”Silvër Horizon”. With the new album, Diablo proves that the years gone by have only sharpened the blade. ”Silvër Horizon” is without a doubt one the tightest metal records to come out of Finland recently.","link_spotify":"spotify:artist:3Cm0fRALxI3iYp2cXVT41y","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/diablobandofficial","type":"band","schedule":[{"timeEnd":"2016-07-03T15:30:00+02:00","stage":"second","timeBeg":"2016-07-03T14:30:00+02:00"}],"key":{"id":"diablo","title_fi":"DIABLO","title_en":"DIABLO","date":"3.7.2016","descr_fi":"Diablo on palannut. Edellisestä ”Icaros”-levystä on kulunut jo seitsemän pitkää vuotta. Tervetuloa ”Silvër Horizon”. Diablo näyttää ettei kuluneet vuodet ole tylsentäneet terää vaan ennemminkin päinvastoin. Homma jyrää entistäkin tanakammin. ”Silvër Horizon” toimittaa kenties vuoden kovimman härmähevipaketin. Kyllä alkaa vatsa toimimaan ja keskiketterää tekemään mieli, kun tämän laittaa pauhaamaan autostereoista.","descr_en":"Diablo is back. With a f***ing vengeance. It’s been seven long years since their “Icaros”-album. Enter ”Silvër Horizon”. With the new album, Diablo proves that the years gone by have only sharpened the blade. ”Silvër Horizon” is without a doubt one the tightest metal records to come out of Finland recently.","link_spotify":"spotify:artist:3Cm0fRALxI3iYp2cXVT41y","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/diablobandofficial","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-03T13:30:00.000Z","timeEndShift":"2016-07-03T14:30:00.000Z"}]},"img":"img/band/diablo.jpg","starred":false},{"id":"embreach","title_fi":"EMBREACH","title_en":"EMBREACH","date":"2.2.2016","descr_fi":"Yksi annos melodödistä Helsingistä, kiitos! Bändi ollut pystyssä kunnioitettavan ajan, vuodesta 1999 -lähtien. Takana yksi täyspitkä ja toinen kiekko tulossa näillä näppäimillä. Tuskassa luvassa siis tuoretta matskua täyslaidallinen.","descr_en":"Melodic death metal from Helsinki! The guys have released one full-length prior and are now about to drop their second full-length in May. So watch out for a full blast at Suvilahti!","link_spotify":"spotify:artist:7ixHBCz3YOhrLW2mpXrMLJ","link_band":"http://m.facebook.com/embreach/","type":"band","schedule":[{"timeEnd":"2016-07-02T16:40:00+02:00","stage":"club","timeBeg":"2016-07-02T16:10:00+02:00"}],"key":{"id":"embreach","title_fi":"EMBREACH","title_en":"EMBREACH","date":"2.2.2016","descr_fi":"Yksi annos melodödistä Helsingistä, kiitos! Bändi ollut pystyssä kunnioitettavan ajan, vuodesta 1999 -lähtien. Takana yksi täyspitkä ja toinen kiekko tulossa näillä näppäimillä. Tuskassa luvassa siis tuoretta matskua täyslaidallinen.","descr_en":"Melodic death metal from Helsinki! The guys have released one full-length prior and are now about to drop their second full-length in May. So watch out for a full blast at Suvilahti!","link_spotify":"spotify:artist:7ixHBCz3YOhrLW2mpXrMLJ","link_band":"http://m.facebook.com/embreach/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T15:10:00.000Z","timeEndShift":"2016-07-02T15:40:00.000Z"}]},"img":"img/band/embreach.jpg","starred":false},{"id":"error","title_fi":"Error - Mielen häiriöitä","title_en":"Error - Mielen häiriöitä","date":"2.7.2016","descr_fi":"Mielen häiriöitä\nPaljon huomioita saaneen ERROR – Mielen häiriöitä -kirjan tekijä Elina Järvi ja kaksi kirjan henkilöä keskustelevat Klaus Flamingin johdolla mielenterveysaiheesta silottelemattomalla otteella. Rokkimimmi Anne kertoo elämästään sivupersoonahäiriön kanssa, hevimies Marko antaa kasvot kaksisuuntaiselle mielialahäiriölle. Raskaan musiikin pitkäaikainen mediaraataja Klaus Flaming on uransa varrella tutustunut monenlaisiin ihmisiin ja rock-maailman ilmiöihin. Elina Järvi on toimittaja, joka rakastaa metallimusiikkia ja pitää humaania otetta työssään tärkeänä. ERROR auttaa ymmärtämään ihmismielen selittämättömyyttä ja pureutuu mielenterveysongelmiin muun muassa tunnettujen rock- ja metalliartistien elämäntarinoiden kautta.","descr_en":"Elina Järvi talks about her book ERROR","type":"band","schedule":[{"timeEnd":"2016-07-01T17:15:00+02:00","stage":"solmu","timeBeg":"2016-07-01T16:30:00+02:00"}],"key":{"id":"error","title_fi":"Error - Mielen häiriöitä","title_en":"Error - Mielen häiriöitä","date":"2.7.2016","descr_fi":"Mielen häiriöitä\nPaljon huomioita saaneen ERROR – Mielen häiriöitä -kirjan tekijä Elina Järvi ja kaksi kirjan henkilöä keskustelevat Klaus Flamingin johdolla mielenterveysaiheesta silottelemattomalla otteella. Rokkimimmi Anne kertoo elämästään sivupersoonahäiriön kanssa, hevimies Marko antaa kasvot kaksisuuntaiselle mielialahäiriölle. Raskaan musiikin pitkäaikainen mediaraataja Klaus Flaming on uransa varrella tutustunut monenlaisiin ihmisiin ja rock-maailman ilmiöihin. Elina Järvi on toimittaja, joka rakastaa metallimusiikkia ja pitää humaania otetta työssään tärkeänä. ERROR auttaa ymmärtämään ihmismielen selittämättömyyttä ja pureutuu mielenterveysongelmiin muun muassa tunnettujen rock- ja metalliartistien elämäntarinoiden kautta.","descr_en":"Elina Järvi talks about her book ERROR","type":"band","schedule":[{"timeEnd":null,"stage":"solmu","timeBeg":null,"timeBegShift":"2016-07-01T15:30:00.000Z","timeEndShift":"2016-07-01T16:15:00.000Z"}]},"img":"img/band/error.jpg","starred":false},{"id":"frosttide","title_fi":"FROSTTIDE","title_en":"FROSTTIDE","date":"1.7.2016","descr_fi":"Folk metallin sanansaattajat Jyväskylästä! Ansioluettelosta löytyy mm. kaksi täyspitkää, useampi eurorundi mm. Ensiferiumin kanssa ja kelpo läjä kotimaan keikkoja. Uutta materiaalikin huhujen mukaan ollaan työstämässä!","descr_en":"Frosttide are messengers of folk metal and hail from Jyväskylä. Their resume includes two full-length albums, couple of european tours with for example Ensiferium and Turisas and a bunch of shows in Finland. They are currently working on new material!","link_spotify":"spotify:artist:4nODZjLMULjW8WMW3tRGlZ","link_band":"https://m.facebook.com/Frosttide/","type":"band","schedule":[{"timeEnd":"2016-07-01T12:45:00+02:00","stage":"club","timeBeg":"2016-07-01T12:15:00+02:00"}],"key":{"id":"frosttide","title_fi":"FROSTTIDE","title_en":"FROSTTIDE","date":"1.7.2016","descr_fi":"Folk metallin sanansaattajat Jyväskylästä! Ansioluettelosta löytyy mm. kaksi täyspitkää, useampi eurorundi mm. Ensiferiumin kanssa ja kelpo läjä kotimaan keikkoja. Uutta materiaalikin huhujen mukaan ollaan työstämässä!","descr_en":"Frosttide are messengers of folk metal and hail from Jyväskylä. Their resume includes two full-length albums, couple of european tours with for example Ensiferium and Turisas and a bunch of shows in Finland. They are currently working on new material!","link_spotify":"spotify:artist:4nODZjLMULjW8WMW3tRGlZ","link_band":"https://m.facebook.com/Frosttide/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T11:15:00.000Z","timeEndShift":"2016-07-01T11:45:00.000Z"}]},"img":"img/band/frosttide.jpg","starred":false},{"id":"fuck-ushima","title_fi":"FUCK-USHIMA","title_en":"FUCK-USHIMA","date":"2.7.2016","descr_fi":"Fuck-Ushiman voisi luonnehtia olevan äärimmäinen bändi, ainakin jos musatyyliä on uskominen. Pumppu yhdistelee sludgen murskaavuutta ja grindin armottomuutta kovalla meiningillä varustettuna. Mielenkiintoista settiä luvassa epäilemättä.","descr_en":"A band whose description in Facebook reads I ROLLED A ROTTEN CAT BLUNT ONCE, IT WAS OK, NOW I'M QUITE SLOW cannot simply be bad. Fuck-Ushima is also a band of extremes, at least if you hear their music which is a combination of sludge and grindcore with occasional noise elements. Their distinctive style is something worth being sick about.","link_spotify":"spotify:artist:5R3ggzTMYZ9CYzfRn5r4Lp","link_band":"http://m.facebook.com/sludgeordie/","type":"band","schedule":[{"timeEnd":"2016-07-02T12:25:00+02:00","stage":"club","timeBeg":"2016-07-02T12:00:00+02:00"}],"key":{"id":"fuck-ushima","title_fi":"FUCK-USHIMA","title_en":"FUCK-USHIMA","date":"2.7.2016","descr_fi":"Fuck-Ushiman voisi luonnehtia olevan äärimmäinen bändi, ainakin jos musatyyliä on uskominen. Pumppu yhdistelee sludgen murskaavuutta ja grindin armottomuutta kovalla meiningillä varustettuna. Mielenkiintoista settiä luvassa epäilemättä.","descr_en":"A band whose description in Facebook reads I ROLLED A ROTTEN CAT BLUNT ONCE, IT WAS OK, NOW I'M QUITE SLOW cannot simply be bad. Fuck-Ushima is also a band of extremes, at least if you hear their music which is a combination of sludge and grindcore with occasional noise elements. Their distinctive style is something worth being sick about.","link_spotify":"spotify:artist:5R3ggzTMYZ9CYzfRn5r4Lp","link_band":"http://m.facebook.com/sludgeordie/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T11:00:00.000Z","timeEndShift":"2016-07-02T11:25:00.000Z"}]},"img":"img/band/fuck-ushima.jpg","starred":false},{"id":"ghost","title_fi":"GHOST","title_en":"GHOST","date":"2.7.2016","descr_fi":"Papa Emeritus ei ole keskuudessamme johtamassa. Hänen matkansa on sinun. ”Majesteettisuus” ei ole hänen yksinoikeutensa. Hän on vain maski, reitti tuleen, jonka hän on jo läpikäynyt. Valmistautukaa siis Ghost-rituaalien maailmaan, kun bändi ottaa Suvilahden haltuun ensi heinäkuussa. Tällä hetkellä yhtye kiertää maailmaa suursuosioon nousseen ”Meliora” albumin kiertueella. Viime Helsingin visiitillään marraskuun alussa Papa Emeritus ja nimettömät ghoulit käskytti loppuunmyytyä Circusta!","descr_en":"Papa Emeritus is not here to lead. His journey is your own. “Majesty” is not the state that only belongs to him. He is merely the mask, the path into the fire where he has already been. So be prepared to be possessed as the mysterious rituals of Ghost will take over Suvilahti next July. Ghost is currently touring their mega-successful “Meliora” album. The band last performed in Helsinki in the beginning of November to an ecstatic crowd at a sold out show at The Circus. The world is about to be electrified. You can fall or you can jump.","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/thebandghost","type":"band","schedule":[{"timeEnd":"2016-07-02T22:00:00+02:00","stage":"main","timeBeg":"2016-07-02T20:30:00+02:00"}],"key":{"id":"ghost","title_fi":"GHOST","title_en":"GHOST","date":"2.7.2016","descr_fi":"Papa Emeritus ei ole keskuudessamme johtamassa. Hänen matkansa on sinun. ”Majesteettisuus” ei ole hänen yksinoikeutensa. Hän on vain maski, reitti tuleen, jonka hän on jo läpikäynyt. Valmistautukaa siis Ghost-rituaalien maailmaan, kun bändi ottaa Suvilahden haltuun ensi heinäkuussa. Tällä hetkellä yhtye kiertää maailmaa suursuosioon nousseen ”Meliora” albumin kiertueella. Viime Helsingin visiitillään marraskuun alussa Papa Emeritus ja nimettömät ghoulit käskytti loppuunmyytyä Circusta!","descr_en":"Papa Emeritus is not here to lead. His journey is your own. “Majesty” is not the state that only belongs to him. He is merely the mask, the path into the fire where he has already been. So be prepared to be possessed as the mysterious rituals of Ghost will take over Suvilahti next July. Ghost is currently touring their mega-successful “Meliora” album. The band last performed in Helsinki in the beginning of November to an ecstatic crowd at a sold out show at The Circus. The world is about to be electrified. You can fall or you can jump.","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/thebandghost","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T19:30:00.000Z","timeEndShift":"2016-07-02T21:00:00.000Z"}]},"img":"img/band/ghost.jpg","starred":false},{"id":"gojira","title_fi":"GOJIRA","title_en":"GOJIRA","date":"3.7.2016","descr_fi":"Teknisen ja progressiivisen dödiksen ranskalainen mahtiryhmä Gojira palaa Tuskaan vuosien tauon jälkeen. Hienovaraista, monisyistä ja kirurgintarkkaa, tiedostavilla sanoituksilla varustettua möyhennystä tarjoileva Gojira on aina tervetullut vieras Tuskan tiluksilla.","descr_en":"French technical and progressive death metal squad Gojira have been added to the already illustrious Tuska line up. Gojira are currently working on the follow up to their highly regarded “L'Enfant Sauvage”-album.","link_spotify":"spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt","link_band":"http://m.facebook.com/GojiraMusic","type":"band","schedule":[{"timeEnd":"2016-07-03T16:35:00+02:00","stage":"main","timeBeg":"2016-07-03T15:35:00+02:00"}],"key":{"id":"gojira","title_fi":"GOJIRA","title_en":"GOJIRA","date":"3.7.2016","descr_fi":"Teknisen ja progressiivisen dödiksen ranskalainen mahtiryhmä Gojira palaa Tuskaan vuosien tauon jälkeen. Hienovaraista, monisyistä ja kirurgintarkkaa, tiedostavilla sanoituksilla varustettua möyhennystä tarjoileva Gojira on aina tervetullut vieras Tuskan tiluksilla.","descr_en":"French technical and progressive death metal squad Gojira have been added to the already illustrious Tuska line up. Gojira are currently working on the follow up to their highly regarded “L'Enfant Sauvage”-album.","link_spotify":"spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt","link_band":"http://m.facebook.com/GojiraMusic","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-03T14:35:00.000Z","timeEndShift":"2016-07-03T15:35:00.000Z"}]},"img":"img/band/gojira.jpg","starred":false},{"id":"hatebreed","title_fi":"HATEBREED","title_en":"HATEBREED","date":"3.7.2016","descr_fi":"Hardcorea ja metallia sekoitteleva Hatebreed saa varmasti melkoiset meiningit aikaan Suvilahdessa. Pumpulla on ollut merkittävä asema nykyisen HC:n ja metalcoren kehityksessä. Bändi pudottaa seitsemännen kiekkonsa \"The Concrete Confessional\" toukokuussa ja on sen pohjalta liikekannalla.","descr_en":"Hardcore and metal blending Hatebreed will surely stir up Suvilahti this summer! The band has had a great influence on both modern hardcore and metalcore scenes. The latest album \"The Concrete Confessional\" is their seventh album and it will be released this spring.","link_spotify":"spotify:artist:17Mb968quDHpjCkIyq30QV","link_band":"http://m.facebook.com/hatebreed/","type":"band","schedule":[{"timeEnd":"2016-07-03T14:30:00+02:00","stage":"main","timeBeg":"2016-07-03T13:30:00+02:00"}],"key":{"id":"hatebreed","title_fi":"HATEBREED","title_en":"HATEBREED","date":"3.7.2016","descr_fi":"Hardcorea ja metallia sekoitteleva Hatebreed saa varmasti melkoiset meiningit aikaan Suvilahdessa. Pumpulla on ollut merkittävä asema nykyisen HC:n ja metalcoren kehityksessä. Bändi pudottaa seitsemännen kiekkonsa \"The Concrete Confessional\" toukokuussa ja on sen pohjalta liikekannalla.","descr_en":"Hardcore and metal blending Hatebreed will surely stir up Suvilahti this summer! The band has had a great influence on both modern hardcore and metalcore scenes. The latest album \"The Concrete Confessional\" is their seventh album and it will be released this spring.","link_spotify":"spotify:artist:17Mb968quDHpjCkIyq30QV","link_band":"http://m.facebook.com/hatebreed/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-03T12:30:00.000Z","timeEndShift":"2016-07-03T13:30:00.000Z"}]},"img":"img/band/hatebreed.jpg","starred":false},{"id":"havok","title_fi":"HAVOK","title_en":"HAVOK","date":"2.7.2016","descr_fi":"Coloradosta ponnistava rässiryhmä Havok tarjoilee kipakoita riffejä, kuivaruutista rummutusta, tanakkaa bassottelua ja iskevää mikkiin sylkemistä. Aggressiivinen ote tiukentuu livenä, kun ryhmä päästää ylitsepursuavan energiansa valloilleen ja nappaa yleisön näppeihinsä. Eipä ihme, että kundeja on verrattu kahdeksankymmentäluvun rässisankareihin. Rinnastuksesta huolimatta Havok lähestyy thrash-soundia omalla erottuvalla tyylillään. ","descr_en":"Havok is the thrash metal powerhouse reigning from Colorado. Incorporating blisteringly fast guitar riffs, machine-like drumming, groovy bass lines, searing leads, and hard-hitting vocals, Havok is able to maintain that punch-you-in-the-throat style of music. With their non-stop energy level and their ability to get the audience involved it is no wonder this Denver outfit has had their name compared to 80s thrash metal icons. Havok possess a distinct approach to thrash with a much-needed fresh edge.","link_spotify":"spotify:artist:2jw4wgixxa20jls9N3Bdpq","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/HavokOfficial","type":"band","schedule":[{"timeEnd":"2016-07-02T17:55:00+02:00","stage":"club","timeBeg":"2016-07-02T17:10:00+02:00"}],"key":{"id":"havok","title_fi":"HAVOK","title_en":"HAVOK","date":"2.7.2016","descr_fi":"Coloradosta ponnistava rässiryhmä Havok tarjoilee kipakoita riffejä, kuivaruutista rummutusta, tanakkaa bassottelua ja iskevää mikkiin sylkemistä. Aggressiivinen ote tiukentuu livenä, kun ryhmä päästää ylitsepursuavan energiansa valloilleen ja nappaa yleisön näppeihinsä. Eipä ihme, että kundeja on verrattu kahdeksankymmentäluvun rässisankareihin. Rinnastuksesta huolimatta Havok lähestyy thrash-soundia omalla erottuvalla tyylillään. ","descr_en":"Havok is the thrash metal powerhouse reigning from Colorado. Incorporating blisteringly fast guitar riffs, machine-like drumming, groovy bass lines, searing leads, and hard-hitting vocals, Havok is able to maintain that punch-you-in-the-throat style of music. With their non-stop energy level and their ability to get the audience involved it is no wonder this Denver outfit has had their name compared to 80s thrash metal icons. Havok possess a distinct approach to thrash with a much-needed fresh edge.","link_spotify":"spotify:artist:2jw4wgixxa20jls9N3Bdpq","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/HavokOfficial","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T16:10:00.000Z","timeEndShift":"2016-07-02T16:55:00.000Z"}]},"img":"img/band/havok.jpg","starred":false},{"id":"helvetin_mustaa","title_fi":"Helvetin Mustaa","title_en":"Helvetin Mustaa","date":"2.7.2016","descr_fi":"Pimeyden estetiikka nykymetallissa.\nMiten se ilmenee? Mistä se kumpuaa? Ketä se kiinnostaa? Aurinkotuoleistaan aiheita kommentoivat kauhukirjailija Marko Hautala, tutkivat muusikot Titus Hjelm ja Kimi Kärki sekä musiikkitoimittaja Matti Riekki. Keskustelua moderoi hevitutkija Toni-Matti Karjalainen. ","descr_en":"Aesthetics of darkness within the context of modern metal","type":"band","schedule":[{"timeEnd":"2016-07-02T14:15:00+02:00","stage":"solmu","timeBeg":"2016-07-02T13:30:00+02:00"}],"key":{"id":"helvetin_mustaa","title_fi":"Helvetin Mustaa","title_en":"Helvetin Mustaa","date":"2.7.2016","descr_fi":"Pimeyden estetiikka nykymetallissa.\nMiten se ilmenee? Mistä se kumpuaa? Ketä se kiinnostaa? Aurinkotuoleistaan aiheita kommentoivat kauhukirjailija Marko Hautala, tutkivat muusikot Titus Hjelm ja Kimi Kärki sekä musiikkitoimittaja Matti Riekki. Keskustelua moderoi hevitutkija Toni-Matti Karjalainen. ","descr_en":"Aesthetics of darkness within the context of modern metal","type":"band","schedule":[{"timeEnd":null,"stage":"solmu","timeBeg":null,"timeBegShift":"2016-07-02T12:30:00.000Z","timeEndShift":"2016-07-02T13:15:00.000Z"}]},"img":"img/band/helvetin_mustaa.jpg","starred":false},{"id":"jess_and_the_ancient_ones","title_fi":"JESS AND THE ANCIENT ONES","title_en":"JESS AND THE ANCIENT ONES","date":"2.7.2016","descr_fi":"Psykedeelisen okkulttirokin suomalaiset sanansaattajat Kuopiosta. Tuttuja kasvoja löytyy mm. Deathchainistä ja lauluista vastaa hieno naisääni. Kaksi levyä on pihalla ja ompahan poppoo käynyt lämppäämässä mm. King Diamondia jenkeissä. Mikäpä siinä sitten!","descr_en":"The Finnish heralds of occult psychedelic rock are taking over Suvilahti this summer! The line-up features familiar faces from Deathchain and vocals are delivered by a ethereal female voice. The group also supported King Diamond on his american tour few years back.","link_spotify":"spotify:artist:0Nlzia3Zqp5ykzfWesDqQ2","link_band":"http://m.facebook.com/jessandtheancientones/","type":"band","schedule":[{"timeEnd":"2016-07-02T19:10:00+02:00","stage":"club","timeBeg":"2016-07-02T18:25:00+02:00"}],"key":{"id":"jess_and_the_ancient_ones","title_fi":"JESS AND THE ANCIENT ONES","title_en":"JESS AND THE ANCIENT ONES","date":"2.7.2016","descr_fi":"Psykedeelisen okkulttirokin suomalaiset sanansaattajat Kuopiosta. Tuttuja kasvoja löytyy mm. Deathchainistä ja lauluista vastaa hieno naisääni. Kaksi levyä on pihalla ja ompahan poppoo käynyt lämppäämässä mm. King Diamondia jenkeissä. Mikäpä siinä sitten!","descr_en":"The Finnish heralds of occult psychedelic rock are taking over Suvilahti this summer! The line-up features familiar faces from Deathchain and vocals are delivered by a ethereal female voice. The group also supported King Diamond on his american tour few years back.","link_spotify":"spotify:artist:0Nlzia3Zqp5ykzfWesDqQ2","link_band":"http://m.facebook.com/jessandtheancientones/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T17:25:00.000Z","timeEndShift":"2016-07-02T18:10:00.000Z"}]},"img":"img/band/jess_and_the_ancient_ones.jpg","starred":false},{"id":"jouni_markkanen","title_fi":"Jouni Markkanen","title_en":"Jouni Markkanen","date":"3.7.2016","descr_fi":"Tuskan Ohjelmapäällikkö.\nTuskan alkuhämäristä saakka ohjelmasta vastannut Jouni Markkanen Pete Caton hellässä syleilyssä sunnuntai-iltapäivänä.","descr_en":"Jouni Markkanen - Promoter´s interview by Pete Cato ","type":"band","schedule":[{"timeEnd":"2016-07-03T14:30:00+02:00","stage":"solmu","timeBeg":"2016-07-03T14:00:00+02:00"}],"key":{"id":"jouni_markkanen","title_fi":"Jouni Markkanen","title_en":"Jouni Markkanen","date":"3.7.2016","descr_fi":"Tuskan Ohjelmapäällikkö.\nTuskan alkuhämäristä saakka ohjelmasta vastannut Jouni Markkanen Pete Caton hellässä syleilyssä sunnuntai-iltapäivänä.","descr_en":"Jouni Markkanen - Promoter´s interview by Pete Cato ","type":"band","schedule":[{"timeEnd":null,"stage":"solmu","timeBeg":null,"timeBegShift":"2016-07-03T13:00:00.000Z","timeEndShift":"2016-07-03T13:30:00.000Z"}]},"img":"img/band/jouni_markkanen.jpg","starred":false},{"id":"katatonia","title_fi":"KATATONIA","title_en":"KATATONIA","date":"3.7.2016","descr_fi":"Vaikka aurinko kuinka paistaisi sinne kuuluisaan risukasaan, niin surumielisyys on aina vahvasti läsnä ihmissielussa. Ruotsalainen melankolian mestari Katatonia on operoinut näiden kaihosävelten parissa perustamisestaan lähtien. Bändi on vuosien saatossa paaluttanut musiikillisen ilmaisunsa peruspilarit tukevasti genrensä maaperään ja 2000-luvun edetessä Katatonia on noussut yhdeksi modernin metallin arvostetuimmista nimistä.  ","descr_en":"No matter how brightly the sun shines, sorrow will always cast its ageless shadow across the human soul. Sweden’s masters of melancholy Katatonia has been expressing that eternal sadness since 1991 and have firmly established themselves as the most passionate and skilful exponents of the form. As the 21st century has progressed, Katatonia have become one of the most revered and cherished of all bands in the modern heavy music firmament. ","link_spotify":"spotify:artist:2CWWgbxApjbyByxBBCvGTm","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/katatonia","type":"band","schedule":[{"timeEnd":"2016-07-03T17:40:00+02:00","stage":"second","timeBeg":"2016-07-03T16:40:00+02:00"}],"key":{"id":"katatonia","title_fi":"KATATONIA","title_en":"KATATONIA","date":"3.7.2016","descr_fi":"Vaikka aurinko kuinka paistaisi sinne kuuluisaan risukasaan, niin surumielisyys on aina vahvasti läsnä ihmissielussa. Ruotsalainen melankolian mestari Katatonia on operoinut näiden kaihosävelten parissa perustamisestaan lähtien. Bändi on vuosien saatossa paaluttanut musiikillisen ilmaisunsa peruspilarit tukevasti genrensä maaperään ja 2000-luvun edetessä Katatonia on noussut yhdeksi modernin metallin arvostetuimmista nimistä.  ","descr_en":"No matter how brightly the sun shines, sorrow will always cast its ageless shadow across the human soul. Sweden’s masters of melancholy Katatonia has been expressing that eternal sadness since 1991 and have firmly established themselves as the most passionate and skilful exponents of the form. As the 21st century has progressed, Katatonia have become one of the most revered and cherished of all bands in the modern heavy music firmament. ","link_spotify":"spotify:artist:2CWWgbxApjbyByxBBCvGTm","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/katatonia","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-03T15:40:00.000Z","timeEndShift":"2016-07-03T16:40:00.000Z"}]},"img":"img/band/katatonia.jpg","starred":false},{"id":"kvelertak","title_fi":"KVELERTAK","title_en":"KVELERTAK","date":"1.7.2016","descr_fi":"Kvelertak on norjaa ja tarkoittaa kuristusotetta. Bändi on tehnyt vahvaa nousua erikoisella norjaksi lauletulla bläkkistä, punkkia ja rokkenrollia yhdistelevällä musallaan ympäri maailman. Kaksi kiekkoa on pykälässä ja kolmas tuloillaan josta esimakua saatiin 1985-sinkun muodossa. Onkin siis vähintäänkin sopivaa, että norjalaiset ovat mestoilla Suvilahdessa kesällä.","descr_en":"Kvelertak is a norwegian word for chokehold. And the name is rather correct with their unique blend of black metal, punk and rock ’n’ roll. The band has made a strong entrance with their self-titled debut and the march goes on. They have now their third album coming out and the first single 1985 gives a great impression. It is very fitting to have the group take over Suvilahti this summer!","link_spotify":"spotify:artist:0VE0GTaTSeeGSzrQpLmeb9","link_band":"http://m.facebook.com/Kvelertak/","type":"band","schedule":[{"timeEnd":"2016-07-01T17:50:00+02:00","stage":"second","timeBeg":"2016-07-01T16:50:00+02:00"}],"key":{"id":"kvelertak","title_fi":"KVELERTAK","title_en":"KVELERTAK","date":"1.7.2016","descr_fi":"Kvelertak on norjaa ja tarkoittaa kuristusotetta. Bändi on tehnyt vahvaa nousua erikoisella norjaksi lauletulla bläkkistä, punkkia ja rokkenrollia yhdistelevällä musallaan ympäri maailman. Kaksi kiekkoa on pykälässä ja kolmas tuloillaan josta esimakua saatiin 1985-sinkun muodossa. Onkin siis vähintäänkin sopivaa, että norjalaiset ovat mestoilla Suvilahdessa kesällä.","descr_en":"Kvelertak is a norwegian word for chokehold. And the name is rather correct with their unique blend of black metal, punk and rock ’n’ roll. The band has made a strong entrance with their self-titled debut and the march goes on. They have now their third album coming out and the first single 1985 gives a great impression. It is very fitting to have the group take over Suvilahti this summer!","link_spotify":"spotify:artist:0VE0GTaTSeeGSzrQpLmeb9","link_band":"http://m.facebook.com/Kvelertak/","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-01T15:50:00.000Z","timeEndShift":"2016-07-01T16:50:00.000Z"}]},"img":"img/band/kvelertak.jpg","starred":false},{"id":"lord_vicar","title_fi":"LORD VICAR","title_en":"LORD VICAR","date":"2.7.2016","descr_fi":"Kun Reverend Bizarre tuli tiensä päähän, otti Kimi Kärki asiakseen seurata visiotaan Doom-bändistä. Sillä tiellä ollaan Lord Vicarin kanssa. Soppaan on heitetty sekaan doomia, mutta myös vahvoja tuntemuksia muualta. Uusin kiekko \"Gates of Flesh\" on vielä hyvinkin tuore ja yhtye lupaa toimittaa annoksensa vähintäänkin tarpeellisella määrällä pippuria.","descr_en":"After the tale of Reverend Bizarre came to and end, Kimi Kärki decided to follow his vision of a doom band. Not an ordinary doom band though, but a fiesty one. Their latest album \"Gates of Flesh\" was just released and the band makes a promise to deliver their catering with enough spice.","link_spotify":"spotify:artist:1wWxscpcux50FKanp8CadH","link_band":"https://m.facebook.com/lordvicar/","type":"band","schedule":[{"timeEnd":"2016-07-02T20:25:00+02:00","stage":"club","timeBeg":"2016-07-02T19:40:00+02:00"}],"key":{"id":"lord_vicar","title_fi":"LORD VICAR","title_en":"LORD VICAR","date":"2.7.2016","descr_fi":"Kun Reverend Bizarre tuli tiensä päähän, otti Kimi Kärki asiakseen seurata visiotaan Doom-bändistä. Sillä tiellä ollaan Lord Vicarin kanssa. Soppaan on heitetty sekaan doomia, mutta myös vahvoja tuntemuksia muualta. Uusin kiekko \"Gates of Flesh\" on vielä hyvinkin tuore ja yhtye lupaa toimittaa annoksensa vähintäänkin tarpeellisella määrällä pippuria.","descr_en":"After the tale of Reverend Bizarre came to and end, Kimi Kärki decided to follow his vision of a doom band. Not an ordinary doom band though, but a fiesty one. Their latest album \"Gates of Flesh\" was just released and the band makes a promise to deliver their catering with enough spice.","link_spotify":"spotify:artist:1wWxscpcux50FKanp8CadH","link_band":"https://m.facebook.com/lordvicar/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T18:40:00.000Z","timeEndShift":"2016-07-02T19:25:00.000Z"}]},"img":"img/band/lord_vicar.jpg","starred":false},{"id":"lordi","title_fi":"LORDI","title_en":"LORDI","date":"1.7.2016","descr_fi":"Hard rockin kotimainen sanansaattaja Lordi matkaa ajassa kymmenen vuotta taaksepäin ja läväyttää Suvilahdessa ”The Arockalypse 2006 Redux Show” -nimeä kantavan teemakeikan. Show perustuu bändin vuonna 2006 julkaistuun, triplaplatinaa myyneeseen, The Arockalypse -albumiin, jolta lohkaistiin mm. hittisinkut ”Hard Rock Hallelujah\" sekä ”They Only Come Out at Night\" (feat. Udo Dirkschneider).    ","descr_en":"Mr. Lordi and his monsters are ready for takeoff and this time around the band is going back to year 2006. Finland’s own hard rock ambassadors will fire up the roof by hitting the Tuska stage with their ”The Arockalypse 2006 Redux Show”. The show is based on Lordi’s mega successful ”The Arockalypse” album including anthems such as \"Hard Rock Hallelujah\" and\n\n\"They Only Come Out at Night\" (feat. Udo Dirkschneider). ","link_spotify":"spotify:artist:14SgKNlOCKAI0PfRD1HnWh","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/LordiOfficial","type":"band","schedule":[{"timeEnd":"2016-07-01T16:50:00+02:00","stage":"main","timeBeg":"2016-07-01T15:50:00+02:00"}],"key":{"id":"lordi","title_fi":"LORDI","title_en":"LORDI","date":"1.7.2016","descr_fi":"Hard rockin kotimainen sanansaattaja Lordi matkaa ajassa kymmenen vuotta taaksepäin ja läväyttää Suvilahdessa ”The Arockalypse 2006 Redux Show” -nimeä kantavan teemakeikan. Show perustuu bändin vuonna 2006 julkaistuun, triplaplatinaa myyneeseen, The Arockalypse -albumiin, jolta lohkaistiin mm. hittisinkut ”Hard Rock Hallelujah\" sekä ”They Only Come Out at Night\" (feat. Udo Dirkschneider).    ","descr_en":"Mr. Lordi and his monsters are ready for takeoff and this time around the band is going back to year 2006. Finland’s own hard rock ambassadors will fire up the roof by hitting the Tuska stage with their ”The Arockalypse 2006 Redux Show”. The show is based on Lordi’s mega successful ”The Arockalypse” album including anthems such as \"Hard Rock Hallelujah\" and\n\n\"They Only Come Out at Night\" (feat. Udo Dirkschneider). ","link_spotify":"spotify:artist:14SgKNlOCKAI0PfRD1HnWh","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/LordiOfficial","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-01T14:50:00.000Z","timeEndShift":"2016-07-01T15:50:00.000Z"}]},"img":"img/band/lordi.jpg","starred":false},{"id":"man_with_a_mission","title_fi":"MAN WITH A MISSION","title_en":"MAN WITH A MISSION","date":"1.7.2016","descr_fi":"Susia vai ihmisiä? Bändi kertoo alkuperäkseen Jimi Hendrixin yrityksen luoda täydellinen elämänmuoto. Jimi myöhemmin jäädytti sudet Antarktikalle vuosikymmeniksi, mutta nyt poppoo on herännyt jälleen. Japanista ponnistava poppoo yhdistelee tehokkaasti Hard Rockia, Metallia ja Dance Poppia ja kylkeen vielä eläimellinen (pun) liveshow. Melkonen keitos, sano. Ehdottomasti tarkastamisen arvoinen.","descr_en":"Are they wolf or are they human? The band tells that no other than Jimi Hendrix created them in an attempt to create a Ultimate Life Forms. Jimi later froze them solid on Antarctica, but now the ice has melted and they’re loose in the world. Originating from Japan, the group successfully combines Hard Rock, Metal and Dance Pop and also throws high voltage live show in the mix. Definitely worth checking out.","link_spotify":"spotify:artist:3NTbOmzlj2cL86XFuDVFvZ","link_band":"http://m.facebook.com/MWAMofficial/","type":"band","schedule":[{"timeEnd":"2016-07-01T18:30:00+02:00","stage":"club","timeBeg":"2016-07-01T17:45:00+02:00"}],"key":{"id":"man_with_a_mission","title_fi":"MAN WITH A MISSION","title_en":"MAN WITH A MISSION","date":"1.7.2016","descr_fi":"Susia vai ihmisiä? Bändi kertoo alkuperäkseen Jimi Hendrixin yrityksen luoda täydellinen elämänmuoto. Jimi myöhemmin jäädytti sudet Antarktikalle vuosikymmeniksi, mutta nyt poppoo on herännyt jälleen. Japanista ponnistava poppoo yhdistelee tehokkaasti Hard Rockia, Metallia ja Dance Poppia ja kylkeen vielä eläimellinen (pun) liveshow. Melkonen keitos, sano. Ehdottomasti tarkastamisen arvoinen.","descr_en":"Are they wolf or are they human? The band tells that no other than Jimi Hendrix created them in an attempt to create a Ultimate Life Forms. Jimi later froze them solid on Antarctica, but now the ice has melted and they’re loose in the world. Originating from Japan, the group successfully combines Hard Rock, Metal and Dance Pop and also throws high voltage live show in the mix. Definitely worth checking out.","link_spotify":"spotify:artist:3NTbOmzlj2cL86XFuDVFvZ","link_band":"http://m.facebook.com/MWAMofficial/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T16:45:00.000Z","timeEndShift":"2016-07-01T17:30:00.000Z"}]},"img":"img/band/man_with_a_mission.jpg","starred":false},{"id":"mantar","title_fi":"MANTAR","title_en":"MANTAR","date":"1.7.2016","descr_fi":"Saksalainen Mantar luottaa rumpujen ja julmetun kitaravallin voimaan. Yhtye vyöryttää kahden miehen voimin black metal / crust / doom -junttaustaan niin ettei paremmasta väliä. Yhtyeen toissavuotinen, suomalaisen Svart Recordsin julkaisema “Death By Burning”-lätty antoi väkevän myrskyvaroituksen ja sittemmin tämä voimaduo on siirtynyt metallijätti Nuclear Blastin leipiin. Lisää nannaa siis odotettavissa.","descr_en":"German ultimate power duo Mantar trust their wall of guitars and relentlessly pounding drums. Doses of black metal, crust and doom riffage shake hands in this evil inferno of sound that will stop at nothing.  ","link_spotify":"spotify:artist:6rVRU7I6r1lt6bhXGYTRQL","link_band":"http://m.facebook.com/MantarBand","type":"band","schedule":[{"timeEnd":"2016-07-01T16:00:00+02:00","stage":"club","timeBeg":"2016-07-01T15:15:00+02:00"}],"key":{"id":"mantar","title_fi":"MANTAR","title_en":"MANTAR","date":"1.7.2016","descr_fi":"Saksalainen Mantar luottaa rumpujen ja julmetun kitaravallin voimaan. Yhtye vyöryttää kahden miehen voimin black metal / crust / doom -junttaustaan niin ettei paremmasta väliä. Yhtyeen toissavuotinen, suomalaisen Svart Recordsin julkaisema “Death By Burning”-lätty antoi väkevän myrskyvaroituksen ja sittemmin tämä voimaduo on siirtynyt metallijätti Nuclear Blastin leipiin. Lisää nannaa siis odotettavissa.","descr_en":"German ultimate power duo Mantar trust their wall of guitars and relentlessly pounding drums. Doses of black metal, crust and doom riffage shake hands in this evil inferno of sound that will stop at nothing.  ","link_spotify":"spotify:artist:6rVRU7I6r1lt6bhXGYTRQL","link_band":"http://m.facebook.com/MantarBand","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T14:15:00.000Z","timeEndShift":"2016-07-01T15:00:00.000Z"}]},"img":"img/band/mantar.jpg","starred":false},{"id":"morbid_vomit","title_fi":"MÖRBID VOMIT","title_en":"MÖRBID VOMIT","date":"3.7.2016","descr_fi":"Jos wanhan liiton meininkeihin nojaava dödis on sun juttu, niin suosittelemme lämpimästi tätä tulokasta Lahdesta. Yhtye on puuhaillut muutaman EP:n ja debyytti pitkäsoitto Doctrine of Violence lyötiin tiskiin viime vuonna. Poljento levyllä on ns. kohillaan, HM-2 -soundi läsnä ja kalman tuoksu välittyy. Levy niitti kohtuullisesti kiitosta alan piireissä ja sitä ihteään on luvassa myös Suvilahdessa.","descr_en":"If your thing is 90’s swedish death metal, then Mörbid Vomit hits your sweetspot. The band originates from Lahti and has released couple of EP’s, their debut full length Doctrine of Violence was released last year. The album received a good amount of positive feedback and it doesn’t really surprise why. A good drive, HM-2 tone and the smell of corpses is present. You will be delivered a good amount of old school death in Suvilahti!","link_band":"http://m.facebook.com/morbidvomit/","type":"band","schedule":[{"timeEnd":"2016-07-03T13:55:00+02:00","stage":"club","timeBeg":"2016-07-03T13:25:00+02:00"}],"key":{"id":"morbid_vomit","title_fi":"MÖRBID VOMIT","title_en":"MÖRBID VOMIT","date":"3.7.2016","descr_fi":"Jos wanhan liiton meininkeihin nojaava dödis on sun juttu, niin suosittelemme lämpimästi tätä tulokasta Lahdesta. Yhtye on puuhaillut muutaman EP:n ja debyytti pitkäsoitto Doctrine of Violence lyötiin tiskiin viime vuonna. Poljento levyllä on ns. kohillaan, HM-2 -soundi läsnä ja kalman tuoksu välittyy. Levy niitti kohtuullisesti kiitosta alan piireissä ja sitä ihteään on luvassa myös Suvilahdessa.","descr_en":"If your thing is 90’s swedish death metal, then Mörbid Vomit hits your sweetspot. The band originates from Lahti and has released couple of EP’s, their debut full length Doctrine of Violence was released last year. The album received a good amount of positive feedback and it doesn’t really surprise why. A good drive, HM-2 tone and the smell of corpses is present. You will be delivered a good amount of old school death in Suvilahti!","link_band":"http://m.facebook.com/morbidvomit/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-03T12:25:00.000Z","timeEndShift":"2016-07-03T12:55:00.000Z"}]},"img":"img/band/morbid_vomit.jpg","starred":false},{"id":"morket","title_fi":"MØRKET","title_en":"MØRKET","date":"2.7.2016","descr_fi":"Mitä tapahtuu kun samaan soppaan viskaa bläkkistä, crustia, progee ja rokkia? Mørket tapahtuu. Yhtyeen vokalisti Otto luonnehtii tapausta seuraavanlaisesti: ”Me vejetää rikkihunnutettua palavaa paskaa pikantilla lisällä ihimisvihhaa ja arkipäiväsiä pettymyksiä. Puhumme suomea.”. Sinä on ihmiselle ihmeteltävää kerrakseen.","descr_en":"What happens when you put black metal, crust punk, proggressive and rock in the same mix? Mørket happens. Their debut album Musta Luonto was released last year and the response has been positive. They deliver their brimstone reeking music with Finnish lyrics and a great attitude. See for yourself!","link_band":"http://m.facebook.com/morketband/","type":"band","schedule":[{"timeEnd":"2016-07-02T15:40:00+02:00","stage":"club","timeBeg":"2016-07-02T15:10:00+02:00"}],"key":{"id":"morket","title_fi":"MØRKET","title_en":"MØRKET","date":"2.7.2016","descr_fi":"Mitä tapahtuu kun samaan soppaan viskaa bläkkistä, crustia, progee ja rokkia? Mørket tapahtuu. Yhtyeen vokalisti Otto luonnehtii tapausta seuraavanlaisesti: ”Me vejetää rikkihunnutettua palavaa paskaa pikantilla lisällä ihimisvihhaa ja arkipäiväsiä pettymyksiä. Puhumme suomea.”. Sinä on ihmiselle ihmeteltävää kerrakseen.","descr_en":"What happens when you put black metal, crust punk, proggressive and rock in the same mix? Mørket happens. Their debut album Musta Luonto was released last year and the response has been positive. They deliver their brimstone reeking music with Finnish lyrics and a great attitude. See for yourself!","link_band":"http://m.facebook.com/morketband/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-02T14:10:00.000Z","timeEndShift":"2016-07-02T14:40:00.000Z"}]},"img":"img/band/morket.jpg","starred":false},{"id":"myrkur","title_fi":"MYRKUR","title_en":"MYRKUR","date":"3.7.2016","descr_fi":"Tanskalainen Myrkur elvyttää toisen aallon black metallin perinnettä jatkamalla Ulverin ja Darkthronen viitoittamalla synkällä polulla. ","descr_en":"Danish Myrkur revives second wave black metal heritage by continuing on the dark path explored by the likes of Ulver and Darkthrone.","link_spotify":"spotify:artist:3544ImlskUwZqWJTmqWUsa","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/myrkurmyrkur","type":"band","schedule":[{"timeEnd":"2016-07-03T13:30:00+02:00","stage":"second","timeBeg":"2016-07-03T12:45:00+02:00"}],"key":{"id":"myrkur","title_fi":"MYRKUR","title_en":"MYRKUR","date":"3.7.2016","descr_fi":"Tanskalainen Myrkur elvyttää toisen aallon black metallin perinnettä jatkamalla Ulverin ja Darkthronen viitoittamalla synkällä polulla. ","descr_en":"Danish Myrkur revives second wave black metal heritage by continuing on the dark path explored by the likes of Ulver and Darkthrone.","link_spotify":"spotify:artist:3544ImlskUwZqWJTmqWUsa","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/myrkurmyrkur","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-03T11:45:00.000Z","timeEndShift":"2016-07-03T12:30:00.000Z"}]},"img":"img/band/myrkur.jpg","starred":false},{"id":"nervosa","title_fi":"NERVOSA","title_en":"NERVOSA","date":"27.4.2016","descr_fi":"Mitä tulee kun yhdistetään Brazilia, thrash ja kolme naista? Siitä saadaan Nervosa! Etelä-Amerikan mimmit tulevat tulittamaan täyslaidallisen paahtoaan Suvilahteen tänä kesänä. Uusi levy tippuu kesäkuussa, joten siitä on hyvä lähteä rakentamaan kesän kahinoita.","descr_en":"What do you get when you throw in the same mix Brazilia, three women and thrash? You get Nervosa! The girls from South America are coming over to thrash with us in Suvilahti. Their new record will drop in June, so we’ll bet that new material will be heard.","link_spotify":"spotify:artist:5D9d9xyLNQu32QVD9t4YqH","link_band":"http://m.facebook.com/femalethrash/","type":"band","schedule":[{"timeEnd":"2016-07-03T15:10:00+02:00","stage":"club","timeBeg":"2016-07-03T14:25:00+02:00"}],"key":{"id":"nervosa","title_fi":"NERVOSA","title_en":"NERVOSA","date":"27.4.2016","descr_fi":"Mitä tulee kun yhdistetään Brazilia, thrash ja kolme naista? Siitä saadaan Nervosa! Etelä-Amerikan mimmit tulevat tulittamaan täyslaidallisen paahtoaan Suvilahteen tänä kesänä. Uusi levy tippuu kesäkuussa, joten siitä on hyvä lähteä rakentamaan kesän kahinoita.","descr_en":"What do you get when you throw in the same mix Brazilia, three women and thrash? You get Nervosa! The girls from South America are coming over to thrash with us in Suvilahti. Their new record will drop in June, so we’ll bet that new material will be heard.","link_spotify":"spotify:artist:5D9d9xyLNQu32QVD9t4YqH","link_band":"http://m.facebook.com/femalethrash/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-03T13:25:00.000Z","timeEndShift":"2016-07-03T14:10:00.000Z"}]},"img":"img/band/nervosa.jpg","starred":false},{"id":"nuclear_omnicide","title_fi":"NUCLEAR OMNICIDE","title_en":"NUCLEAR OMNICIDE","date":"3.7.2016","descr_fi":"Kirkkonummi in da house! Homman nimi on crossover, joku on saattanutkin törmätä aktiivisesti keikkailevaan ja bändikisoissa voittoja niittäneeseen poppooseen aiemminkin. Takana on tukku EP:tä ja debyytti täyspitkä. Ankaraa tulitusta on luvassa.","descr_en":"What’s the word? The word is crossover. Aggressive cannonning inbound from the boys of Kirkkonummi! They have a rather convincing track record with multiple wins from several band contests, few EP’s, one full-length and plenty of hi-voltage shows under the belt.","link_spotify":"spotify:artist:3YbwtfajOBMf8kOgzJlw6G","link_band":"https://m.facebook.com/NuclearOmnicide/","type":"band","schedule":[{"timeEnd":"2016-07-03T12:55:00+02:00","stage":"club","timeBeg":"2016-07-03T12:25:00+02:00"}],"key":{"id":"nuclear_omnicide","title_fi":"NUCLEAR OMNICIDE","title_en":"NUCLEAR OMNICIDE","date":"3.7.2016","descr_fi":"Kirkkonummi in da house! Homman nimi on crossover, joku on saattanutkin törmätä aktiivisesti keikkailevaan ja bändikisoissa voittoja niittäneeseen poppooseen aiemminkin. Takana on tukku EP:tä ja debyytti täyspitkä. Ankaraa tulitusta on luvassa.","descr_en":"What’s the word? The word is crossover. Aggressive cannonning inbound from the boys of Kirkkonummi! They have a rather convincing track record with multiple wins from several band contests, few EP’s, one full-length and plenty of hi-voltage shows under the belt.","link_spotify":"spotify:artist:3YbwtfajOBMf8kOgzJlw6G","link_band":"https://m.facebook.com/NuclearOmnicide/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-03T11:25:00.000Z","timeEndShift":"2016-07-03T11:55:00.000Z"}]},"img":"img/band/nuclear_omnicide.jpg","starred":false},{"id":"obscura","title_fi":"OBSCURA","title_en":"OBSCURA","date":"2.7.2016","descr_fi":"Tällä keikalla ei kuulla vääriä ääniä, sen verta kovatasoista soittoa on tulossa. Virtuoosimaisesta soitostaan tunnustusta saanut Obscura tulee hoitelemaan homman kotiin progressiivisella death metallilla. Takana on neljä studiolättyä, pankki räjäytettiin kakkoslevy Cosmogenesiksellä 2009 ja uusin tuotos Akróasis ilmestyi tänä vuonna. Voipi olla että tilu raikaa ja ilmassa on blastin taikaa Suvilahdessa.","descr_en":"This is the show were no wrong notes is to be heard. Obscura plays virtuositetic progressive death metal and has released four studio albums. With their second album Cosmogenesis they took everyone by surprise and the latest album Akróasis was released this year. You can prepare yourself for a full blown shred and blast attack at Suvilahti!","link_spotify":"spotify:artist:7i82bJxWj1Tggc7pnU1hzt","link_band":"https://m.facebook.com/RealmOfObscura/","type":"band","schedule":[{"timeEnd":"2016-07-02T17:20:00+02:00","stage":"main","timeBeg":"2016-07-02T16:25:00+02:00"}],"key":{"id":"obscura","title_fi":"OBSCURA","title_en":"OBSCURA","date":"2.7.2016","descr_fi":"Tällä keikalla ei kuulla vääriä ääniä, sen verta kovatasoista soittoa on tulossa. Virtuoosimaisesta soitostaan tunnustusta saanut Obscura tulee hoitelemaan homman kotiin progressiivisella death metallilla. Takana on neljä studiolättyä, pankki räjäytettiin kakkoslevy Cosmogenesiksellä 2009 ja uusin tuotos Akróasis ilmestyi tänä vuonna. Voipi olla että tilu raikaa ja ilmassa on blastin taikaa Suvilahdessa.","descr_en":"This is the show were no wrong notes is to be heard. Obscura plays virtuositetic progressive death metal and has released four studio albums. With their second album Cosmogenesis they took everyone by surprise and the latest album Akróasis was released this year. You can prepare yourself for a full blown shred and blast attack at Suvilahti!","link_spotify":"spotify:artist:7i82bJxWj1Tggc7pnU1hzt","link_band":"https://m.facebook.com/RealmOfObscura/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T15:25:00.000Z","timeEndShift":"2016-07-02T16:20:00.000Z"}]},"img":"img/band/obscura.jpg","starred":false},{"id":"omnium_gatherum","title_fi":"OMNIUM GATHERUM","title_en":"OMNIUM GATHERUM","date":"2.7.2016","descr_fi":"Melodödistä vahvalla progevaikutteella. Pumppu keräsi pisteet kotia New World Shadows –albumillaan 2011 ja nyt on juuri isketty pöytään seitsemännen albuminsa \"Grey Heavens\" pöytään. Siitä on hyvä lähteä rakentamaan kesän spektaakkeleita.","descr_en":"Melodic death with strong proggressive influence. That’s what Omnium Gatherum is all about. They scored top marks with their 2011 release \"New Shadows World\" and now they have released their seventh album \"Grey Heavens\". It’s a solid ground to build on.","link_spotify":"spotify:artist:52xuvlUvnxqH0xzxGPKXSu","link_band":"http://m.facebook.com/omniumgatherumband/","type":"band","schedule":[{"timeEnd":"2016-07-02T16:25:00+02:00","stage":"second","timeBeg":"2016-07-02T15:40:00+02:00"}],"key":{"id":"omnium_gatherum","title_fi":"OMNIUM GATHERUM","title_en":"OMNIUM GATHERUM","date":"2.7.2016","descr_fi":"Melodödistä vahvalla progevaikutteella. Pumppu keräsi pisteet kotia New World Shadows –albumillaan 2011 ja nyt on juuri isketty pöytään seitsemännen albuminsa \"Grey Heavens\" pöytään. Siitä on hyvä lähteä rakentamaan kesän spektaakkeleita.","descr_en":"Melodic death with strong proggressive influence. That’s what Omnium Gatherum is all about. They scored top marks with their 2011 release \"New Shadows World\" and now they have released their seventh album \"Grey Heavens\". It’s a solid ground to build on.","link_spotify":"spotify:artist:52xuvlUvnxqH0xzxGPKXSu","link_band":"http://m.facebook.com/omniumgatherumband/","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-02T14:40:00.000Z","timeEndShift":"2016-07-02T15:25:00.000Z"}]},"img":"img/band/omnium_gatherum.jpg","starred":false},{"id":"primordial","title_fi":"PRIMORDIAL","title_en":"PRIMORDIAL","date":"2.7.2016","descr_fi":"Irkkuviisikko Primordial tunnetaan kotimaansa bläkkispioneerina, jonka alkutaipaleen rujo soundi on sulautunut keltti ja folk metal -vaikutteiseksi omaleimaiseksi keitokseksi. Bändin soundimaailma ja tekemisen vimma on tiivistynyt kilometrien karttuessa, mistä osoituksena loppuvuodesta 2014 julkaistu ”Where Greater Man Have Fallen” -täysosuma. Viimeksi kelttikultaa huuhdottiin Tuskassa vuonna 2008.  ","descr_en":"Ireland based Primordial is titled as the black metal pioneer of their home country. Quintet’s sound is unique combining melodical elements of celtic and folk metal to raw black metal. During the years the band has honed its sound and song writing to top level of which ”Where Greater Man Have Fallen” -album is a solid proof.   ","link_spotify":"spotify:artist:0BZr6WHaejNA63uhZZZZek","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/Primordial","type":"band","schedule":[{"timeEnd":"2016-07-02T13:55:00+02:00","stage":"main","timeBeg":"2016-07-02T12:55:00+02:00"}],"key":{"id":"primordial","title_fi":"PRIMORDIAL","title_en":"PRIMORDIAL","date":"2.7.2016","descr_fi":"Irkkuviisikko Primordial tunnetaan kotimaansa bläkkispioneerina, jonka alkutaipaleen rujo soundi on sulautunut keltti ja folk metal -vaikutteiseksi omaleimaiseksi keitokseksi. Bändin soundimaailma ja tekemisen vimma on tiivistynyt kilometrien karttuessa, mistä osoituksena loppuvuodesta 2014 julkaistu ”Where Greater Man Have Fallen” -täysosuma. Viimeksi kelttikultaa huuhdottiin Tuskassa vuonna 2008.  ","descr_en":"Ireland based Primordial is titled as the black metal pioneer of their home country. Quintet’s sound is unique combining melodical elements of celtic and folk metal to raw black metal. During the years the band has honed its sound and song writing to top level of which ”Where Greater Man Have Fallen” -album is a solid proof.   ","link_spotify":"spotify:artist:0BZr6WHaejNA63uhZZZZek","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/Primordial","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T11:55:00.000Z","timeEndShift":"2016-07-02T12:55:00.000Z"}]},"img":"img/band/primordial.jpg","starred":false},{"id":"scott_ian","title_fi":"Scott Ian (Anthrax)","title_en":"Scott Ian (Anthrax)","date":"2.7.2016","descr_fi":"Metal Legend interview Paitsi legendaaristen riffien tulkitsijana, Scott Ian tunnetaan myös erittäin kovana juttumiehenä. Lauantaina 2.7. näitä juttuja tulee livenä Solmusalissa. Haastattelijana Petri Eskelinen.","descr_en":"Metal Legend Interview","link_band":"http://scott-ian.com/","type":"band","schedule":[{"timeEnd":"2016-07-02T16:00:00+02:00","stage":"solmu","timeBeg":"2016-07-02T15:00:00+02:00"}],"key":{"id":"scott_ian","title_fi":"Scott Ian (Anthrax)","title_en":"Scott Ian (Anthrax)","date":"2.7.2016","descr_fi":"Metal Legend interview Paitsi legendaaristen riffien tulkitsijana, Scott Ian tunnetaan myös erittäin kovana juttumiehenä. Lauantaina 2.7. näitä juttuja tulee livenä Solmusalissa. Haastattelijana Petri Eskelinen.","descr_en":"Metal Legend Interview","link_band":"http://scott-ian.com/","type":"band","schedule":[{"timeEnd":null,"stage":"solmu","timeBeg":null,"timeBegShift":"2016-07-02T14:00:00.000Z","timeEndShift":"2016-07-02T15:00:00.000Z"}]},"img":"img/band/scott_ian.jpg","starred":true},{"id":"stam1na","title_fi":"STAM1NA","title_en":"STAM1NA","date":"2.7.2016","descr_fi":"Lemin lahja musiikkimaailmalle, Stam1na, on edennyt urallaan jo seitsemänteen albumiinsa. Projektinimeä ”A” kantava uutukainen ilmestyy kauppoihin sekä internetin ihmeelliseen maailmaan ensi vuoden alkupuolella. Mitä siltä on odotettavissa? Stam1nan historialla voidaan odottaa ihan mitä vain. Nerokkuuden ja hulluuden rajamailla tasapainoilevan Stam1nan tuotoksia odotetaan aina suurella mielenkiinnolla. Niin myös nyt. Ja Stam1na toimittaa - se on varma.","descr_en":"Hailing from Lemi – a small town in eastern Finland, Stam1na is one of brightest shining stars of the vast metal culture this country has to offer. The band is set to release their seventh full length, tentatively named “A”, in early 2016. With Stam1na’s track record, we can expect anything. One thing is for sure - it’s going to be a masterpiece.","link_spotify":"spotify:artist:41nB823nb3wxEI25UeGHqG","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/Stam1naOfficial","type":"band","schedule":[{"timeEnd":"2016-07-02T20:25:00+02:00","stage":"second","timeBeg":"2016-07-02T19:25:00+02:00"}],"key":{"id":"stam1na","title_fi":"STAM1NA","title_en":"STAM1NA","date":"2.7.2016","descr_fi":"Lemin lahja musiikkimaailmalle, Stam1na, on edennyt urallaan jo seitsemänteen albumiinsa. Projektinimeä ”A” kantava uutukainen ilmestyy kauppoihin sekä internetin ihmeelliseen maailmaan ensi vuoden alkupuolella. Mitä siltä on odotettavissa? Stam1nan historialla voidaan odottaa ihan mitä vain. Nerokkuuden ja hulluuden rajamailla tasapainoilevan Stam1nan tuotoksia odotetaan aina suurella mielenkiinnolla. Niin myös nyt. Ja Stam1na toimittaa - se on varma.","descr_en":"Hailing from Lemi – a small town in eastern Finland, Stam1na is one of brightest shining stars of the vast metal culture this country has to offer. The band is set to release their seventh full length, tentatively named “A”, in early 2016. With Stam1na’s track record, we can expect anything. One thing is for sure - it’s going to be a masterpiece.","link_spotify":"spotify:artist:41nB823nb3wxEI25UeGHqG","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/Stam1naOfficial","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-02T18:25:00.000Z","timeEndShift":"2016-07-02T19:25:00.000Z"}]},"img":"img/band/stam1na.jpg","starred":false},{"id":"swallow_the_sun","title_fi":"SWALLOW THE SUN","title_en":"SWALLOW THE SUN","date":"1.7.2016","descr_fi":"S niin kuin doom. Raskaan sanoman saattajat lykkäsivät pihalle viime vuonna järkälemäisen kolmois-albumin Songs from the North, joten onkin vähintäänkin kohtuullista, että bändi soittaa ko. albumilta yhden levyn per päivä!\nSWALLOW THE SUN esittää tuoreen albumitrilogiansa akustisen kakkososan Solmusalissa lauantaina 2.7. Jokainen lauantain sisäänpääsyn omaava voi osallistua keikkalippujen arvontaan Infernon masinoimassa arvonnassa.","descr_en":"S stands for doom. Messengers of the melancholic doom metal released their colossal triple album \"Songs from the North\" came out last year and it has been received very well. It is rather fitting that the band will play three shows in Suvilahti to cover the whole album.","link_spotify":"spotify:artist:0ulKlNlo0iPx5ZS6VMTHWQ","link_band":"http://m.facebook.com/swallowthesun/","type":"band","schedule":[{"timeEnd":"2016-07-01T14:50:00+02:00","stage":"main","timeBeg":"2016-07-01T13:45:00+02:00"},{"timeEnd":"2016-07-03T16:40:00+02:00","stage":"club","timeBeg":"2016-07-03T15:40:00+02:00"},{"timeEnd":"2016-07-02T18:00:00+02:00","stage":"solmu","timeBeg":"2016-07-02T17:00:00+02:00"}],"key":{"id":"swallow_the_sun","title_fi":"SWALLOW THE SUN","title_en":"SWALLOW THE SUN","date":"1.7.2016","descr_fi":"S niin kuin doom. Raskaan sanoman saattajat lykkäsivät pihalle viime vuonna järkälemäisen kolmois-albumin Songs from the North, joten onkin vähintäänkin kohtuullista, että bändi soittaa ko. albumilta yhden levyn per päivä!\nSWALLOW THE SUN esittää tuoreen albumitrilogiansa akustisen kakkososan Solmusalissa lauantaina 2.7. Jokainen lauantain sisäänpääsyn omaava voi osallistua keikkalippujen arvontaan Infernon masinoimassa arvonnassa.","descr_en":"S stands for doom. Messengers of the melancholic doom metal released their colossal triple album \"Songs from the North\" came out last year and it has been received very well. It is rather fitting that the band will play three shows in Suvilahti to cover the whole album.","link_spotify":"spotify:artist:0ulKlNlo0iPx5ZS6VMTHWQ","link_band":"http://m.facebook.com/swallowthesun/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-01T12:45:00.000Z","timeEndShift":"2016-07-01T13:50:00.000Z"},{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-03T14:40:00.000Z","timeEndShift":"2016-07-03T15:40:00.000Z"},{"timeEnd":null,"stage":"solmu","timeBeg":null,"timeBegShift":"2016-07-02T16:00:00.000Z","timeEndShift":"2016-07-02T17:00:00.000Z"}]},"img":"img/band/swallow_the_sun.jpg","starred":false},{"id":"testament","title_fi":"TESTAMENT","title_en":"TESTAMENT","date":"1.7.2016","descr_fi":"Kalifornian rässiryhmä Testament on yksi skenensä itseoikeutetuista peruspilareista. Tämän thrash-aatelisen tarina käynnistyi vuonna 1987 julkaistun ”The Legacy” -debyyttialbumin myötä, minkä jälkeen yhtyeen levyjä on liikahtanut kauppojen hyllyiltä metallimielisten levylautasille yli 14 miljoonan kappaleen verran. Testament-kitaristi Alex Skolnickin mukaan bändin 11. studioalbumi ilmestyy alkuvuodesta 2016, joten Tuskassa bändi pääsee maustamaan klassikkokattausta tuorein rässisävelin. ","descr_en":"California’s own thrash patrol Testament is one of the cornerstones of its genre. The band’s career started back in 1987 when the group released its debut album ”The Legacy”. Ever since Testament has sold more than 14 million albums worldwide and according to Alex Skolnick 11th Testament album is coming out in early 2016. That said, Tuska-goers are about to enjoy fresh Californian thrash rhythms next summer.  ","link_spotify":"spotify:artist:28hJdGN1Awf7u3ifk2lVkg","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/testamentlegions","type":"band","schedule":[{"timeEnd":"2016-07-01T18:50:00+02:00","stage":"main","timeBeg":"2016-07-01T17:50:00+02:00"}],"key":{"id":"testament","title_fi":"TESTAMENT","title_en":"TESTAMENT","date":"1.7.2016","descr_fi":"Kalifornian rässiryhmä Testament on yksi skenensä itseoikeutetuista peruspilareista. Tämän thrash-aatelisen tarina käynnistyi vuonna 1987 julkaistun ”The Legacy” -debyyttialbumin myötä, minkä jälkeen yhtyeen levyjä on liikahtanut kauppojen hyllyiltä metallimielisten levylautasille yli 14 miljoonan kappaleen verran. Testament-kitaristi Alex Skolnickin mukaan bändin 11. studioalbumi ilmestyy alkuvuodesta 2016, joten Tuskassa bändi pääsee maustamaan klassikkokattausta tuorein rässisävelin. ","descr_en":"California’s own thrash patrol Testament is one of the cornerstones of its genre. The band’s career started back in 1987 when the group released its debut album ”The Legacy”. Ever since Testament has sold more than 14 million albums worldwide and according to Alex Skolnick 11th Testament album is coming out in early 2016. That said, Tuska-goers are about to enjoy fresh Californian thrash rhythms next summer.  ","link_spotify":"spotify:artist:28hJdGN1Awf7u3ifk2lVkg","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/testamentlegions","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-01T16:50:00.000Z","timeEndShift":"2016-07-01T17:50:00.000Z"}]},"img":"img/band/testament.jpg","starred":false},{"id":"thunderstone","title_fi":"THUNDERSTONE","title_en":"THUNDERSTONE","date":"2.7.2016","descr_fi":"Suomen power metal –poppoo on bäck! Uusi levy on tiskissä ja niittänyt arvostelumenestystä, myös Pasi Rantanen on tehnyt paluun mikin varteen. Voidaan siis helposti sanoa, että bändi on kovimmassa iskussa hetkeen! Mikäs sen parempi sauma ottaa Suvilahden lavat haltuun.","descr_en":"The Finnish power metal -group is back! New record has just been released and it has been met with positive feedback, and also Pasi Rantanen has made a comeback to band’s line-up. It can be safely said that the band is sharp as ever! What can be a better time to take over the stage in Suvilahti?","link_spotify":"spotify:artist:5FLzywPMVGQ62kSD3X0M8q","link_band":"https://m.facebook.com/ThunderstoneOfficial/","type":"band","schedule":[{"timeEnd":"2016-07-02T18:15:00+02:00","stage":"second","timeBeg":"2016-07-02T17:20:00+02:00"}],"key":{"id":"thunderstone","title_fi":"THUNDERSTONE","title_en":"THUNDERSTONE","date":"2.7.2016","descr_fi":"Suomen power metal –poppoo on bäck! Uusi levy on tiskissä ja niittänyt arvostelumenestystä, myös Pasi Rantanen on tehnyt paluun mikin varteen. Voidaan siis helposti sanoa, että bändi on kovimmassa iskussa hetkeen! Mikäs sen parempi sauma ottaa Suvilahden lavat haltuun.","descr_en":"The Finnish power metal -group is back! New record has just been released and it has been met with positive feedback, and also Pasi Rantanen has made a comeback to band’s line-up. It can be safely said that the band is sharp as ever! What can be a better time to take over the stage in Suvilahti?","link_spotify":"spotify:artist:5FLzywPMVGQ62kSD3X0M8q","link_band":"https://m.facebook.com/ThunderstoneOfficial/","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-02T16:20:00.000Z","timeEndShift":"2016-07-02T17:15:00.000Z"}]},"img":"img/band/thunderstone.jpg","starred":true},{"id":"tsjuder","title_fi":"TSJUDER","title_en":"TSJUDER","date":"2.7.2016","descr_fi":"Norjalainen Tsjuder perustettiin 1993 päämäränään luoda black metalia sen raaimmassa muodossa. Miehistövaihdoksista huolimatta trion edesottamukset ovat pysyneet vuosien saatossa alkutaipaleella kaavailluissa raameissa. Bändin biisinikikkarit, Nag ja Draugluin, ovat pitäneet sävelkynänsä terässä, mistä ajankohtaisimpana osoituksena syksyllä 2015 julkaistu ”Antiliv” -studioalbumi. TUSKASSA kitara- ja bassokaksikon rinnalla rumpaloi Anti-Christian. ","descr_en":"Tsjuder crawled up from beneath anno 1993. Their intention was to create the rawest form of Black Metal, and continue that for the lifetime of the band. Nag and Draugluin have been the main composers of the music from the scratch, which has led to their distinctive sound. The band released their latest studio album ”Antiliv” in September 2015. Current Tsjuder line-up is Nag (Bass and vocals), Draugluin (Guitars and backing vocals) and Anti-Christian (Drums).  ","link_spotify":"spotify:artist:0sD9rwKo3qPBs32gi97FNn","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/tsjuderofficial","type":"band","schedule":[{"timeEnd":"2016-07-02T14:40:00+02:00","stage":"second","timeBeg":"2016-07-02T13:55:00+02:00"}],"key":{"id":"tsjuder","title_fi":"TSJUDER","title_en":"TSJUDER","date":"2.7.2016","descr_fi":"Norjalainen Tsjuder perustettiin 1993 päämäränään luoda black metalia sen raaimmassa muodossa. Miehistövaihdoksista huolimatta trion edesottamukset ovat pysyneet vuosien saatossa alkutaipaleella kaavailluissa raameissa. Bändin biisinikikkarit, Nag ja Draugluin, ovat pitäneet sävelkynänsä terässä, mistä ajankohtaisimpana osoituksena syksyllä 2015 julkaistu ”Antiliv” -studioalbumi. TUSKASSA kitara- ja bassokaksikon rinnalla rumpaloi Anti-Christian. ","descr_en":"Tsjuder crawled up from beneath anno 1993. Their intention was to create the rawest form of Black Metal, and continue that for the lifetime of the band. Nag and Draugluin have been the main composers of the music from the scratch, which has led to their distinctive sound. The band released their latest studio album ”Antiliv” in September 2015. Current Tsjuder line-up is Nag (Bass and vocals), Draugluin (Guitars and backing vocals) and Anti-Christian (Drums).  ","link_spotify":"spotify:artist:0sD9rwKo3qPBs32gi97FNn","link_facebook":"https://m.facebook.com/events/532288886947170/","link_band":"http://m.facebook.com/tsjuderofficial","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-02T12:55:00.000Z","timeEndShift":"2016-07-02T13:40:00.000Z"}]},"img":"img/band/tsjuder.jpg","starred":false},{"id":"turmion_katilot","title_fi":"TURMION KÄTILÖT","title_en":"TURMION KÄTILÖT","date":"1.7.2016","descr_fi":"Savon sodomiitit tekee comebackin Suvilahteen! Mikäpäs siinä, tuorein lätty \"Diskovibrator\" menestyy ja bändillä on ollut kova meininki päällä ympäri Suomenmaan. Varmasti saamme kelpo irstailut ja jytinät myös tämän vuoden kekkereille. Muistakaa vain että silloin kun savolaiset on äänessä, niin vastuu ompi kuulijalla.","descr_en":"Turmion Kätilöt makes a comeback to Suvilahti this Summer! Their latest album \"Diskovibrator\" has been hot in Finland and they’ve been touring actively all over. These sodomites from Savo will deliver their distinct industrial metal with full force in Tuska. But remember, when the Savo speaks, the responsibility is on the one who hears.","link_band":"http://www.turmionkatilot.com/","type":"band","schedule":[{"timeEnd":"2016-07-02T15:40:00+02:00","stage":"main","timeBeg":"2016-07-02T14:40:00+02:00"}],"key":{"id":"turmion_katilot","title_fi":"TURMION KÄTILÖT","title_en":"TURMION KÄTILÖT","date":"1.7.2016","descr_fi":"Savon sodomiitit tekee comebackin Suvilahteen! Mikäpäs siinä, tuorein lätty \"Diskovibrator\" menestyy ja bändillä on ollut kova meininki päällä ympäri Suomenmaan. Varmasti saamme kelpo irstailut ja jytinät myös tämän vuoden kekkereille. Muistakaa vain että silloin kun savolaiset on äänessä, niin vastuu ompi kuulijalla.","descr_en":"Turmion Kätilöt makes a comeback to Suvilahti this Summer! Their latest album \"Diskovibrator\" has been hot in Finland and they’ve been touring actively all over. These sodomites from Savo will deliver their distinct industrial metal with full force in Tuska. But remember, when the Savo speaks, the responsibility is on the one who hears.","link_band":"http://www.turmionkatilot.com/","type":"band","schedule":[{"timeEnd":null,"stage":"main","timeBeg":null,"timeBegShift":"2016-07-02T13:40:00.000Z","timeEndShift":"2016-07-02T14:40:00.000Z"}]},"img":"img/band/turmion_katilot.jpg","starred":false},{"id":"whorion","title_fi":"WHORION","title_en":"WHORION","date":"1.7.2016","descr_fi":"Whorionin homma on mahtipontinen tekninen dödis. Melodiahommat on läsnä, soittotaito näpeissä, lyriikkapuolelle on viritelty kelpo tarinankerrontaa ja sinfonioitakaan ei ole unohdettu. Debyytti The Reign of 7th Sector pistettiin pihalle viime vuoden aikana ja bändi on käynyt jopa brittein saarilla asti levittämässä apokalyptistä sanomaansa.","descr_en":"Whorion itself describes their music as Technical death metal with symphonic atmosphere. Their debut album The Reign of 7th Sector was released last year. Whorion’s core competence relies in precice playing, haunting melodies, lyrics involving coherent storyline and majestetic symphony parts. If you feel that any of the previously mentioned attributes are your thing, you may want to see their show in Tuska this summer.","link_spotify":"spotify:artist:0o4qAia7lD0fQ9tjbpRtO8","link_band":"http://www.whorion.com/","type":"band","schedule":[{"timeEnd":"2016-07-01T13:45:00+02:00","stage":"club","timeBeg":"2016-07-01T13:15:00+02:00"}],"key":{"id":"whorion","title_fi":"WHORION","title_en":"WHORION","date":"1.7.2016","descr_fi":"Whorionin homma on mahtipontinen tekninen dödis. Melodiahommat on läsnä, soittotaito näpeissä, lyriikkapuolelle on viritelty kelpo tarinankerrontaa ja sinfonioitakaan ei ole unohdettu. Debyytti The Reign of 7th Sector pistettiin pihalle viime vuoden aikana ja bändi on käynyt jopa brittein saarilla asti levittämässä apokalyptistä sanomaansa.","descr_en":"Whorion itself describes their music as Technical death metal with symphonic atmosphere. Their debut album The Reign of 7th Sector was released last year. Whorion’s core competence relies in precice playing, haunting melodies, lyrics involving coherent storyline and majestetic symphony parts. If you feel that any of the previously mentioned attributes are your thing, you may want to see their show in Tuska this summer.","link_spotify":"spotify:artist:0o4qAia7lD0fQ9tjbpRtO8","link_band":"http://www.whorion.com/","type":"band","schedule":[{"timeEnd":null,"stage":"club","timeBeg":null,"timeBegShift":"2016-07-01T12:15:00.000Z","timeEndShift":"2016-07-01T12:45:00.000Z"}]},"img":"img/band/whorion.jpg","starred":false},{"id":"with_the_dead","title_fi":"WITH THE DEAD","title_en":"WITH THE DEAD","date":"2.7.2016","descr_fi":"Se ois pojat ja tytöt tuomionpäivä. With the Dead tulee louhimaan apokalyptiset ja kallon murskaavat doomit Suvilahteen. Pumppu on tuoreehko tapaus ja riveistä löytyy ukkoja mm. Cathedralista, Ramesessistä, Napalm Deathistä ja Electric Wizardista. Kuolo korjaa.","descr_en":"Doomsday is here. With the Dead arrives to Suvilahti to deliver their dosage of apocalyptic and skull splitting doom metal! The band is a rather fresh, consisting of members from bands like Cathedral, Ramesses, Napalm Death and Electric Wizard. Prepare to die!","link_spotify":"spotify:artist:7uIshiGD7WXAHvUS6j3Il6","link_band":"http://m.facebook.com/withthedead/","type":"band","schedule":[{"timeEnd":"2016-07-02T12:55:00+02:00","stage":"second","timeBeg":"2016-07-02T12:15:00+02:00"}],"key":{"id":"with_the_dead","title_fi":"WITH THE DEAD","title_en":"WITH THE DEAD","date":"2.7.2016","descr_fi":"Se ois pojat ja tytöt tuomionpäivä. With the Dead tulee louhimaan apokalyptiset ja kallon murskaavat doomit Suvilahteen. Pumppu on tuoreehko tapaus ja riveistä löytyy ukkoja mm. Cathedralista, Ramesessistä, Napalm Deathistä ja Electric Wizardista. Kuolo korjaa.","descr_en":"Doomsday is here. With the Dead arrives to Suvilahti to deliver their dosage of apocalyptic and skull splitting doom metal! The band is a rather fresh, consisting of members from bands like Cathedral, Ramesses, Napalm Death and Electric Wizard. Prepare to die!","link_spotify":"spotify:artist:7uIshiGD7WXAHvUS6j3Il6","link_band":"http://m.facebook.com/withthedead/","type":"band","schedule":[{"timeEnd":null,"stage":"second","timeBeg":null,"timeBegShift":"2016-07-02T11:15:00.000Z","timeEndShift":"2016-07-02T11:55:00.000Z"}]},"img":"img/band/with_the_dead.jpg","starred":false}]
+				"stage": "club",
+				"timeBeg": "2017-07-01T23:00:00+02:00",
+				"timeEnd": "2017-07-01T24:00:00+02:00"
+			}
+		],
+		"img": "img/band/him.jpeg",
+		"link_spotify": "spotify:artist:74aLweE8FHHf4yN5TWv1GM",
+		"link_band": "http://www.facebook.com/theheartagram",
+		"starred": false
+	},
+	{
+		"id": "mastodon",
+		"title_fi": "Mastodon",
+		"title_en": "Mastodon",
+		"descr_fi": "Atlantasta tuleva Mastodon on todellakin nimensä mukainen jättiläinen; kummajainen, jota omintakeinen, progressiivisen polveileva soundi ja huippuunsa viritetty soittotaito vievät poluille, joilla ei muita kulkijoita näy. Vaikka edellisellä \"Once More Around The Sun\"-levyllä Mastodon otti askeleen suorempaan ja helpommin lähestyttävään ilmaisuun, ovat sen kappaleet silti täynnä mestarillisesti sovitettuja koukkuja ja nyansseja, jotka ovat naamioitu siloitellumman kuoren alle. Mastodonin seuraava levy \"Emperor Of Sand\" julkaistaan maaliskuun lopussa ja siitä tulee eittämättä yksi vuoden tapauksista raskaan musiikin saralla.",
+		"descr_en": "Atlanta based Mastodon lives up to its name; a giant whose personal, progressive and multi-faceted sound and top-notch playing skills lead to path, that is walked alone. Although Mastodon took a step into more approachable direction with their latest \"Once More Around The Sun\"-album, the songs are still full of masterful hooks and nuances that have been disguised behind the smooth front. Mastodon are set to release their new album \"Emperor Of Sand\" in March and it will no doubt be one the releases of the year.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T14:30:00+02:00",
+				"timeEnd": "2017-07-02T15:30:00+02:00"
+			}
+		],
+		"img": "img/band/mastodon.jpeg",
+		"link_spotify": "spotify:artist:1Dvfqq39HxvCJ3GvfeIFuT",
+		"link_band": "https://www.facebook.com/Mastodon/",
+		"starred": false
+	},
+	{
+		"id": "apocalyptica",
+		"title_fi": "Apocalyptica",
+		"title_en": "Apocalyptica",
+		"descr_fi": "Kotimaamme selloihme Apocalyptica palaa vuosien tauon jälkeen Metallican materiaalin pariin ja mikä olisikaan parempi foorumi tälle nannalle, kuin Tuskan 20-vuotiskisat!",
+		"descr_en": "Finnish cello masters Apocalyptica return to their famous Metallica interpretations. What’s a better forum for this than Tuska’s 20 year bash!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T16:30:00+02:00",
+				"timeEnd": "2017-07-02T17:30:00+02:00"
+			}
+		],
+		"img": "img/band/apocalyptica.jpeg",
+		"link_spotify": "spotify:artist:4Lm0pUvmisUHMdoky5ch2I",
+		"link_band": "https://www.facebook.com/Apocalyptica/",
+		"starred": false
+	},
+	{
+		"id": "sonata-arctica",
+		"title_fi": "Sonata Arctica",
+		"title_en": "Sonata Arctica",
+		"descr_fi": "Kemin hevikeisarit, Sonata Arctica, pläjäyttivät pöytään aikamoisen pommin \"The 9th Hour\"-albumin muodossa. Levyä on kehuttu laajalti, eikä syyttä. Omaa kieltänsä puhuvat myös turvoksiin asti myydyt keikkasalit. Sonata on nyt vireessä!",
+		"descr_en": "The Metal Royalty of Kemi, Sonata Arctica, hit a home run with their current \"The 9th Hour\"-album. The fans love the album and for a good reason. Sonata are on fire!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T18:30:00+02:00",
+				"timeEnd": "2017-07-02T19:30:00+02:00"
+			}
+		],
+		"img": "img/band/sonata-arctica.jpeg",
+		"link_spotify": "spotify:artist:5YeoQ1L71cXDMpSpqxOjfH",
+		"link_band": "https://www.facebook.com/sonataarctica/",
+		"starred": false
+	},
+	{
+		"id": "dirkschneider",
+		"title_fi": "Dirkschneider",
+		"title_en": "Dirkschneider",
+		"descr_fi": "Harva laulaja on saavuttanut yhtä legendaarisia sfäärejä hevihommissa kun Saksan ylpeys Udo Dirkschneider. Accept-ajoillaan lähes jumal-statuksen varmistanut Dirkschneider on edelleen elämänsä vedossa ja päällikkö liipaisee parhaillaan käynnissä olevalla kiertueellaan Accept-klassikoita vielä viimeisen kerran.",
+		"descr_en": "Udo Dirkschneider, the name that is synonymous with metal greatness. The man, the myth, the voice. His ongoing tour will be your last chance to hear him sing the Accept-classics. We suggest you use the opportunity.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T20:30:00+02:00",
+				"timeEnd": "2017-07-02T21:30:00+02:00"
+			}
+		],
+		"img": "img/band/dirkschneider.jpeg",
+		"link_spotify": "spotify:artist:07CIzmTuAiQk4N2OikMfbw",
+		"link_band": "https://www.facebook.com/DIRKSCHNEIDEROfficial/",
+		"starred": false
+	},
+	{
+		"id": "baroness",
+		"title_fi": "Baroness",
+		"title_en": "Baroness",
+		"descr_fi": "Amerikan etelästä, Georgian osavaltion Savannahista tuleva, popisti muljutteleva Baroness palaa Tuskaan usean vuoden tauon jälkeen. Bändillä on plakkarissa loistava \"Purple\"-albumi, jonka tiimoilta bändiä ei vielä näillä turuilla ole nähtykään.",
+		"descr_en": "Baroness played the secod edition of Tuska in Suvilahti. They’re touring on their absolutely brilliant \"Purple\"-album and we’re super-stoked to have them back.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T22:30:00+02:00",
+				"timeEnd": "2017-07-02T23:30:00+02:00"
+			}
+		],
+		"img": "img/band/baroness.jpeg",
+		"link_spotify": "spotify:artist:3KdXhEwbqFHfNfSk7L9E87",
+		"link_band": "https://www.facebook.com/YourBaroness/",
+		"starred": false
+	},
+	{
+		"id": "battle-beast",
+		"title_fi": "Battle Beast",
+		"title_en": "Battle Beast",
+		"descr_fi": "Battle Beastin uutta levyä on odotettu kuin kuuta nousevaa ja nyt se tulee! Bringer Of Pain ilmestyy helmikuussa ja kuuluuhan asiaan toki myös Tuska-keikka. Heavy-metakkaa parhaimmillaan!",
+		"descr_en": "The new Battle Beast -album “Bringer Of Pain\" will be out in February. Heavy metal at its finest, that calls for celebration and a show at Tuska!",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-02T15:30:00+02:00",
+				"timeEnd": "2017-07-02T16:30:00+02:00"
+			}
+		],
+		"img": "img/band/battle-beast.jpeg",
+		"link_spotify": "spotify:artist:7k5jeohQCF20a8foBD9ize",
+		"link_band": "https://www.facebook.com/battlebeastofficial/",
+		"starred": false
+	},
+	{
+		"id": "jimsonweed",
+		"title_fi": "Jimsonweed",
+		"title_en": "Jimsonweed",
+		"descr_fi": "Jimsonweedin juuret ulottuvat 90-luvulle ja sen ajan Helsingin urbaaniin kaupunkielämään. Vuosien hiljaiselon ja muutamien hajanaisten keikkojen jälkeen, he ovat jälleen elämänsä vedossa ja Suho yksin tietää mitä tulevaisuus tuo tullessaan. Se on varmaa, että rokki soi, vauhtia ja vaarallasia tilanteita piisaa.",
+		"descr_en": "Jimsonweed has their roots in the nineties and the urban citylife of Helsinki. After years of silence, only few shows here and there, they mean business again, and only Suho knows what’s gonna happen in the future.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-02T17:30:00+02:00",
+				"timeEnd": "2017-07-02T18:30:00+02:00"
+			}
+		],
+		"img": "img/band/jimsonweed.jpeg",
+		"link_spotify": "spotify:artist:37pIXsRHYp1nh6QvBmIYBZ",
+		"starred": false
+	},
+	{
+		"id": "oranssi-pazuzu",
+		"title_fi": "Oranssi Pazuzu",
+		"title_en": "Oranssi Pazuzu",
+		"descr_fi": "Oranssi Pazuzun hämyily on saavuttanut viimeisimmän \"Värähtelijä\"-abumin myötä aivan uudet sfäärit. Jopa Amerikan-James on tykästynyt bändiin ja liputtanut härmän hämyjen puolesta vahvasti.",
+		"descr_en": "Oranssi Pazuzu are bringing their unique sound to please the Tuska-crowds. Recently applauded by James Hetfield himself, Oranssi Pazuzu are definitely on the come up.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-02T19:30:00+02:00",
+				"timeEnd": "2017-07-02T20:30:00+02:00"
+			}
+		],
+		"img": "img/band/oranssi-pazuzu.jpeg",
+		"link_spotify": "spotify:artist:3XFQRe2FsSOjrODygK4caW",
+		"link_band": "https://www.facebook.com/Oranssi-pazuzu/",
+		"starred": false
+	},
+	{
+		"id": "the-raven-age",
+		"title_fi": "The Raven Age",
+		"title_en": "The Raven Age",
+		"descr_fi": "Vuonna 2009 perustettu The Raven Age on julkaissut yhtyeen nimeä kantavan EP:n mutta kuitenkin pöhinä yhtyeen ympärillä on ollut melkoinen. Bändi on keikkaillut kiitettävästi ympäriinsä, vaikka ensimmäinen kokopitkä albumi julkaistaankin vasta tänä keväänä. Liekö pöhinän yksi syistä se, että yhtyeen toinen kitaristi ja perustajajäsen George Harris on Steve Harrisin poika? Oli miten oli, rautaneidon varjoon bändi ei ole jäämässä ja modernin melodisen metallin / metalcoren uusia säveliä kuullaan pian \"Darkness will rise\" albumin muodossa.",
+		"descr_en": "The Raven Age has released one self titled EP yet they’ve played all over and have had a positive vibe around their name since the beginning. Wonder if some of the vibes are caused by the fact that the guitarist and founding member George Harris is Steve Harris’s son? Either way, they’re not gonna be overshadowed by the Maiden and there’s gonna be some new premium modern melodic metal / metalcore out as soon as the “Darkness will rise\" album is released.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "second",
+				"timeBeg": "2017-07-02T21:30:00+02:00",
+				"timeEnd": "2017-07-02T22:30:00+02:00"
+			}
+		],
+		"img": "img/band/the-raven-age.jpeg",
+		"link_spotify": "spotify:artist:1Ia5iTYHMBsMQfi7Fbcbuw",
+		"link_band": "https://www.facebook.com/TheRavenAge/",
+		"starred": false
+	}
+]
