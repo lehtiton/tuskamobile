@@ -720,6 +720,82 @@
 		"starred": false
 	},
 	{
+		"id": "lik",
+		"title_fi": "LIK",
+		"title_en": "LIK",
+		"descr_fi": "Tukholmalainen LIK toimii kotipaikkansa kukoistavan death metal –perinteen vaatimalla tavalla. Ei mitään kikkailuja, ei mitään paskaa. Silkkaa death metallia – juuri kuten asian laidan kuuluukin olla.",
+		"descr_en": "Stockholm-based LIK move within the realms of the rich death metal tradition of their hometown. No frills, no bullshit, just plain old death metal. Just the way we like it.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-02T15:30:00+02:00",
+				"timeEnd": "2017-07-02T16:30:00+02:00"
+			}
+		],
+		"img": "img/band/lik.jpeg",
+		"link_spotify": "spotify:artist:0D5ly26kWmFNj6cbzIpJn7",
+		"link_band": "https://www.facebook.com/LIKofficial/",
+		"starred": false
+	},
+	{
+		"id": "huora",
+		"title_fi": "HUORA",
+		"title_en": "HUORA",
+		"descr_fi": "Tamperelainen Huora tuuttaa täyslaidallisen elämän ja punkin makuista sekameteliä. Vaikeitakaan aiheita ei kaihdeta, eikä sanomisia silotella. “Hukutaan paskaan” on vahva debyytti yhtyeeltä, jolta taittuu niin tarttuva riffittely kuin d-beat.",
+		"descr_en": "Huora (in English: whore) is a Tampere-based rock’n roll outfit who are apt in catchy riffing as well d-beating like it’s 1980 in the Midlands all over again. They will also say exactly what they think, and there’s nothing you can do about it.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-02T17:30:00+02:00",
+				"timeEnd": "2017-07-02T18:30:00+02:00"
+			}
+		],
+		"img": "img/band/huora.jpeg",
+		"link_spotify": "spotify:artist:2FK0OPnng20MwV4TCnm0Ei",
+		"link_band": "https://www.facebook.com/Huoraofficial/",
+		"starred": false
+	},
+	{
+		"id": "amendfoil",
+		"title_fi": "Amendfoil",
+		"title_en": "Amendfoil",
+		"descr_fi": "Amendfoil on ihastuttanut taidokkaalla ja vaihtoehtoisella metallillaan jo kahden albumin verran. Bändin tuore ”Empyrean & Ophidian”-albumi on mitä mainioin yhdistelmä tarttuvuutta ja musiikillisia äkkikäännöksiä.",
+		"descr_en": "Amendfoil just recently released their sophomore album titled, ”Empyrean & Ophidian” which continues their trademark sound of super-catchy choruses, impeccable musicianship and twisted riffs. These guys know their way around the ballpark and it’s only a matter of time before everyone else knows that too.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-02T19:30:00+02:00",
+				"timeEnd": "2017-07-02T20:30:00+02:00"
+			}
+		],
+		"img": "img/band/amendfoil.jpeg",
+		"link_spotify": "spotify:artist:3DFF45wnZVb7LQfebPUQq3",
+		"link_band": "https://www.facebook.com/pg/Amendfoil/",
+		"starred": false
+	},
+	{
+		"id": "mind-riot",
+		"title_fi": "Mind Riot",
+		"title_en": "Mind Riot",
+		"descr_fi": "Mind Riot oli eräs 90-luvun Suomi-metallin pioneereista ja kummajaisista seikkaillessaan tyylillisesti jossakin death metallin ja alternative rockin välimaastossa. Parin lupaavan albumijulkaisun jälkeen bändin into kuitenkin hiipui ja keulamies Tuomo Saikkonen aloitti pitkän polkunsa Mokoman kitaristina. 20 vuoden hiljaiselon jälkeen Mind Riot on päättänyt äänittää muutaman pöytälaatikossa kummittelevan kappaleen ja tehdä jokusen keikankin.",
+		"descr_en": "Mind Riot was one of the pioneers of Finnish metal in the 90's, hovering somewhere in between death metal and alternative rock. After a few promising releases life happened and front man Tuomo Saikkonen started his long year journey as the guitar player of one of the biggest names in Finnish metal, Mokoma. After a 20 year hiatus, Mind Riot is back together with a few unreleased songs put out and a few shows to play.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "club",
+				"timeBeg": "2017-07-02T21:30:00+02:00",
+				"timeEnd": "2017-07-02T22:30:00+02:00"
+			}
+		],
+		"img": "img/band/mind-riot.jpeg",
+		"link_spotify": "spotify:artist:6BlRfWG9rbNH92paK9O8pp",
+		"link_band": "https://www.facebook.com/mindriotofficial/",
+		"starred": false
+	},
+	{
 		"id": "battle-beast",
 		"title_fi": "Battle Beast",
 		"title_en": "Battle Beast",
