@@ -1,6 +1,17 @@
 [
 
     {
+        "category": "merchant",
+        "title_fi": "Alepa",
+        "title_en": "Alepa",
+        "descr_fi": "<p>Alepan festairkontista saat kaikki tuotteet arkihinnoin, ilman ”festarilisää” tai muuta kurjuutusta hyvällä tykityksellä!<\/p>",
+        "descr_en": "<p>All products sold in the Alepa container on the venue have normal prices, with no additional festival taxing or other miseries, only good cannoning!<\/p>",
+        "img": "img/alepa.png",
+        "lat": "35.5925",
+        "lng": "-36.41025"
+    },
+
+    {
         "category": "restaurant",
         "title_fi": "Ateriapalvelu Rakkaz",
         "title_en": "Ateriapalvelu Rakkaz",
@@ -31,6 +42,17 @@
         "img": "img/elmed_herkkuja.png",
         "lat": "72.2135",
         "lng": "-57.81525"
+    },
+
+    {
+        "category": "merchant",
+        "title_fi": "EMP",
+        "title_en": "EMP",
+        "descr_fi": "<p>Tuskan virallinen nimmaripiste. Artistien vierailuajat julkaistaan niiden vahvistuessa EMPsivuilla sekä Tuskan uutisvirrassa.<\/p>",
+        "descr_en": "<p>Tuska’s official autograph spot. Artists visiting times will be posted on EMP website and Tuska newsfeed as soon as they are confirmed.<\/p>",
+        "img": "img/emp.png",
+        "lat": "54.4655",
+        "lng": "-68.01275"
     },
 
     {
