@@ -140,7 +140,7 @@
 		"type": "band",
 		"schedule": [
 			{
-				"stage": "second",
+				"stage": "club",
 				"timeBeg": "2017-06-30T19:45:00+03:00",
 				"timeEnd": "2017-06-30T20:30:00+03:00"
 			}
@@ -450,25 +450,6 @@
 		"img": "img/band/lik.jpeg",
 		"link_spotify": "spotify:artist:0D5ly26kWmFNj6cbzIpJn7",
 		"link_band": "https://www.facebook.com/LIKofficial/",
-		"starred": false
-	},
-	{
-		"id": "loose-voittaja",
-		"title_fi": "Loose-voittaja",
-		"title_en": "Loose winner",
-		"descr_fi": "Loose-voittaja",
-		"descr_en": "Loose winner",
-		"type": "band",
-		"schedule": [
-			{
-				"stage": "main",
-				"timeBeg": "2017-07-02T14:10:00+03:00",
-				"timeEnd": "2017-07-02T14:40:00+03:00"
-			}
-		],
-		"img": "img/band/loose-voittaja.jpeg",
-		"link_spotify": "",
-		"link_band": "",
 		"starred": false
 	},
 	{
@@ -852,6 +833,25 @@
 		"starred": false
 	},
 	{
+		"id": "loose-voittaja",
+		"title_fi": "Tuska-torstai -voittaja",
+		"title_en": "Tuska-torstai winner",
+		"descr_fi": "Tuska-torstai -voittaja",
+		"descr_en": "Tuska-torstai winner",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "main",
+				"timeBeg": "2017-07-02T14:10:00+03:00",
+				"timeEnd": "2017-07-02T14:40:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
 		"id": "wintersun",
 		"title_fi": "Wintersun",
 		"title_en": "Wintersun",
@@ -868,6 +868,120 @@
 		"img": "img/band/wintersun.jpeg",
 		"link_spotify": "spotify:artist:6ui6SwChan7c1KYBQCqGKV",
 		"link_band": "https://www.facebook.com/wintersun",
+		"starred": false
+	},
+	{
+		"id": "anneke",
+		"title_fi": "ANNEKE VON KRIESBERGER (invite only)",
+		"title_en": "ANNEKE VON KRIESBERGER (invite only)",
+		"descr_fi": "ANNEKE VON KRIESBERGER (invite only)",
+		"descr_en": "ANNEKE VON KRIESBERGER (invite only)",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-06-30T18:30:00+03:00",
+				"timeEnd": "2017-06-30T19:00:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
+		"id": "critical",
+		"title_fi": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
+		"title_en": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
+		"descr_fi": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
+		"descr_en": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-06-30T17:15:00+03:00",
+				"timeEnd": "2017-06-30T18:00:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
+		"id": "helvetin",
+		"title_fi": "HELVETIN MUSTAA pt 2",
+		"title_en": "HELVETIN MUSTAA pt 2",
+		"descr_fi": "HELVETIN MUSTAA pt 2",
+		"descr_en": "HELVETIN MUSTAA pt 2",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-07-01T15:30:00+03:00",
+				"timeEnd": "2017-07-01T16:15:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
+		"id": "tba1",
+		"title_fi": "TBA1",
+		"title_en": "TBA1",
+		"descr_fi": "TBA1",
+		"descr_en": "TBA1",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-07-01T17:00:00+03:00",
+				"timeEnd": "2017-07-01T17:45:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
+		"id": "tba2",
+		"title_fi": "TBA2",
+		"title_en": "TBA2",
+		"descr_fi": "TBA2",
+		"descr_en": "TBA2",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-07-02T13:00:00+03:00",
+				"timeEnd": "2017-07-02T13:45:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
+	},
+	{
+		"id": "tba3",
+		"title_fi": "TBA3",
+		"title_en": "TBA3",
+		"descr_fi": "TBA3",
+		"descr_en": "TBA3",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-07-02T16:00:00+03:00",
+				"timeEnd": "2017-07-02T16:45:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
 		"starred": false
 	}
 ]
