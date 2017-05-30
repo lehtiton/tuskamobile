@@ -929,10 +929,10 @@
 	},
 	{
 		"id": "tba1",
-		"title_fi": "TBA1",
-		"title_en": "TBA1",
-		"descr_fi": "TBA1",
-		"descr_en": "TBA1",
+		"title_fi": "Vahvistamatta",
+		"title_en": "To be confimed",
+		"descr_fi": "Esiintyjä vahvistamatta",
+		"descr_en": "To be confimed",
 		"type": "band",
 		"schedule": [
 			{
@@ -948,16 +948,16 @@
 	},
 	{
 		"id": "tba2",
-		"title_fi": "TBA2",
-		"title_en": "TBA2",
-		"descr_fi": "TBA2",
-		"descr_en": "TBA2",
+		"title_fi": "Vahvistamatta",
+		"title_en": "To be confimed",
+		"descr_fi": "Esiintyjä vahvistamatta",
+		"descr_en": "To be confimed",
 		"type": "band",
 		"schedule": [
 			{
 				"stage": "solmu",
-				"timeBeg": "2017-07-02T13:00:00+03:00",
-				"timeEnd": "2017-07-02T13:45:00+03:00"
+				"timeBeg": "2017-07-02T14:30:00+03:00",
+				"timeEnd": "2017-07-02T15:15:00+03:00"
 			}
 		],
 		"img": "img/band/no-img.jpg",
@@ -967,10 +967,10 @@
 	},
 	{
 		"id": "tba3",
-		"title_fi": "TBA3",
-		"title_en": "TBA3",
-		"descr_fi": "TBA3",
-		"descr_en": "TBA3",
+		"title_fi": "Vahvistamatta",
+		"title_en": "To be confimed",
+		"descr_fi": "Esiintyjä vahvistamatta",
+		"descr_en": "To be confimed",
 		"type": "band",
 		"schedule": [
 			{
