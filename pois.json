@@ -15,7 +15,7 @@
         "category": "restaurant",
         "title_fi": "Ateriapalvelu Rakkaz",
         "title_en": "Ateriapalvelu Rakkaz",
-        "descr_fi": "<p>Rakkazin valikoimiin kuuluvat tapahtuma-annosten klassikot kuten makkaraperunat, kebab- ja kana-ateriat sekä muikut, kasvisruokaa ja kahvia unohtamatta.<\/p>",
+        "descr_fi": "<p>Rakkazin valikoimiin kuuluvat festariannosten klassikot kuten makkaraperunat, kebab- ja kana-ateriat sekä muikut, kasvisruokaa ja kahvia unohtamatta.<\/p>",
         "descr_en": "<p>If you’re after for traditional festival dishes such as sausage & french fries, kebab and chicken skewers Rakkaz’s selling booth is the place to head for.<\/p>",
         "img": "img/rakkaz.jpg",
         "lat": "35.5925",
@@ -24,10 +24,21 @@
 
     {
         "category": "restaurant",
+        "title_fi": "Black Dining",
+        "title_en": "Black Dining",
+        "descr_fi": "<p>Ala carte ravintolan menusta löydät jälleen niin lihattomat kuin lihalliset nautinnot laadukkaan juomatarjonnan kyljestä. Mustempi ruoka, synkempi mieli.<\/p>",
+        "descr_en": "<p>A menu of the a la carte restaurant includes the most delicious meat and vegetarian courses accompanied by an exquisite drink selection.<\/p>",
+        "img": "img/black_dining.jpg",
+        "lat": "76.82401",
+        "lng": "80.80638"
+    },
+
+    {
+        "category": "restaurant",
         "title_fi": "Black Grill&Cafe",
         "title_en": "Black Grill&Cafe",
         "descr_fi": "<p>Premium burgerit, tuliset wingsit, makkaraperunat, ja lisänä myös Skandinaaviset herkut: Kuusamon muikkua, poropyörykkää, varhaisperunaa ja säräjuuresta.<\/p>",
-        "descr_en": "<p>Premium burgers, hot & spicy chicken wings and potatoes & sausages. We also have Skandinavian delicates; fish from Lapland, reindeer meatballs, new potatoes and mixed root vegetables.<\/p>",
+        "descr_en": "<p>Premium burgers, hot & spicy chicken wings and potatoes & sausages. We also have Skandinavian delicates.<\/p>",
         "img": "img/black_grill.jpg",
         "lat": "76.82401",
         "lng": "80.80638"
@@ -38,7 +49,7 @@
         "title_fi": "Elmed Herkkuja",
         "title_en": "Elmed Herkkuja",
         "descr_fi": "<p>Elmed Herkkuja Välimeren kaikilta rannoilta! Hakaniemen Hallista tuttu Elmed Herkkuja tarjoilee mm. kana- ja lihapatoja ja falafelia.<\/p>",
-        "descr_en": "<p>Elmed Herkkuja from the shores of Mediterranean Sea! Known from Hakaniemi Market Hall Elmed Herkkuja serves you for example chicken- and meat casserole and falafel.<\/p>",
+        "descr_en": "<p>Elmed Herkkuja from the shores of Mediterranean Sea! Known from Hakaniemi Market Hall we serve you for example chicken- and meat casserole and falafel.<\/p>",
         "img": "img/elmed_herkkuja.png",
         "lat": "72.2135",
         "lng": "-57.81525"
@@ -97,6 +108,17 @@
         "img": "img/kolme_kaveria.png",
         "lat": "87.062",
         "lng": "-44.18763"
+    },
+
+    {
+        "category": "merchant",
+        "title_fi": "Official Merchandise",
+        "title_en": "Official Merchandise",
+        "descr_fi": "<p>Tuskan merkkaritiskiltä voi napata mukaan niin festivaalin omat myyntituotteet kuin viikonloppuna esiintyvien artistienkin viralliset kuteet.<\/p>",
+        "descr_en": "<p>From Official Merchandise you can grab the festival’s own official products as well as merchandise of all the artists that play during the weekend.<\/p>",
+        "img": "img/official_merchandise.png",
+        "lat": "76.82401",
+        "lng": "80.80638"
     },
 
     {
