@@ -1,14 +1,13 @@
 [
-
     {
         "category": "merchant",
         "title_fi": "Alepa",
         "title_en": "Alepa",
-        "descr_fi": "<p>Alepan festairkontista saat kaikki tuotteet arkihinnoin, ilman ”festarilisää” tai muuta kurjuutusta hyvällä tykityksellä!<\/p>",
+        "descr_fi": "<p>Alepan festarikontista saat kaikki tuotteet arkihinnoin, ilman ”festarilisää” tai muuta kurjuutusta hyvällä tykityksellä!<\/p>",
         "descr_en": "<p>All products sold in the Alepa container on the venue have normal prices, with no additional festival taxing or other miseries, only good cannoning!<\/p>",
         "img": "img/alepa.png",
-        "lat": "35.5925",
-        "lng": "-36.41025"
+        "lat": "-5.5925",
+        "lng": "-75.41025"
     },
 
     {
@@ -18,8 +17,8 @@
         "descr_fi": "<p>Rakkazin valikoimiin kuuluvat festariannosten klassikot kuten makkaraperunat, kebab- ja kana-ateriat sekä muikut, kasvisruokaa ja kahvia unohtamatta.<\/p>",
         "descr_en": "<p>If you’re after for traditional festival dishes such as sausage & french fries, kebab and chicken skewers Rakkaz’s selling booth is the place to head for.<\/p>",
         "img": "img/rakkaz.jpg",
-        "lat": "35.5925",
-        "lng": "-36.41025"
+        "lat": "-102.5925",
+        "lng": "31.01025"
     },
 
     {
@@ -29,8 +28,8 @@
         "descr_fi": "<p>Ala carte ravintolan menusta löydät jälleen niin lihattomat kuin lihalliset nautinnot laadukkaan juomatarjonnan kyljestä. Mustempi ruoka, synkempi mieli.<\/p>",
         "descr_en": "<p>A menu of the a la carte restaurant includes the most delicious meat and vegetarian courses accompanied by an exquisite drink selection.<\/p>",
         "img": "img/black_dining.jpg",
-        "lat": "76.82401",
-        "lng": "80.80638"
+        "lat": "84.5925",
+        "lng": "84.01025"
     },
 
     {
@@ -40,8 +39,8 @@
         "descr_fi": "<p>Premium burgerit, tuliset wingsit, makkaraperunat, ja lisänä myös Skandinaaviset herkut: Kuusamon muikkua, poropyörykkää, varhaisperunaa ja säräjuuresta.<\/p>",
         "descr_en": "<p>Premium burgers, hot & spicy chicken wings and potatoes & sausages. We also have Skandinavian delicates.<\/p>",
         "img": "img/black_grill.jpg",
-        "lat": "76.82401",
-        "lng": "80.80638"
+        "lat": "-99.5925",
+        "lng": "26.01025"
     },
 
     {
@@ -51,8 +50,8 @@
         "descr_fi": "<p>Elmed Herkkuja Välimeren kaikilta rannoilta! Hakaniemen Hallista tuttu Elmed Herkkuja tarjoilee mm. kana- ja lihapatoja ja falafelia.<\/p>",
         "descr_en": "<p>Elmed Herkkuja from the shores of Mediterranean Sea! Known from Hakaniemi Market Hall we serve you for example chicken- and meat casserole and falafel.<\/p>",
         "img": "img/elmed_herkkuja.png",
-        "lat": "72.2135",
-        "lng": "-57.81525"
+        "lat": "-113.5925",
+        "lng": "47.01025"
     },
 
     {
@@ -62,8 +61,8 @@
         "descr_fi": "<p>Tuskan virallinen nimmaripiste. Artistien vierailuajat julkaistaan niiden vahvistuessa EMPsivuilla sekä Tuskan uutisvirrassa.<\/p>",
         "descr_en": "<p>Tuska’s official autograph spot. Artists visiting times will be posted on EMP website and Tuska newsfeed as soon as they are confirmed.<\/p>",
         "img": "img/emp.png",
-        "lat": "54.4655",
-        "lng": "-68.01275"
+        "lat": "0.4655",
+        "lng": "92.01275"
     },
 
     {
@@ -73,8 +72,8 @@
         "descr_fi": "<p>Feri’s Sausages on pieni yritys Helsingin ytimessä, jonka makkarat on rakkaudella itse valmistettu suomalaisesta lihasta ja laatumausteista!<\/p>",
         "descr_en": "<p>Feri's Sausages is a small business in downtown Helsinki producing artesanal sausages made of Finnish meat, quality spices and lots of love! <\/p>",
         "img": "img/feris.png",
-        "lat": "54.4655",
-        "lng": "-68.01275"
+        "lat": "-94.5925",
+        "lng": "20.01025"
     },
 
     {
@@ -84,8 +83,8 @@
         "descr_fi": "<p>Helsingin Forumissa sijaitseva India House on pohjoisintialaiseen ruokakulttuuriin erikoistunut intialainen ravintola.<\/p>",
         "descr_en": "<p>In the heart of Helsinki’s Forum can be found India House, an Indian restaurant specializing in North Indian cuisine.<\/p>",
         "img": "img/inida_house.png",
-        "lat": "47.9655",
-        "lng": "-70.71275"
+        "lat": "-80.5925",
+        "lng": "6.01025"
     },
 
     {
@@ -95,8 +94,8 @@
         "descr_fi": "<p>Aidosti itse tammella savustetuista lihaherkuista valmistetut annokset lisukkeineen.<\/p>",
         "descr_en": "<p>Genuinely self-made meat treats smoked with oak plus delicious sides.<\/p>",
         "img": "img/jjs_bbq.jpg",
-        "lat": "83.064",
-        "lng": "-51.60775"
+        "lat": "-108.5925",
+        "lng": "35.51025"
     },
 
     {
@@ -106,8 +105,8 @@
         "descr_fi": "<p>Kotimainen jäätelötehdas valmistaa jäätelönsä puhtaista ja raikkaista raaka-aineista.<\/p>",
         "descr_en": "<p>Ice cream prepared with pure and fresh ingredients, made in Finland.<\/p>",
         "img": "img/kolme_kaveria.png",
-        "lat": "87.062",
-        "lng": "-44.18763"
+        "lat": "-113.5925",
+        "lng": "55.01025"
     },
 
     {
@@ -117,19 +116,19 @@
         "descr_fi": "<p>Tuskan merkkaritiskiltä voi napata mukaan niin festivaalin omat myyntituotteet kuin viikonloppuna esiintyvien artistienkin viralliset kuteet.<\/p>",
         "descr_en": "<p>From Official Merchandise you can grab the festival’s own official products as well as merchandise of all the artists that play during the weekend.<\/p>",
         "img": "img/official_merchandise.png",
-        "lat": "76.82401",
-        "lng": "80.80638"
+        "lat": "-47.5925",
+        "lng": "-19.01025"
     },
 
     {
         "category": "restaurant",
-        "title_fi": "Papa’s Smokery BBQ",
-        "title_en": "Papa’s Smokery BBQ",
+        "title_fi": "Fafa’s Smokery BBQ",
+        "title_en": "Fafa’s Smokery BBQ",
         "descr_fi": "<p>Ensiluokkaisesti savustettua lihaa ja burgereita.<\/p>",
         "descr_en": "<p>Premium Smoked Meat & Burgers.<\/p>",
         "img": "img/papas.jpg",
-        "lat": "42.679",
-        "lng": "-74.18775"
+        "lat": "-85.5925",
+        "lng": "11.01025"
     },
 
     {
@@ -139,8 +138,7 @@
         "descr_fi": "<p>Ravintola Soi Soi:sta herkullista kasvisruokaa pikaisesti.<\/p>",
         "descr_en": "<p>Get delicious vege food fast from Soi Soi.<\/p>",
         "img": "img/soisoi.png",
-        "lat": "37.56799",
-        "lng": "-77.02725"
+        "lat": "-90.5925",
+        "lng": "16.01025"
     }
-
 ]
