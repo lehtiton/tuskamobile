@@ -341,8 +341,8 @@
 	},
 	{
 		"id": "huora",
-		"title_fi": "HUORA",
-		"title_en": "HUORA",
+		"title_fi": "Huora",
+		"title_en": "Huora",
 		"descr_fi": "Tamperelainen Huora tuuttaa täyslaidallisen elämän ja punkin makuista sekameteliä. Vaikeitakaan aiheita ei kaihdeta, eikä sanomisia silotella. “Hukutaan paskaan” on vahva debyytti yhtyeeltä, jolta taittuu niin tarttuva riffittely kuin d-beat.",
 		"descr_en": "Huora (in English: whore) is a Tampere-based rock’n roll outfit who are apt in catchy riffing as well d-beating like it’s 1980 in the Midlands all over again. They will also say exactly what they think, and there’s nothing you can do about it.",
 		"type": "band",
@@ -872,10 +872,10 @@
 	},
 	{
 		"id": "anneke",
-		"title_fi": "ANNEKE VON KRIESBERGER (invite only)",
-		"title_en": "ANNEKE VON KRIESBERGER (invite only)",
-		"descr_fi": "ANNEKE VON KRIESBERGER (invite only)",
-		"descr_en": "ANNEKE VON KRIESBERGER (invite only)",
+		"title_fi": "Anneke von Kriesberger (invite only)",
+		"title_en": "Anneke von Kriesberger (invite only)",
+		"descr_fi": "Anneke von Kriesberger (invite only)",
+		"descr_en": "Anneke von Kriesberger (invite only)",
 		"type": "band",
 		"schedule": [
 			{
