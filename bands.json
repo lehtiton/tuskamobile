@@ -891,10 +891,10 @@
 	},
 	{
 		"id": "critical",
-		"title_fi": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
-		"title_en": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
-		"descr_fi": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
-		"descr_en": "CRITICAL HEADBANGING AND RESPECTFUL MOSHING",
+		"title_fi": "Critical Headbanging And Respectful Moshing",
+		"title_en": "Critical Headbanging And Respectful Moshing",
+		"descr_fi": "Critical Headbanging And Respectful Moshing",
+		"descr_en": "Critical Headbanging And Respectful Moshing",
 		"type": "band",
 		"schedule": [
 			{
@@ -910,10 +910,10 @@
 	},
 	{
 		"id": "helvetin",
-		"title_fi": "HELVETIN MUSTAA pt 2",
-		"title_en": "HELVETIN MUSTAA pt 2",
-		"descr_fi": "HELVETIN MUSTAA pt 2",
-		"descr_en": "HELVETIN MUSTAA pt 2",
+		"title_fi": "Helvetin mustaa pt 2",
+		"title_en": "Helvetin mustaa pt 2",
+		"descr_fi": "Helvetin mustaa pt 2",
+		"descr_en": "Helvetin mustaa pt 2",
 		"type": "band",
 		"schedule": [
 			{
