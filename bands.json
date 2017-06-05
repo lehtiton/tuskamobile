@@ -872,10 +872,10 @@
 	},
 	{
 		"id": "anneke",
-		"title_fi": "Anneke von Kriesberger (invite only)",
-		"title_en": "Anneke von Kriesberger (invite only)",
-		"descr_fi": "Anneke von Kriesberger (invite only)",
-		"descr_en": "Anneke von Kriesberger (invite only)",
+		"title_fi": "Anneke Von Giersberger (invite only)",
+		"title_en": "Anneke Von Giersberger (invite only)",
+		"descr_fi": "Anneke Von Giersberger (invite only)",
+		"descr_en": "Anneke Von Giersberger (invite only)",
 		"type": "band",
 		"schedule": [
 			{
@@ -891,35 +891,16 @@
 	},
 	{
 		"id": "critical",
-		"title_fi": "Critical Headbanging And Respectful Moshing",
+		"title_fi": "Pahan vastapuolella – Metalli ja eettisyys",
 		"title_en": "Critical Headbanging And Respectful Moshing",
-		"descr_fi": "Critical Headbanging And Respectful Moshing",
-		"descr_en": "Critical Headbanging And Respectful Moshing",
+		"descr_fi": "Eettiset teemat ja hyväntekeväisyys ovat nousseet viime aikoina entistä näkyvämmin esille useiden metalliartistien ja bändien toimesta. Miksi näin? Onko eettisyys metallin uusi musta? Asiaa pohtivat brittiläinen tutkija ja kansainvälisen metallitutkijakonklaavin pääpiru Niall W.R. Scott ja Stam1nan kepittäjä Pekka Olkkonen. Keskustelua moderoi hevidosentti Toni-Matti Karjalainen. Tilaisuus on englanninkielinen.",
+		"descr_en": "Ethical themes and charity have been recently embraced by many metal artists and bands. Why? Are criticality and morality the new black in metal? This will be contemplated by British Scholar and Chair of International Society for Metal Music Studies Niall Scott and Stam1na guitarist Pekka Olkkonen. Discussion is moderated by metal researcher Toni-Matti Karjalainen. The event will be held in English.",
 		"type": "band",
 		"schedule": [
 			{
 				"stage": "solmu",
-				"timeBeg": "2017-06-30T17:15:00+03:00",
-				"timeEnd": "2017-06-30T18:00:00+03:00"
-			}
-		],
-		"img": "img/band/no-img.jpg",
-		"link_spotify": "",
-		"link_band": "",
-		"starred": false
-	},
-	{
-		"id": "helvetin",
-		"title_fi": "Helvetin mustaa pt 2",
-		"title_en": "Helvetin mustaa pt 2",
-		"descr_fi": "Helvetin mustaa pt 2",
-		"descr_en": "Helvetin mustaa pt 2",
-		"type": "band",
-		"schedule": [
-			{
-				"stage": "solmu",
-				"timeBeg": "2017-07-01T15:30:00+03:00",
-				"timeEnd": "2017-07-01T16:15:00+03:00"
+				"timeBeg": "2017-06-30T17:00:00+03:00",
+				"timeEnd": "2017-06-30T17:45:00+03:00"
 			}
 		],
 		"img": "img/band/no-img.jpg",
@@ -929,10 +910,10 @@
 	},
 	{
 		"id": "tba1",
-		"title_fi": "Vahvistamatta",
-		"title_en": "To be confimed",
-		"descr_fi": "Esiintyjä vahvistamatta",
-		"descr_en": "To be confimed",
+		"title_fi": "Game Över - suuri pelimusiikkikeskustelu",
+		"title_en": "Game Över - The Great Game Music Discussion",
+		"descr_fi": "Pelimusiikin syvimmästä olemuksesta keskustelemassa ammatikseen pelimusiikkia säveltävät muusikot Trollhorn (Finntroll) ja Jakke Viitala (Crimfall). Keskustelua moderoi Suomen Musiikin Kari Hynninen. Tilaisuus on suomenkielinen.",
+		"descr_en": "The event will be held in Finnish.",
 		"type": "band",
 		"schedule": [
 			{
@@ -947,17 +928,17 @@
 		"starred": false
 	},
 	{
-		"id": "tba2",
-		"title_fi": "Vahvistamatta",
-		"title_en": "To be confimed",
-		"descr_fi": "Esiintyjä vahvistamatta",
-		"descr_en": "To be confimed",
+		"id": "helvetin",
+		"title_fi": "Helvetin mustaa pt 2 – Pimeyden estetiikka nykymetallissa",
+		"title_en": "Black As Hell – The aesthetics of darkness in modern metal",
+		"descr_fi": "Miten se ilmenee? Mistä se kumpuaa? Ketä se kiinnostaa? Solmusalissa vuonna 2016 aloitettu keskustelu jatkuu. Mukana kauhukirjailija Marko Hautala, toimittaja/kirjailija Viljami Puustinen sekä tutkivat muusikot Titus Hjelm ja Kimi Kärki. Keskustelua moderoi hevidosentti Toni-Matti Karjalainen.",
+		"descr_en": "The event will be held in Finnish.",
 		"type": "band",
 		"schedule": [
 			{
 				"stage": "solmu",
-				"timeBeg": "2017-07-02T14:30:00+03:00",
-				"timeEnd": "2017-07-02T15:15:00+03:00"
+				"timeBeg": "2017-07-01T15:30:00+03:00",
+				"timeEnd": "2017-07-01T16:15:00+03:00"
 			}
 		],
 		"img": "img/band/no-img.jpg",
@@ -967,10 +948,10 @@
 	},
 	{
 		"id": "tba3",
-		"title_fi": "Vahvistamatta",
-		"title_en": "To be confimed",
-		"descr_fi": "Esiintyjä vahvistamatta",
-		"descr_en": "To be confimed",
+		"title_fi": "Hikeä ja hurmosta – Metallin ja urheilun epäpyhä liitto",
+		"title_en": "Sweat And Ecstacy – The unholy alliance of metal and sports",
+		"descr_fi": "”Musiikki pelasti minut urheilulta”, sanotaan. Toisaalta metalli raikaa laajalti eri urheilutapahtumissa, metallikansasta löytyy paljon urheiluhulluja, ja fanikulttuureista löytyy yhtäläisyyksiä. Suomalaiset myös usein nähdään maailmalla nimenomaan metalli- ja urheilukansana. Vai nähdäänkö? Tätä pohtivat Suomen tennissankari ja metallifani Jarkko Nieminen sekä urheilusta inspiroituvat metallibasistit Henkka Seppälä (Children of Bodom) ja Eero Sipilä (Battle Beast). Keskustelua moderoi urheileva hevidosentti Toni-Matti Karjalainen. ",
+		"descr_en": "The event will be held in Finnish.",
 		"type": "band",
 		"schedule": [
 			{
@@ -983,5 +964,25 @@
 		"link_spotify": "",
 		"link_band": "",
 		"starred": false
+	},
+	{
+		"id": "tba2",
+		"title_fi": "Kirjakerho",
+		"title_en": "Book circle",
+		"descr_fi": "Kaksi karvaista miestä – rocktoimittaja Markus Laakso ja Mokoman keulakuva Marko Annala – nähdään Tuska-sunnuntaina Suvilahdessa hieman erilaisissa rooleissa, kumpainenkin kirjailijoina. Laakson toimittama Amorphis-kirja ja Annalan Värityskirja julkaistiin molemmat aikaisemmin tänä vuonna, ja nyt metallimiehet herkistyvät kirjallisen luovuuden syviin vesiin Heta Hyttisen luotsaamana.",
+		"descr_en": "Rock journalist Markus Laakso and Mokoma frontman Marko Annala discuss what being an author is all about. The event will be held in Finnish.",
+		"type": "band",
+		"schedule": [
+			{
+				"stage": "solmu",
+				"timeBeg": "2017-07-02T14:30:00+03:00",
+				"timeEnd": "2017-07-02T15:15:00+03:00"
+			}
+		],
+		"img": "img/band/no-img.jpg",
+		"link_spotify": "",
+		"link_band": "",
+		"starred": false
 	}
+
 ]
