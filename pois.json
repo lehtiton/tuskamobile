@@ -78,6 +78,17 @@
 
     {
         "category": "restaurant",
+        "title_fi": "Healthy Shit!",
+        "title_en": "Healthy Shit!",
+        "descr_fi": "<p>Moctaileja, parempaa kahvia ja alkoholittomia virvoikkeita<\/p>",
+        "descr_en": "<p>Mocktails, coffee & non alcoholic beverages<\/p>",
+        "img": "",
+        "lat": "-112.0025",
+        "lng": "41.61025"
+    },
+
+    {
+        "category": "restaurant",
         "title_fi": "India House",
         "title_en": "India House",
         "descr_fi": "<p>Helsingin Forumissa sijaitseva India House on pohjoisintialaiseen ruokakulttuuriin erikoistunut intialainen ravintola.<\/p>",
