@@ -22,6 +22,17 @@
     },
 
     {
+        "category": "merchant",
+        "title_fi": "Bio Luvil Black",
+        "title_en": "Bio Luvil Black",
+        "descr_fi": "<p>Ovatko vaatteesi keränneet festivaaliodööriä- ei hätää, tervetuloa pesettämään ne Bio Luvil Blackin pisteelle. Ei maksa muuten mitään.<\/p>",
+        "descr_en": "<p>Festivals might leave a mark on your clothing, but don’t worry, you are welcome to bring them to Bio Luvil Black to wash off any odours. It’s completely free!<\/p>",
+        "img": "img/partner_logo_bioluvilblack.png",
+        "lat": "33.5925",
+        "lng": "-82.51025"
+    },
+
+    {
         "category": "restaurant",
         "title_fi": "Black Dining",
         "title_en": "Black Dining",
@@ -110,6 +121,17 @@
     },
 
     {
+        "category": "merchant",
+        "title_fi": "Keltainen jäänsärkijä",
+        "title_en": "Keltainen jäänsärkijä",
+        "descr_fi": "<p>Tuskan luotettu levydiileri. Jatka moshaamista parhaan musiikin tahtiin myös kotona ja nappaa pisteeltä mukaan uusia kiekkoja kuunneltaviksi.<\/p>",
+        "descr_en": "<p>Trusted record dealer of Tuska. Keep on moshing to the beat of good tunes at home and grab some new discs to listen to at the sales spot at the festival area.<\/p>",
+        "img": "img/kolumbus.png",
+        "lat": "48.0",
+        "lng": "-72.41025"
+    },
+
+    {
         "category": "restaurant",
         "title_fi": "Kolmen Kaverin Jäätelö",
         "title_en": "Kolmen Kaverin Jäätelö",
@@ -151,5 +173,16 @@
         "img": "img/soisoi.png",
         "lat": "-90.5925",
         "lng": "16.01025"
+    },
+
+    {
+        "category": "merchant",
+        "title_fi": "Varusteleka",
+        "title_en": "Varusteleka",
+        "descr_fi": "<p>Varusteleka on tunnettu armeijakaman ja ulkoiluun soveltuvien varusteiden myynnistä.<\/p>",
+        "descr_en": "<p>Varusteleka is widely known army and outdoor store.<\/p>",
+        "img": "img/partner_logo_varusteleka.jpg",
+        "lat": "54.5925",
+        "lng": "-68.41025"
     }
 ]
