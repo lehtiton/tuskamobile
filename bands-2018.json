@@ -279,6 +279,26 @@
 		"favored": false
 	},
 	{
+		"id": "emperor",
+		"title_fi": "EMPEROR",
+		"title_en": "EMPEROR",
+		"descr_fi": "Norjalainen, maailman kaikkeuden legendaarisimpiin black metal -akteihin lukeutuva, Emperor palaa Tuskan tulikuumille lauteille. Eikä vähempää kuin merkkivuoden kunniaksi: Emperor juhlistaa kakkosalbuminsa ”Anthems to the Welkin at Dusk” 20-vuotispäivää täräyttämällä kyseisen lätyn helsinkiläisten iloksi.",
+		"descr_en": "One of the most legendary black metal acts of all aeons, Emperor are back at Tuska with full blast. Emperor are celebrating the 20th anniversary of their coveted ”Anthems to the Welkin at Dusk” -album. We’ll have a maximum dose of that, please!",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-30T18:05:00+03:00",
+			"timeEnd": "2018-06-30T19:10:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/emperor.jpeg",
+		"link_spotify": "spotify:artist:6jPWrSmxOd9mj7Xaj4EP2Y",
+		"link_band": "https://www.facebook.com/emperorofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/emperor",
+		"link_band_tuska_en": "http://tuska.fi/en/emperor",
+		"black_star": false,
+		"favored": false
+	},
+	{
 		"id": "europe",
 		"title_fi": "EUROPE",
 		"title_en": "EUROPE",
