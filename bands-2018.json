@@ -1,144 +1,4 @@
 [{
-		"id": "bodycount",
-		"title_fi": "BODY COUNT",
-		"title_en": "BODY COUNT",
-		"descr_fi": "Itsensä Ice T:n luotsaama Body Count saapuu ensi kertaa Suomeen – ja Tuskaan, perjantain pääesiintyjäksi. Yhdeksänkymmentäluvun alussa kannuksensa ansainnut Los Angelesin pahamaineisilta jengialueilta lähtöisin oleva Body Count on herättänyt ihailua ja pahennusta läpi koko uransa. Bändin viimeisin julkaisu on viime vuoden ylistetty ”Bloodlust”-albumi.",
-		"descr_en": "Spearheaded by the infamous Ice T himself, the LA street unit Body Count have been confirmed as the headliners for Tuska Friday. The band’s latest release is the highly acclaimed ”Bloodlust” album. Tuska-show will be Body Count’s first show in Finland.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-29T22:30:00+03:00",
-			"timeEnd": "2018-06-30T00:00:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/bodycount.jpeg",
-		"link_spotify": "spotify:artist:5KCph1z3jaSwhtwPzoYp6i",
-		"link_band": "https://www.facebook.com/bodycountofficial",
-		"link_band_tuska_fi": "http://tuska.fi/fi/body-count",
-		"link_band_tuska_en": "http://tuska.fi/en/body-count",
-		"black_star": false,
-		"favored": false
-	},
-
-	{
-		"id": "gojira",
-		"title_fi": "GOJIRA",
-		"title_en": "GOJIRA",
-		"descr_fi": "Ranskan metallimahti Gojira on seuraavia metallikentän supertähtiä. Bändin pistämätön tyylikkyys, uskomaton riffivainu ja tinkimätön työmoraali on nostanut Gojiran raskaan sarjan kirkkaimman kärjen notkeaksi laitahyökkääjäksi. Bändin viimeisin ”Magma”-albumi on mieletön, kaiken murskaava katujyrä. Tuska ilmoittaa erittäin ylpeänä, että Gojira on Tuska 2018 lauantain pääesiintyjä.",
-		"descr_en": "French giant Gojira is the next big thing in metal. The next generation of metal superstars. The band’s sense of style, incredible feel for riffs and uncompromised work ethics have taken Gojira to where they are now. Gojira’s latest album ”Magma” is a no holds barred thrust of power. Tuska is extremely proud to announce Gojira as the headliner for Saturday June 30th 2018.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-30T22:30:00+03:00",
-			"timeEnd": "2018-07-01T00:00:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/gojira.jpeg",
-		"link_spotify": "spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt",
-		"link_band": "https://www.facebook.com/GojiraMusic/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/gojira",
-		"link_band_tuska_en": "http://tuska.fi/en/gojira",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "parkway_drive",
-		"title_fi": "PARKWAY DRIVE",
-		"title_en": "PARKWAY DRIVE",
-		"descr_fi": "Se on sellanen homma, että Australian metalcore-ihme Parkway Drive laittaa hommat isolleen. Bändin suosio on paisunut maailmalla järjettömiin mittasuhteisiin ja nyt laitetaan Suomikin pakettiin. Vuonna 2003 Byron Bayssa perustettu Parkway Drive on edennyt urallaan vakain askein. Levy levyltä ja kiertue kiertueelta yhtye on laajentanut fanikuntaansa. Nyt ollaan siinä pisteessä, että Parkway Drive kiertää isoja lavoja täyden tuotannon kera ja tämä sirkus saapuu myös Tuskaan. Nyt laitetaan Suvilahdessa jalalla coreasti!",
-		"descr_en": "Australian metalcore phenomenon Parkway Drive are doing it big. Their relentless work with tour after tour and a successful record after another is paying off. The band’s popularity has gone through the roof internationally and now it’s time to take over Finland. The band from Byron Bay, New Wales are touring the world with a full production and now they are on their way to Tuska. Suvilahti, be prepared, the storm known as Parkway Drive are coming for you!",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-07-01T19:40:00+03:00",
-			"timeEnd": "2018-07-01T21:00:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/parkway_drive.jpeg",
-		"link_spotify": "spotify:artist:159qqlGwzE04xyqpfAwRLo",
-		"link_band": "https://www.facebook.com/parkwaydrive/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/parkway-drive",
-		"link_band_tuska_en": "http://tuska.fi/en/parkway-drive",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "tuska_torstai",
-		"title_fi": "TUSKA TORSTAI",
-		"title_en": "TUSKA TORSTAI",
-		"descr_fi": "Tuska Torstai -kilpailun voittaja!",
-		"descr_en": "Tuska Torstai -competition winner!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T16:15:00+03:00",
-			"timeEnd": "2018-06-29T16:45:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/tuska_torstai.png",
-		"link_band_tuska_fi": "http://tuska-torstai.fi/",
-		"link_band_tuska_en": "http://tuska-torstai.fi/",
-		"black_star": false,
-		"favored": false
-	},
-
-	{
-		"id": "europe",
-		"title_fi": "EUROPE",
-		"title_en": "EUROPE",
-		"descr_fi": "Jo 70-luvun lopussa perustettu Europe elää elämänsä uutta kevättä. Vaikka bändillä on tilillään rock-historian suurimpia hittejä, on bändin tämän hetkinen materiaali sielukkaampaa kuin koskaan. Tuore ”Walk The Earth”-albumi tavoittaa niin perinpohjaisen 70-luvun rock-tunnelman, ettei paremmasta väliä. Europe soi tasan samassa liigassa alan tunnustettujen jättien kanssa. Europe on tehnyt kiistatta yhden vuoden parhaista levyistä.",
-		"descr_en": "Founded at the tailend of the seventies, Europe is living a new spring. Although the band has scored some of the biggest hits and most legendary rock anthems of all time, their current material is more soulful than ever. Their fresh ”Walk The Earth” album captures the spirit of the times when rock and roll was still grand, and the album places them right up there in league with the classic big dogs. Europe has undeniably released one of the best records of the year.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-07-01T17:35:00+03:00",
-			"timeEnd": "2018-07-01T18:35:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/europe.jpeg",
-		"link_spotify": "spotify:artist:7Js6Lde8thlIHXggv2SCBz",
-		"link_band": "https://www.facebook.com/europetheband/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/europe",
-		"link_band_tuska_en": "http://tuska.fi/en/europe",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "kreator",
-		"title_fi": "KREATOR",
-		"title_en": "KREATOR",
-		"descr_fi": "Yli 30 vuotta thrashia ei ole leikin asia. Eikä Kreator leiki. Mille Petrozza ja kumppanit ovat sahanneet rässiriffejä jo silloin kun faijanne puristelivat finnejä ja virittivät mopojaan. Kreatorin debyytti ”Endless Pain” ilmestyi vuonna 1985 ja tänä vuonna julkaistu ”Gods Of Violence” osoittaa bändin olevan kovemmassa ja tinkimättömämmässä vedossa kuin ikinä. Kreator lyö aina epäilijöille luun kurkkuun.",
-		"descr_en": "More than three decades of thrash metal is serious thing. And Kreator has always been strictly business. Mille Petrozza and his horde have been blasting shit to bits since day one and never missed a beat. Kreator’s debut album ”Endless Pain” was released in 1985. Their most recent work ”Gods Of Violence” shows that they are tighter and more ruthless than ever. Thanks for the decades of thrash, here’s to many more!",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-30T20:05:00+03:00",
-			"timeEnd": "2018-06-30T21:20:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/kreator.jpeg",
-		"link_spotify": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv",
-		"link_band": "https://www.facebook.com/KreatorOfficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/kreator",
-		"link_band_tuska_en": "http://tuska.fi/en/kreator",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "deadcross",
-		"title_fi": "DEAD CROSS",
-		"title_en": "DEAD CROSS",
-		"descr_fi": "Mike Pattonin ja Dave Lombardon tähdittämä, monisyistä hardcorea tempova Dead Cross julkaisi yhtyeen nimeä kantavan debyyttialbumin viime vuonna. Patton tunnetaan paremmin Faith No Moren -yhtyeensä keulahahmona ja Lombardo mittavasta urastaan Slayerin rumpupallilla. Tätäkään hyvää ei ole näillä turuilla aiemmin nähty.",
-		"descr_en": "Dead Cross, the hardcore act featuring the likes of Mike Patton and Dave Lombardo, no less, are making their Finnish debut at Tuska. For those unfamiliar with the names, Patton is the frontman of Faith No More and Lombardo spent years on the drumthrone of the almighty Slayer. Dead Cross released their self titled debut last year. You know this is gonna be good.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-29T18:25:00+03:00",
-			"timeEnd": "2018-06-29T19:25:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/deadcross.jpeg",
-		"link_spotify": "spotify:artist:5o7MNRaQrt87SwYWxHEZvN",
-		"link_band": "https://www.facebook.com/deadcrossofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/dead-cross",
-		"link_band_tuska_en": "http://tuska.fi/en/dead-cross",
-		"black_star": false,
-		"favored": false
-	},
-	{
 		"id": "arch_enemy",
 		"title_fi": "ARCH ENEMY",
 		"title_en": "ARCH ENEMY",
@@ -155,466 +15,6 @@
 		"link_band": "https://www.facebook.com/archenemyofficial/",
 		"link_band_tuska_fi": "http://tuska.fi/fi/arch-enemy",
 		"link_band_tuska_en": "http://tuska.fi/en/arch-enemy",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "emperor",
-		"title_fi": "EMPEROR",
-		"title_en": "EMPEROR",
-		"descr_fi": "Norjalainen, maailman kaikkeuden legendaarisimpiin black metal -akteihin lukeutuva, Emperor palaa Tuskan tulikuumille lauteille. Eikä vähempää kuin merkkivuoden kunniaksi: Emperor juhlistaa kakkosalbuminsa ”Anthems to the Welkin at Dusk” 20-vuotispäivää täräyttämällä kyseisen lätyn helsinkiläisten iloksi.",
-		"descr_en": "One of the most legendary black metal acts of all aeons, Emperor are back at Tuska with full blast. Emperor are celebrating the 20th anniversary of their coveted ”Anthems to the Welkin at Dusk” -album. We’ll have a maximum dose of that, please!",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-30T18:05:00+03:00",
-			"timeEnd": "2018-06-30T19:10:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/emperor.jpeg",
-		"link_spotify": "spotify:artist:6jPWrSmxOd9mj7Xaj4EP2Y",
-		"link_band": "https://www.facebook.com/emperorofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/emperor",
-		"link_band_tuska_en": "http://tuska.fi/en/emperor",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "meshuggah",
-		"title_fi": "MESHUGGAH",
-		"title_en": "MESHUGGAH",
-		"descr_fi": "Matikkametallin ehdoton pioneeri ja kärkinimi Meshuggah palaa Tuskaan. Suvilahdessa etsitään siis jälleen transsimaisesti ykköstä väärästä paikasta muutaman vuoden tauon jälkeen! Bändin viimeisin studioalbumi ” The Violent Sleep of Reason” on järjestyksessään jo yhtyeen kahdeksas. Yleisöä ei kosiskella vieläkään.",
-		"descr_en": "Math metal pioneers Meshuggah will be gracing the Tuska stage, it’s been awhile since the last time. The Swedes have the audience looking like they know in which time signature the song is in. After all these year, very few have them figured out. The band’s latest studio album ” The Violent Sleep of Reason”, is their eighth one, and it’s still not getting any less complicated.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-29T21:25:00+03:00",
-			"timeEnd": "2018-06-29T22:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/meshuggah.jpeg",
-		"link_spotify": "spotify:artist:3ggwAqZD3lyT2sbovlmfQY",
-		"link_band": "https://www.facebook.com/meshuggah/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/meshuggah",
-		"link_band_tuska_en": "http://tuska.fi/en/meshuggah",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "at_the_gates",
-		"title_fi": "AT THE GATES",
-		"title_en": "AT THE GATES",
-		"descr_fi": "Ruotsin melodödis-ylpeys At The Gates lyö kehiin uuden albulmin vuonna 2018. Rima on korkealla. Sen korkeuden määritti parin vuoden takainen ”At War With Reality”. Puhumattakaan bändin vanhemmista tuotoksista. Näin perstuntumalla väittäisin, että tulee potkimaan. Ja lujaa.",
-		"descr_en": "The founding fathers of melodic death metal, Sweden’s At The Gates will be back with a new album in 2018. Their most recent release, ”At War With Reality” set the bar rather high. Not to mention the earlier albums. My educated guess would be that the new-comer will serve a serious ass-kicking.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-30T21:20:00+03:00",
-			"timeEnd": "2018-06-30T22:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/at_the_gates.jpeg",
-		"link_spotify": "spotify:artist:6YXarbjg36ODFPez0PnOlD",
-		"link_band": "https://www.facebook.com/AtTheGatesOfficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/gates",
-		"link_band_tuska_en": "http://tuska.fi/en/gates",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "ihsahn",
-		"title_fi": "IHSAHN",
-		"title_en": "IHSAHN",
-		"descr_fi": "Norjan vuonojen yli-instrumentalisti Ihsahn, oikealta nimeltään Vegard Sverre Tveitan, luotsaa miehen itsensä mukaan nimettyä yhtyettään vakaalla kädellä. Bändin proge-metalli luovii tyylikkäästi monella kentällä ja kiertää kuulijan pikkusormensa ympärille. Ihsahn on tullut tunnetuksi Norjan black metal -suuruuden Emperorin keulakuvana ja miehen soolotuotanto on luonnollista jatkoa tälle musta metallin suurnimen äänimaailmalle.",
-		"descr_en": "The multi-instrumentalist of the Norwegian fjords, Ihsahn, guides his namesake band with a steady hand. The band’s progressive metal lures the listener near and wraps them around their finger, and by then it’s too late. You’re done. Ihsahn earned his stripes as the lead-figure of Norway’s black metal giant Emperor. His solo material is a natural follow up to the sounds of the dark.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-07-01T16:30:00+03:00",
-			"timeEnd": "2018-07-01T17:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/ihsahn.jpeg",
-		"link_spotify": "spotify:artist:2E1jLcUfqd9w2XtybNB2Za",
-		"link_band": "https://www.facebook.com/ihsahnmusic",
-		"link_band_tuska_fi": "http://tuska.fi/fi/ihsahn",
-		"link_band_tuska_en": "http://tuska.fi/en/ihsahn",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "clutch",
-		"title_fi": "CLUTCH",
-		"title_en": "CLUTCH",
-		"descr_fi": "Amerikkalainen pitkän linjan rock-jyrä Clutch rytkyttää riffipohjaista vääntöään niin että tyrät paukkuu. Työstö etenee niin sielukkaasti kuin amerikkalaisen musiikkiperimän omaavalta blues-pohjaiselta ryhmältä vain voi odottaa. Clutchin viimeisin albumi on loistoarvostelut kerännyt rytmikkäästi kulkeva ”Psychic Warfare”, jonka tuotantoa kuullaan varmasti Tuskassakin.",
-		"descr_en": "American heavyweights Clutch kick it off with their groovy riffage like there’s no tomorrow. Their current album ”Psychic Warfare” is an awesome display of prowess from a band that’s way more than 20 years deep in the game and still going strong, constantly putting out their best work.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-07-01T18:40:00+03:00",
-			"timeEnd": "2018-07-01T19:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/clutch.jpeg",
-		"link_spotify": "spotify:artist:161AC1AVRkIGIMxyj5djFQ",
-		"link_band": "https://www.facebook.com/Clutchband/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/clutch",
-		"link_band_tuska_en": "http://tuska.fi/en/clutch",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "trioniskalaukaus",
-		"title_fi": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
-		"title_en": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
-		"descr_fi": "Rautiainen yhtyeineen oli Tuskan vakiokaartia aina tauolle jäämiseensä asti. Alunperinhän ukkojen piti esiintyä jokaisessa Tuskassa. Yli kymmenen vuoden tauko teki Niskalaukaukselle hyvää. Bändi jyrää nykyään iän tuomalla varmuudella ja silti aivan uudella, jopa nuorekkaalla energialla. Rautiaisen sävellyskynä on kenties terävämpi kuin koskaan, todisteeksi voi pistää pyörimään viime vuonna ilmestyneen ”Lauluja Suomesta”-albumin. Kyllä toimii.",
-		"descr_en": "Timo Rautiainen and his band Trio Niskalaukaus (neck shot) were the main stay on Tuska stage for years before their hiatus in 2004. In fact, they were supposed to play every Tuska. Their break (or break up) lasted for more than a decade, and you can tell it has worked wonders. The band plows ahead with the authority of an elder statesman, but with new found youthful energy. Listen to their latest ”Lauluja Suomesta” (songs from Finland) for proof.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-07-01T15:30:00+03:00",
-			"timeEnd": "2018-07-01T16:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/trioniskalaukaus.jpeg",
-		"link_spotify": "spotify:artist:6sJ8TvVdY3NLFxtG4TESzC",
-		"link_band": "https://www.facebook.com/timorautiainentrioniskalaukaus/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/timo-rautiainen-trio-niskalaukaus-0",
-		"link_band_tuska_en": "http://tuska.fi/en/timo-rautiainen-trio-niskalaukaus-0",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "crowbar",
-		"title_fi": "CROWBAR",
-		"title_en": "CROWBAR",
-		"descr_fi": "New Orleansin perinteikäs riffiveturi Crowbar puskee menemään. Tästä ei soundi paljon tuhdimmaksi enää muutu. Bändin johtohahmo Kirk Windstein on yksi väkevimpiä syvän etelän riffittelijöitä ja mistään mikki hiiri -soundeista ei tämän miehen kohdalla ole kyse. Kitaravalli on kerrostalon kokoinen ja kuviot sielukkaita. Saattaa tulla tippa linssiin raavaammallakin kuuntelijalla.",
-		"descr_en": "New Orleans’s traditional riff bulldozer Crowbar is back. You know it doesn’t get much heavier than this. Crowbar frontman Kirk Windstein is one of the most soulful riffmeisters from the deep south and his guitar sound – well, we’re talking building size here. Crowbar’s latest album is ”The Serpent Only Lies” from a few years back.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-29T14:45:00+03:00",
-			"timeEnd": "2018-06-29T15:35:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/crowbar.jpeg",
-		"link_spotify": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
-		"link_band": "https://www.facebook.com/crowbarmusic/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/crowbar",
-		"link_band_tuska_en": "http://tuska.fi/en/crowbar",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "mokoma",
-		"title_fi": "MOKOMA",
-		"title_en": "MOKOMA",
-		"descr_fi": "Lappeenrantalaislähtöinen Mokoma julkaisee pian jo kymmenennen studioalbuminsa ja bändi on jo vuosia sitten siirtynyt kotimaisen metallin raskaimpaan sarjaan. Mokoman laatu pitää; bändin levyt ovat aina varmaa tykitystä, säröt päällä ja kertsit kertsejä. Pidetään hevi hevinä.",
-		"descr_en": "Mokoma is one of the biggest names in Finnish metal. They’re about to release their 10th studioalbum, that itself speaks volumes of their status in Finnish music. Their albums always enter the official charts and Mokoma is one of the most sought after festival acts every summer. Mokoma stay true to their style: the distortion pedal stays on and you know when the chorus is coming up. Mokoma delivers quality.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-30T16:20:00+03:00",
-			"timeEnd": "2018-06-30T17:20:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/mokoma.jpeg",
-		"link_spotify": "spotify:artist:2LBteY4vnSD2zKwAgzOijB",
-		"link_band": "https://www.facebook.com/mokomamusic/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/mokoma",
-		"link_band_tuska_en": "http://tuska.fi/en/mokoma",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "turmionkatilot",
-		"title_fi": "TURMION KÄTILÖT",
-		"title_en": "TURMION KÄTILÖT",
-		"descr_fi": "Kotimaisen industrial metallin kuninkaalliset tekevät paluun Tuskaan! Nyt lateksihanskat ja niittivyöt valmiiksi, sillä Turmion Kätilöt tulee ruoskimaan rokkikansan aivan uusiin sfääreihin. Pistetään pitti pyörimään!",
-		"descr_en": "The royalty of Finnish industrial metal makes a comeback to Tuska! Now, get your latex gloves and stud belts ready, because Turmion Kätilöt will whip you into a whole new dimension. Let’s get the mosh pit going!",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-29T16:20:00+03:00",
-			"timeEnd": "2018-06-29T17:25:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/turmionkatilot.jpeg",
-		"link_spotify": "spotify:artist:76t3VPzCEYAlrZhVAY7yjg",
-		"link_band": "https://www.facebook.com/turmionkatilot/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/turmion-katilot-0",
-		"link_band_tuska_en": "http://tuska.fi/en/turmion-katilot-0",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "hallatar",
-		"title_fi": "HALLATAR",
-		"title_en": "HALLATAR",
-		"descr_fi": "Doom-metallin kotimainen uusi kärkinimi, Hallatar, on todellinen tekijämiesten trio. Bändissä vaikuttavat biisintekijä Juha Raivion (Swallow The Sun) lisäksi Tomi Joutsen (Amorphis, Sinishtra) ja Gas Lipstick (mm. Dropzone, ex-HIM). Yhtyeen ”No Stars Upon The Bridge”-debyytti on sydäntäviiltävän vakuuttava ja silminnäkijälausunnot bändin ensimmäisistä keikoista ovat lumoutuneen haltioituneita. Tältä keikalta on lupa odottaa paljon.",
-		"descr_en": "Finland’s new doom metal supergroup Hallatar, is an ensemble of some of the finest metal musicians these neck of woods have to offer. Besides the main songwriter Juha Raivio (Swallow The Sun) the trio features vocalist Tomi Joutsen (Amorphis, Sinishtra) and drummer Gas Lipstick (Dropzone, ex-HIM). Hallatar’s ”No Stars Upon The Bridge” debut album is a painstakingly commanding piece of art. Hallatar just played their first ever live shows and the reports scream brilliance.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-30T19:10:00+03:00",
-			"timeEnd": "2018-06-30T20:05:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/hallatar.jpeg",
-		"link_spotify": "spotify:artist:5ztihvnD5Rio6dt2brPQEl",
-		"link_band": "https://www.facebook.com/Hallatardoom/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/hallatar",
-		"link_band_tuska_en": "http://tuska.fi/en/hallatar",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "moonsorrow",
-		"title_fi": "MOONSORROW",
-		"title_en": "MOONSORROW",
-		"descr_fi": "Pakanametalliryhmittymä Moonsorrow julkaisi viime vuonna kauan odotetun seitsemännen studioalbuminsa. ”Jumalten Aika” on synkkääkin synkempi matka menneisyyteen ja Moonsorrow:n eeppinen saaga jatkaa kulkuaan. Bändi moninainen sointi kaikuu ylväämpänä kuin koskaan, jyräten kaiken tieltään kohti vääjäämätöntä loppua. Odotus on ohi – nyt se palkitaan.",
-		"descr_en": "Pagan metal squad Moonsorrow unleashed their seventh studioalbum, titled ”Jumalten Aika” (”The Age Of Gods”) last year. ”Jumalten Aika” is a dark journey to the depths of the past and the plot of Moonsorrow’s epic saga just keeps on thickening. The band sounds bolder and more varied than ever, an all-crushing hammer of darkness clearing its path towards the end. The time of wait is over – it’s time to reap the rewards.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-29T17:25:00+03:00",
-			"timeEnd": "2018-06-29T18:25:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/moonsorrow.jpeg",
-		"link_spotify": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI",
-		"link_band": "https://www.facebook.com/moonsorrowofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/moonsorrow",
-		"link_band_tuska_en": "http://tuska.fi/en/moonsorrow",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "leprous",
-		"title_fi": "LEPROUS",
-		"title_en": "LEPROUS",
-		"descr_fi": "Eräs kiistatta modernin progen vetävimmistä ja mielenkiintoisimmista nimistä, norjalainen Leprous, ottaa Tuskan haltuun perjantaina alkuillasta. Yhtyeen viime vuotinen ”Malina” albumi on loistava osoitus bändin kyvystä luoda jotain ainutlaatuista ja kaunista. Leprous on yhtye, joka tulee kulkemaan vielä pitkän tien.",
-		"descr_en": "One of the most interesting and gracious names of the modern proge movement, Norway’s Leprous, will be taking over the moods at Tuska on Friday evening. The band’s most recent album ”Malina”, is a perfect storm of unique songwriting and beautiful musicianship. This will not be last time you will hear of this band.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-29T19:25:00+03:00",
-			"timeEnd": "2018-06-29T20:25:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/leprous.jpeg",
-		"link_spotify": "spotify:artist:4lgrzShsg2FLA89UM2fdO5",
-		"link_band": "https://www.facebook.com/leprousband/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/leprous",
-		"link_band_tuska_en": "http://tuska.fi/en/leprous",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "carpenterbrut",
-		"title_fi": "CARPENTER BRUT",
-		"title_en": "CARPENTER BRUT",
-		"descr_fi": "Ranskalainen synthwave-ilmiö Carpenter Brut Tuskaan! Synthwaven valovoimaisimpiin nimiin lukeutuva Carpenter Brut kerää vaikutteita 80-luvun TV-ohjelmista ja B-luokan elokuvista. Yhtye julkaisi helmikuun lopussa varsinaisen debyyttialbuminsa ”Leather Teeth”, joka on monipuolinen syntikkamatka 80-luvun uumeniin.",
-		"descr_en": "The French synthwave phenomenon Carpenter Brut comes to Tuska! Carpenter Brut is a phenomenon that draws its influences from '80s TV shows and B-movies loaded with synthesizers. Carpenter Brut released his debut album ”Leather Teeth” at the end of February.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-30T17:20:00+03:00",
-			"timeEnd": "2018-06-30T18:05:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/carpenterbrut.jpeg",
-		"link_spotify": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP",
-		"link_band": "https://www.facebook.com/carpenter.brut/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/carpenter-brut",
-		"link_band_tuska_en": "http://tuska.fi/en/carpenter-brut",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "the69eyes",
-		"title_fi": "THE 69 EYES",
-		"title_en": "THE 69 EYES",
-		"descr_fi": "Nyt mustat kajaalit valmiiksi, sillä The 69 Eyes on täällä! Kotimaisen goottirockin valtiaat tekevät odotetun paluun Tuskan lauteille. The 69 Eyesin uskomaton, lähes 30 vuotta jatkunut tarina hakee vertaistaan jopa rock’n rollin monimuotoisessa kaanonissa. Bändin yhdestoista albumi, vuonna 2016 ilmestynyt ”Universal Monsters” -nimeä kantava pitkäsoitto on tummanpuhuva paluumatka goottitunnelmaisen rockin syvimpiin syövereihin.",
-		"descr_en": "Get your black eyeliners ready, because The 69 Eyes are coming back to Tuska! This Finnish goth’n’roll legend has been together almost 30 years, and in 2016 they released their 11th studio album ”Universal Monsters”. The Helsinki Vampires are back!",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-30T15:35:00+03:00",
-			"timeEnd": "2018-06-30T16:20:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/the69eyes.jpeg",
-		"link_spotify": "spotify:artist:0Z1UczcSjwKNuv4HgdjH3b",
-		"link_band": "https://www.facebook.com/the69eyes",
-		"link_band_tuska_fi": "http://tuska.fi/fi/69-eyes",
-		"link_band_tuska_en": "http://tuska.fi/en/69-eyes",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "beastinblack",
-		"title_fi": "BEAST IN BLACK",
-		"title_en": "BEAST IN BLACK",
-		"descr_fi": "Pian odotetun debyyttinsä julkaiseva Anton Kabasen luotsaama Beast In Black on kovimpia tekijöitä melodisen metallin skenessä ihan maailman laajuisesti. Esikoinen kantaa nimeä ”Berserker” ja nimensä mukaisesti homma potkii. Pitäkäähän varanne.",
-		"descr_en": "Beast In Black will soon set free their first born. ”Berserker” does not hold back or ask for permission. Get with it or get out of the way.",
-		"type": "band",
-		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-06-30T14:50:00+03:00",
-			"timeEnd": "2018-06-30T15:35:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/beastinblack.jpeg",
-		"link_spotify": "spotify:artist:0rEuaTPLMhlViNCJrg3NEH",
-		"link_band": "https://www.facebook.com/beastinblackofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/beast-black-0",
-		"link_band_tuska_en": "http://tuska.fi/en/beast-black-0",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "bombus",
-		"title_fi": "BOMBUS",
-		"title_en": "BOMBUS",
-		"descr_fi": "Göteborgin riffikeisarit palaavat Tuskaan parin vuoden tauon jälkeen. Bändin tuorein ”Repeat Until Death” -lätty esittelee jälleen pidemmälle viedyn version Bombuksen nimikkogroovesta. Homma kulkee kuin veturi uusilla raiteilla.",
-		"descr_en": "Göteborg riffmeisters known as Bombus are back at Tuska after a few years. Their current album ”Repeat Until Death” showcases a more refined version of the trademark Bombus groove. This thing runs like locomotive.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T20:25:00+03:00",
-			"timeEnd": "2018-06-30T21:25:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/bombus.jpeg",
-		"link_spotify": "spotify:artist:3PasuDKJ3UrBlLly6Lih4V",
-		"link_band": "https://www.facebook.com/bombusmusic/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/bombus",
-		"link_band_tuska_en": "http://tuska.fi/en/bombus",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "grave_pleasures",
-		"title_fi": "GRAVE PLEASURES",
-		"title_en": "GRAVE PLEASURES",
-		"descr_fi": "Synkkääkin synkempi mutta ah niin jumalaisesti soiva Grave Pleasures on kulkenut pitkän tien täydellisen apokalyptisen melodian metsästyksessä. Yhtye aloitti uransa Beastmilk-nimellä ja julkaisi loistavan ”Climax”-albumin, ennen kuin miehistönvaihdosten myötä nimeksi vakiintui Grave Pleasures. Uudella nimellä bändi julkaisi ”Dreamcrash”-levyn, joka oli kenties se kuuluisa vaikea kakkosalbumi. Mutta nyt. Tuore ”Motherblood” -albumi on kiistaton täysosuma. Elämää suurempia melodiota, haikeutta ja raakaa voimaa samassa paketissa.",
-		"descr_en": "Darker than the night, more beautiful than life itself, Grave Pleasures has taken the road less traveled in their search of the perfect apocalyptic atmosphere. The band started off as Beastmilk and released their extraordinary ”Climax” debut album, before switching their moniker to Grave Pleasures after various line up changes. Their sophomore album ”Dreamcrash”, their first as Grave Pleasures, might have been the infamous difficult second album. But now. Their third effort ”Motherblood” is nothing but a jackpot. Larger than life melodies, melancholicly beautiful mixed with raw power. It’s all there.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-07-01T17:40:00+03:00",
-			"timeEnd": "2018-07-01T18:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/grave_pleasures.jpeg",
-		"link_spotify": "spotify:artist:7Gbgr3pNct3IvdhQLO8wPU",
-		"link_band": "https://www.facebook.com/gravepleasvres/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/grave-pleasures",
-		"link_band_tuska_en": "http://tuska.fi/en/grave-pleasures",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "shirazlane",
-		"title_fi": "SHIRAZ LANE",
-		"title_en": "SHIRAZ LANE",
-		"descr_fi": "Pääkaupunkiseudun vankasta hard rock -perinteestä ponnistava Shiraz Lane tekee hommat tyylillä. Vuoden 2016 debyyttialbumi ”For Crying Out Loud” esitteli taidokasta ja tyylipuhdasta kovaa rockia jauhavan nuoren ja nälkäisen yhtyeen. Se kuuluisa kakkosalbumi, ”Carnival Days” on nyt valmis ja ilmestyy helmikuussa. Tämän kirjoitushetkellä siltä on irrotettu kaksi maukasta fiilistelypalaa, jotka ovat dominoineet soittolistoja oikein olan takaa. Shiraz Lanen taru on vasta aluillaan; kovaa ajoa odotettavissa!",
-		"descr_en": "Coming from the great hard rock heritage of the Helsinki area, Shiraz Lane know how to go about their business. The band’s ”For Crying Out Loud” debut album displayed a young and determined act, who know what they want and how to get it. The infamous ”second album” is now done. It’s called ”Carnival Days” and at the moment of writing this, Shiraz Lane has blessed us with two singles from the upcoming release, which have been completely dominating the playlists all around. Shiraz Lane is just getting started, this one’s going to be a hard ride!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T18:30:00+03:00",
-			"timeEnd": "2018-06-29T19:15:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/shirazlane.jpeg",
-		"link_spotify": "spotify:artist:0TTu3zbvW4iFfls1GDbyGk",
-		"link_band": "https://www.facebook.com/pg/ShirazLane/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/shiraz-lane-0",
-		"link_band_tuska_en": "http://tuska.fi/en/shiraz-lane-0",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "flyoverensemble",
-		"title_fi": "LAURI PORRA FLYOVER ENSEMBLE",
-		"title_en": "LAURI PORRA FLYOVER ENSEMBLE",
-		"descr_fi": "Lauri Porra on muusikko isolla M:llä. Säveltäjä ja monitaituri. Hän ymmärtää musiikkia tavalla, jolla vain harva ymmärtää. Hevi-pertit tuntevat miehen kenties parhaiten Stratovariuksen basson varresta mutta Porralla on monia hattuja. Hän on tehnyt kaikkea elokuvamusiikista klassiseen ja mitä ikinä siihen välille mahtuukaan. Tuskassa Porra esiintyy Flyover Ensemblensä kanssa, joka valmistelee parhaillaan uutta albumia.",
-		"descr_en": "Lauri Porra puts the capital M in Musician. A composer and multitalent, he comprehends music in a way that only very selected few do. Metalheads probably know him as the bass player of the almighty Stratovarius but Porra wears many hats. He has done everything from score to classical and whatever you can fit in between. At Tuska Porra performs with his Flyover Ensemble who are currently in the process of preparing a new album.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-07-01T16:25:00+03:00",
-			"timeEnd": "2018-07-01T17:10:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/flyoverensemble.jpeg",
-		"link_spotify": "spotify:artist:6PcS0mIfMV5JOY3NX2bkTn",
-		"link_band": "https://www.facebook.com/lauriporra",
-		"link_band_tuska_fi": "http://tuska.fi/fi/lauri-porra-flyover-ensemble",
-		"link_band_tuska_en": "http://tuska.fi/en/lauri-porra-flyover-ensemble",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "tribulation",
-		"title_fi": "TRIBULATION",
-		"title_en": "TRIBULATION",
-		"descr_fi": "Ruotsin moni-ilmeinen metallimoottori Tribulation tekee Tuska-debyyttinsä ensi kesänä Suvilahdessa. Vuonna 2004 perustettu Tribulation kiinnitti skenen huomion välittömästi ja esikoisalbumillaan bändiä verrattiin useisiin death metal -mestareihin. Sittemmin Tribulation on lähtenyt vahvasti rockin ja tunnelmoinnin, hämärän puolelle pakenevan maailman pariin. Tie on kulkenut pitkälle ensi albumin ajoista mutta räävitön ja pahansisuinen meininki on homman nimi edelleen. Tammikuussa ilmestyvällä ”Down Below” -nimisellä uutukaisella Tribulation jatkaa luonnollista kehitystä, eikä se kumartele kuvia vieläkään. Hyvä niin.",
-		"descr_en": "Sweden’s superb metal engine Tribulation are making their Tuska debut next summer. The band got started in 2004 and immdiately started making waves in the scene, drawing comparisons to many of the death metal masters. After a while Tribulation took a turn towards rock’n roll and atmospheric elements, yet being clearly drawn to the darker side. It’s been a long road, but relentless, yet beautiful and dark sound is still the name of the game. On their  new ”Down Below” album Tribulation will continue on their path of constant progress.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-29T15:35:00+03:00",
-			"timeEnd": "2018-06-29T16:20:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/tribulation.jpeg",
-		"link_spotify": "spotify:artist:7xTo7ipdBZezIoyAkmcRge",
-		"link_band": "https://www.facebook.com/Tribulationofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/tribulation",
-		"link_band_tuska_en": "http://tuska.fi/en/tribulation",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "sticktoyourguns",
-		"title_fi": "STICK TO YOUR GUNS",
-		"title_en": "STICK TO YOUR GUNS",
-		"descr_fi": "Amerikan hardcore -ryhmä Stick To Your Guns saapuu Tuskaan ensi visiitilleen. Kalifornian auringon alla, tarkemmin Orange Countyn postikorttimaisemissa vuosituhannen vaihteen jälkeen perustettu STYG on ehtinyt nousta alansa eturiviin perinteisellä tyylillä: tekemällä kovia levyjä ja soittamalla vielä kovempia keikkoja ympäri maailmaa.",
-		"descr_en": "American hardcore outfit Stick To Your Guns will be making their Tuska debut next summer. Founded in sunny Orange County, California, Stick To Your Guns has risen to the top of the game with the traditional way of making killer records and playing in even more killer live shows around the world. For proof, check their new ”True View” album first and then show up to Tuska. See you in the pit!",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-07-01T14:45:00+03:00",
-			"timeEnd": "2018-07-01T15:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/sticktoyourguns.jpeg",
-		"link_spotify": "spotify:artist:2sqrupqcoipb7UzVKApEnJ",
-		"link_band": "https://www.facebook.com/STYGoc/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/stick-your-guns",
-		"link_band_tuska_en": "http://tuska.fi/en/stick-your-guns",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "thecharmthefury",
-		"title_fi": "THE CHARM THE FURY",
-		"title_en": "THE CHARM THE FURY",
-		"descr_fi": "Hollantilainen The Charm The Fury pelaa rehdillä pakalla. Yhtyeen soundissa on vahvasti tämä päivä läsnä mutta perusta on kaivettu sieltä missä se on kunnossa, klassikkobändeistä on poimittu oleellinen ja lisätty omat mausteet päälle. Kun riffiosastokin on kohdillaan ja vokalisti Caroline Westendorp on maailmanluokan ärjyjä niin mikäs siinä on pistellessä. The Charm The Furyn viimeisin julkaisu on Nuclear Blastin kautta ilmestynyt ”The Sick, Dumb & Happy” ja sehän jytää.",
-		"descr_en": "Dutch quintet The Charm The Fury are definitely onto something. Modern metal with a foundation based on the classics, The Charm The Fury sounds like no one else but themselves. The current album ”The Sick, Dumb & Happy” kicks ass and we’re extremely glad to have them at Tuska.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T19:45:00+03:00",
-			"timeEnd": "2018-06-29T20:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/thecharmthefury.jpeg",
-		"link_spotify": "spotify:artist:1AaHt93G0EIiO4Bl4gaEC1",
-		"link_band": "https://www.facebook.com/thecharmthefury/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/charm-fury",
-		"link_band_tuska_en": "http://tuska.fi/en/charm-fury",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "mantar",
-		"title_fi": "MANTAR",
-		"title_en": "MANTAR",
-		"descr_fi": "Saksan tykittely-duo Mantar opettaa tuskalaisia taas olemaan massiviisen äänivallin turvin. Järjettömänkokoisen kuuloinen kitara-/bassoyhdistelmä ei jätä mitään arvailujen varaan, riffi kulkee hevari tykkää!",
-		"descr_en": "German cannoning-duo Mantar are back with their colossal wall of sound. Dark-riffage and rolling thunder – we love it!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T17:15:00+03:00",
-			"timeEnd": "2018-06-29T18:00:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/mantar.jpeg",
-		"link_spotify": "spotify:artist:6rVRU7I6r1lt6bhXGYTRQL",
-		"link_band": "https://www.facebook.com/MantarBand/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/mantar",
-		"link_band_tuska_en": "http://tuska.fi/en/mantar",
 		"black_star": false,
 		"favored": false
 	},
@@ -639,183 +39,22 @@
 		"favored": false
 	},
 	{
-		"id": "oni",
-		"title_fi": "ONI",
-		"title_en": "ONI",
-		"descr_fi": "Kanadalainen Oni veivaa modernia, erittäin metallista progea ja hyvin veivaakin. Bändin ”Ironshore”-albumi avasi bändille ovet itsensä Children Of Bodomin lämppäriksi ja kyseinen rundi toi Onin myös suomalaisten ihmeteltäväksi. Tätäkään ulkomaan ihmettä ei kannata jättää tsekkaamatta.",
-		"descr_en": "Canadian Oni delivers a dose of quality metallic proge. Their ”Ironshore” album secured them a slot as support for Children Of Bodom tour allowing Oni to spread their proge for the masses.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T19:10:00+03:00",
-			"timeEnd": "2018-06-30T19:55:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/oni.jpeg",
-		"link_spotify": "spotify:artist:6Rnp9z01jyCXbdynsTOQLB",
-		"link_band": "https://www.facebook.com/TheOniBand/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/oni",
-		"link_band_tuska_en": "http://tuska.fi/en/oni",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "foreseen",
-		"title_fi": "FORESEEN",
-		"title_en": "FORESEEN",
-		"descr_fi": "Helsinkiläinen crossover-kone Foreseen tekee asiat perinteisellä diy-mallilla: hartiavoimin töitä, tuhansia kilometrejä pakettiautossa, itsejärkättyjä rundeja eikä mitään turhaa. Uudella ”Grave Danger”-albumilla riffit jauhavat kuin viimeistä päivää eikä löysiä anneta. Foreseen kiertää kesällä Eurooppa yhdessä amerikkalaisen Red Deathin kanssa ja kiertue alkaa Tuskasta. Liikkuvat taakse, nyt mennään.",
-		"descr_en": "Helsinki based crossover machine Foreseen are going about things in the original DIY-manner. Hard work, thousands of miles in the tour van, selfbooked tours and nothing extra. These guys aren’t waiting for someone to come get them from the rehearsal room. They’re out there doing it. You want some, go get some. Their new ”Grave Danger” album is loaded with badass riffs and their live act is all killer no filler.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T16:10:00+03:00",
-			"timeEnd": "2018-06-30T16:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/foreseen.jpeg",
-		"link_spotify": "spotify:artist:0GQRDxksaf79O8JDgxp91g",
-		"link_band": "https://www.facebook.com/Foreseen/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/foreseen",
-		"link_band_tuska_en": "http://tuska.fi/en/foreseen",
-		"black_star": false,
-		"favored": false
-	},
-
-	{
-		"id": "galacticempire",
-		"title_fi": "GALACTIC EMPIRE",
-		"title_en": "GALACTIC EMPIRE",
-		"descr_fi": "Kuten nimestä voi päätellä, Galactic Empire juontaa juurensa Tähtien Sota -teemasta. Nyt ei puhuta mistään vaikutteiden ottamisesta vaan täydellisestä omistautumisesta. Galactic Empire soittaa moderneja metalliversioita John Williamsin säveltämästä Tähtien Sota -soundtrackista. Olkoon voima kanssasi.",
-		"descr_en": "As one can determine by their name, Galactic Empire draws its inspiration from Star Wars. Actually, talking about inspiration would be a serious understatement. We’re talking full-on dedication here. The band performs classic pieces from the iconic soundtrack of the Star Wars films written by John Williams. Dressed as the charachters from the movies, no less. May the force be with you.",
+		"id": "at_the_gates",
+		"title_fi": "AT THE GATES",
+		"title_en": "AT THE GATES",
+		"descr_fi": "Ruotsin melodödis-ylpeys At The Gates lyö kehiin uuden albulmin vuonna 2018. Rima on korkealla. Sen korkeuden määritti parin vuoden takainen ”At War With Reality”. Puhumattakaan bändin vanhemmista tuotoksista. Näin perstuntumalla väittäisin, että tulee potkimaan. Ja lujaa.",
+		"descr_en": "The founding fathers of melodic death metal, Sweden’s At The Gates will be back with a new album in 2018. Their most recent release, ”At War With Reality” set the bar rather high. Not to mention the earlier albums. My educated guess would be that the new-comer will serve a serious ass-kicking.",
 		"type": "band",
 		"schedule": [{
 			"stage": "second",
-			"timeBeg": "2018-06-30T14:10:00+03:00",
-			"timeEnd": "2018-06-30T14:50:00+03:00"
+			"timeBeg": "2018-06-30T21:20:00+03:00",
+			"timeEnd": "2018-06-30T22:30:00+03:00"
 		}],
-		"img": "./assets/imgs/bands/galacticempire.jpeg",
-		"link_spotify": "spotify:artist:07uYEzcM2ZbY0XacOINjUY",
-		"link_band": "https://www.facebook.com/pg/galacticempireofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/galactic-empire",
-		"link_band_tuska_en": "http://tuska.fi/en/galactic-empire",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "reddeath",
-		"title_fi": "RED DEATH",
-		"title_en": "RED DEATH",
-		"descr_fi": "Piinkova crossover-jyräys on homman nimi Red Death -leirissä. Nämä Washington DC:n pojat eivät kysele lupia, bändin thrashia ja hardcorea yhdistelevä turpaanveto vetää maton alta muitta mutkitta. Viime vuonna ilmestynyt ”Formidable Darkness” tarjoilee suoraviivaista muilutusta suoraviivaisen muilutuksen ystäville. Red Death aloittaa Tuskasta yhteisen eurorundin Foreseenin kanssa.",
-		"descr_en": "Hard as f**k crossover pummeling is the name of the game in the Red Death camp. The Washington DC based quartet released their current ”Formidable Darkness” album last year and they take no prisoners. Red Death are starting their Euro tour with Foreseen from Tuska.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T17:10:00+03:00",
-			"timeEnd": "2018-06-30T17:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/reddeath.jpeg",
-		"link_spotify": "spotify:artist:1uBhFijojfN4nXW4huTJ4r",
-		"link_band": "https://www.facebook.com/REDDEATHDC/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/red-death",
-		"link_band_tuska_en": "http://tuska.fi/en/red-death",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "feastem",
-		"title_fi": "FEASTEM",
-		"title_en": "FEASTEM",
-		"descr_fi": "Raahen lahja grindcorelle, sittemmin helsinkiläistynyt Feastem puskee edelleen vähintäänkin sata lasissa vaikka blastbeat jauhaakin jo pitkälle toista vuosikymmentä. Feastem on maailmalla Rotten Soundin ohella yksi Suomen tunnetuimpia nimiä grindcoren saralla. Bändi on kiertänyt Eurooppaa lukuisia kertoja sekä esiintynyt lähes kaikissa tyylisuuntansa johtavissa tapahtumissa, kuten Tšekissä järjestettävillä massiivisilla Obscene Extreme grind-festivaaleilla. Kuten suurin osa lajityyppinsä kärkinimistä, Feastem operoi erittäin menestyksellisesti täysin tutkan alla mitä suuren yleisön tietoisuuteen tulee. Pidetään se niin. Ne tietää ketkä tietää.",
-		"descr_en": "Feastem from Raahe, Finland, who have since re-rooted themselves to Helsinki, are one of Finland’s gifts to the grindcoring world. The band has been going strong for way over a decade and they are not slowing down any time soon. Ever, in fact. Feastem are alongside Rotten Sound one of Finland’s best known grind-exports; they have toured the European circuit plenty of times and appeared at many significant extreme metal gathertings such as Obscene Extreme. Like most grindcore greats, Feastem operate very successfully under the radar as far as the wider audience is concerned. Let’s keep it that way. Those who know, know.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T18:10:00+03:00",
-			"timeEnd": "2018-06-30T18:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/feastem.jpeg",
-		"link_spotify": "spotify:artist:1Z3vhCAL0qaIPoEKg04cPr",
-		"link_band": "https://www.facebook.com//Feastem/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/feastem",
-		"link_band_tuska_en": "http://tuska.fi/en/feastem",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "hardaction",
-		"title_fi": "HARD ACTION",
-		"title_en": "HARD ACTION",
-		"descr_fi": "Helsinkiläis- / kouvolalainen Hard Action soittaa tyylipuhdasta action rockia Hellacoptersin ja muiden aikalaisten hengessä. Bändiä on siunattu poikkeuksellisella sävellysosaamisella ja soitto kulkee satojen keikkojen tuomalla varmuudella; yhtyeen jäsenet vaikuttavat useissa klubiympyröissä nimeä tehneissä kokoonpanoissa. Tuore kakkosalbumi ”Hot Wired Beat” on saanut erittäin suitsuttavia arvioita ympäri maailmaa, eikä suotta. Levy on parasta action rockia mitä on viime aikoina tehty missään.",
-		"descr_en": "Hard Action, based out of Helsinki and Kouvola, respectively, pays homage to the authentic action rock sound of the 90’s à la Hellacopters and the like. They pass with flying colors. They’ve got the songs, the skills and the style. Their new ”Hot Wired Beat” album has gathered rave reviews all around and no wonder. It’s undoubtedly the best action rock album made in years.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T15:15:00+03:00",
-			"timeEnd": "2018-06-29T15:45:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/hardaction.jpeg",
-		"link_spotify": "spotify:artist:1MNirWvVTlKC0ANZXSgN5l",
-		"link_band": "https://www.facebook.com/hardaction/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/hard-action",
-		"link_band_tuska_en": "http://tuska.fi/en/hard-action",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "gloomygrim",
-		"title_fi": "GLOOMY GRIM",
-		"title_en": "GLOOMY GRIM",
-		"descr_fi": "Kotimainen black metal -yhtye Gloomy Grim herää viimein talvilevoltaan Tuskan lauteille! Yhtye kerää inspiraationsa kauhuleffojen soundtrackeista ja elämän pimeistä puolista, ja vuonna 2016 julkaistu bändin kuudes pitkäsoitto ”The Age of Aquarius” on juuri sitä itseään. Nämä bläkkiksen taitajat tulevat vauhdilla ja täräyttävät kovaa!",
-		"descr_en": "The Finnish Black Metal band Gloomy Grim has finally woken from hibernation and is ready to play at Tuska! The band draws its inspiration from horror-movie soundtracks and the dark life itself, which can be heard on their latest studio album ”The Age of Aquarius”. These masters of black metal will come with force and make the stage tremble!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T14:15:00+03:00",
-			"timeEnd": "2018-06-29T14:45:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/gloomygrim.jpeg",
-		"link_spotify": "spotify:artist:4m1sCnS2iWxn2Xj8xf9d4q",
-		"link_band": "https://www.facebook.com/AgathonTheBeast/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/gloomy-grim",
-		"link_band_tuska_en": "http://tuska.fi/en/gloomy-grim",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "crimfall",
-		"title_fi": "CRIMFALL",
-		"title_en": "CRIMFALL",
-		"descr_fi": "Helsinkiläinen folk-metal-ryhmittymä Crimfall julkaisi männä vuonna ”Amain”-nimisen kolmosalbuminsa, joka sai loistavan vastaanoton joka puolella. Ja ansaitusti – eeppistä ja vahvaa, tästä ei meininki juurikaan parane!",
-		"descr_en": "Helsinki, Finland based folk metal group Crimfall released their third album titled ”Amain” just last year. It’s epic and strong – folk metal madness doesn’t get any better than this!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T14:55:00+03:00",
-			"timeEnd": "2018-06-30T15:40:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/crimfall.jpeg",
-		"link_spotify": "spotify:artist:2LYjzOemK4INJt9oPu7XJu",
-		"link_band": "https://www.facebook.com/crimfall/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/crimfall",
-		"link_band_tuska_en": "http://tuska.fi/en/crimfall",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "blindchannel",
-		"title_fi": "BLIND CHANNEL",
-		"title_en": "BLIND CHANNEL",
-		"descr_fi": "Oululainen väkivaltapop -yhtye Blind Channel on kiistatta yksi maamme lupaavimmista rocktulokkaista. Yhtyeen debyyttialbumi ”Revolutions” yhdistelee rockiin disco-, pop- ja rap-elementtejä, ja bändin 5-vuotisella taipaleella on taakse kertynyt keikkakokemusta jo pitkin Eurooppaa ja isoja festarilavoja. Huhtikuussa julkaistaan bändin toinen pitkäsoitto ”Blood Brothers”, joka tullaan varmasti kuulemaan Tuskassakin!",
-		"descr_en": "Oulu-based violent-pop band Blind Channel is without a doubt one of the most promising newcomers in the rock-field. The band’s debut album ”Revolutions” combines disco-, pop- and rap-elements into rock. In five years the band has toured throughout Europe, including big festival stages. Blind Channel will release their second album ”Blood Brothers” in April, which will surely be heard in Tuska!",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-07-01T15:25:00+03:00",
-			"timeEnd": "2018-07-01T15:55:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/blindchannel.jpeg",
-		"link_spotify": "spotify:artist:3L58J6a7f0jyy2p6f3MSAs",
-		"link_band": "https://www.facebook.com/BlindChannelBand/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/blind-channel",
-		"link_band_tuska_en": "http://tuska.fi/en/blind-channel",
+		"img": "./assets/imgs/bands/at_the_gates.jpeg",
+		"link_spotify": "spotify:artist:6YXarbjg36ODFPez0PnOlD",
+		"link_band": "https://www.facebook.com/AtTheGatesOfficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/gates",
+		"link_band_tuska_en": "http://tuska.fi/en/gates",
 		"black_star": false,
 		"favored": false
 	},
@@ -839,24 +78,23 @@
 		"black_star": false,
 		"favored": false
 	},
-
 	{
-		"id": "temppelipallit",
-		"title_fi": "TEMPLE BALLS",
-		"title_en": "TEMPLE BALLS",
-		"descr_fi": "Oululainen hard rock -viisikko Temple Balls jytää niin, ettei paremmasta väliä. Bändi vakuutti Ranka Recordingsin head honchon Riku Pääkkösen, joka kiinnitti bändin talliinsa välittömästi. Esikoisalbumi ”Traded Dreams” soi kuin alansa merkkiteokset konsanaan ja Tempe Balls on sittemmin valloittanut keikkalavoja ihan Japania myöden",
-		"descr_en": "Hard rock from Oulu, Finland. If you have been to Oulu, you know those people do not play around. If they do hard rock, they do it hard. Soon after it’s conception, Temple Balls was signed to Ranka Recordings, the label founded by Riku Pääkkönen who also is the mastermind behind the world-reknown metal label Spinefarm. Temple Balls’s debut album ”Traded Dreams” has taken the band around quite a bit and they show no signs of slowing down. Hard rock till you drop.",
+		"id": "beastinblack",
+		"title_fi": "BEAST IN BLACK",
+		"title_en": "BEAST IN BLACK",
+		"descr_fi": "Pian odotetun debyyttinsä julkaiseva Anton Kabasen luotsaama Beast In Black on kovimpia tekijöitä melodisen metallin skenessä ihan maailman laajuisesti. Esikoinen kantaa nimeä ”Berserker” ja nimensä mukaisesti homma potkii. Pitäkäähän varanne.",
+		"descr_en": "Beast In Black will soon set free their first born. ”Berserker” does not hold back or ask for permission. Get with it or get out of the way.",
 		"type": "band",
 		"schedule": [{
 			"stage": "main",
-			"timeBeg": "2018-07-01T14:10:00+03:00",
-			"timeEnd": "2018-07-01T14:40:00+03:00"
+			"timeBeg": "2018-06-30T14:50:00+03:00",
+			"timeEnd": "2018-06-30T15:35:00+03:00"
 		}],
-		"img": "./assets/imgs/bands/temppelipallit.jpeg",
-		"link_spotify": "spotify:artist:6eiOdKXmZuz3nWzLuJkCE2",
-		"link_band": "https://www.facebook.com/templeballsrocks/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/temple-balls",
-		"link_band_tuska_en": "http://tuska.fi/en/temple-balls",
+		"img": "./assets/imgs/bands/beastinblack.jpeg",
+		"link_spotify": "spotify:artist:0rEuaTPLMhlViNCJrg3NEH",
+		"link_band": "https://www.facebook.com/beastinblackofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/beast-black-0",
+		"link_band_tuska_en": "http://tuska.fi/en/beast-black-0",
 		"black_star": false,
 		"favored": false
 	},
@@ -881,6 +119,586 @@
 		"favored": false
 	},
 	{
+		"id": "blindchannel",
+		"title_fi": "BLIND CHANNEL",
+		"title_en": "BLIND CHANNEL",
+		"descr_fi": "Oululainen väkivaltapop -yhtye Blind Channel on kiistatta yksi maamme lupaavimmista rocktulokkaista. Yhtyeen debyyttialbumi ”Revolutions” yhdistelee rockiin disco-, pop- ja rap-elementtejä, ja bändin 5-vuotisella taipaleella on taakse kertynyt keikkakokemusta jo pitkin Eurooppaa ja isoja festarilavoja. Huhtikuussa julkaistaan bändin toinen pitkäsoitto ”Blood Brothers”, joka tullaan varmasti kuulemaan Tuskassakin!",
+		"descr_en": "Oulu-based violent-pop band Blind Channel is without a doubt one of the most promising newcomers in the rock-field. The band’s debut album ”Revolutions” combines disco-, pop- and rap-elements into rock. In five years the band has toured throughout Europe, including big festival stages. Blind Channel will release their second album ”Blood Brothers” in April, which will surely be heard in Tuska!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-07-01T15:25:00+03:00",
+			"timeEnd": "2018-07-01T15:55:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/blindchannel.jpeg",
+		"link_spotify": "spotify:artist:3L58J6a7f0jyy2p6f3MSAs",
+		"link_band": "https://www.facebook.com/BlindChannelBand/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/blind-channel",
+		"link_band_tuska_en": "http://tuska.fi/en/blind-channel",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "bodycount",
+		"title_fi": "BODY COUNT",
+		"title_en": "BODY COUNT",
+		"descr_fi": "Itsensä Ice T:n luotsaama Body Count saapuu ensi kertaa Suomeen – ja Tuskaan, perjantain pääesiintyjäksi. Yhdeksänkymmentäluvun alussa kannuksensa ansainnut Los Angelesin pahamaineisilta jengialueilta lähtöisin oleva Body Count on herättänyt ihailua ja pahennusta läpi koko uransa. Bändin viimeisin julkaisu on viime vuoden ylistetty ”Bloodlust”-albumi.",
+		"descr_en": "Spearheaded by the infamous Ice T himself, the LA street unit Body Count have been confirmed as the headliners for Tuska Friday. The band’s latest release is the highly acclaimed ”Bloodlust” album. Tuska-show will be Body Count’s first show in Finland.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-29T22:30:00+03:00",
+			"timeEnd": "2018-06-30T00:00:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/bodycount.jpeg",
+		"link_spotify": "spotify:artist:5KCph1z3jaSwhtwPzoYp6i",
+		"link_band": "https://www.facebook.com/bodycountofficial",
+		"link_band_tuska_fi": "http://tuska.fi/fi/body-count",
+		"link_band_tuska_en": "http://tuska.fi/en/body-count",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "bombus",
+		"title_fi": "BOMBUS",
+		"title_en": "BOMBUS",
+		"descr_fi": "Göteborgin riffikeisarit palaavat Tuskaan parin vuoden tauon jälkeen. Bändin tuorein ”Repeat Until Death” -lätty esittelee jälleen pidemmälle viedyn version Bombuksen nimikkogroovesta. Homma kulkee kuin veturi uusilla raiteilla.",
+		"descr_en": "Göteborg riffmeisters known as Bombus are back at Tuska after a few years. Their current album ”Repeat Until Death” showcases a more refined version of the trademark Bombus groove. This thing runs like locomotive.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T20:25:00+03:00",
+			"timeEnd": "2018-06-30T21:25:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/bombus.jpeg",
+		"link_spotify": "spotify:artist:3PasuDKJ3UrBlLly6Lih4V",
+		"link_band": "https://www.facebook.com/bombusmusic/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/bombus",
+		"link_band_tuska_en": "http://tuska.fi/en/bombus",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "carpenterbrut",
+		"title_fi": "CARPENTER BRUT",
+		"title_en": "CARPENTER BRUT",
+		"descr_fi": "Ranskalainen synthwave-ilmiö Carpenter Brut Tuskaan! Synthwaven valovoimaisimpiin nimiin lukeutuva Carpenter Brut kerää vaikutteita 80-luvun TV-ohjelmista ja B-luokan elokuvista. Yhtye julkaisi helmikuun lopussa varsinaisen debyyttialbuminsa ”Leather Teeth”, joka on monipuolinen syntikkamatka 80-luvun uumeniin.",
+		"descr_en": "The French synthwave phenomenon Carpenter Brut comes to Tuska! Carpenter Brut is a phenomenon that draws its influences from '80s TV shows and B-movies loaded with synthesizers. Carpenter Brut released his debut album ”Leather Teeth” at the end of February.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-30T17:20:00+03:00",
+			"timeEnd": "2018-06-30T18:05:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/carpenterbrut.jpeg",
+		"link_spotify": "spotify:artist:1l2oLiukA9i5jEtIyNWIEP",
+		"link_band": "https://www.facebook.com/carpenter.brut/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/carpenter-brut",
+		"link_band_tuska_en": "http://tuska.fi/en/carpenter-brut",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "clutch",
+		"title_fi": "CLUTCH",
+		"title_en": "CLUTCH",
+		"descr_fi": "Amerikkalainen pitkän linjan rock-jyrä Clutch rytkyttää riffipohjaista vääntöään niin että tyrät paukkuu. Työstö etenee niin sielukkaasti kuin amerikkalaisen musiikkiperimän omaavalta blues-pohjaiselta ryhmältä vain voi odottaa. Clutchin viimeisin albumi on loistoarvostelut kerännyt rytmikkäästi kulkeva ”Psychic Warfare”, jonka tuotantoa kuullaan varmasti Tuskassakin.",
+		"descr_en": "American heavyweights Clutch kick it off with their groovy riffage like there’s no tomorrow. Their current album ”Psychic Warfare” is an awesome display of prowess from a band that’s way more than 20 years deep in the game and still going strong, constantly putting out their best work.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-07-01T18:40:00+03:00",
+			"timeEnd": "2018-07-01T19:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/clutch.jpeg",
+		"link_spotify": "spotify:artist:161AC1AVRkIGIMxyj5djFQ",
+		"link_band": "https://www.facebook.com/Clutchband/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/clutch",
+		"link_band_tuska_en": "http://tuska.fi/en/clutch",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "crimfall",
+		"title_fi": "CRIMFALL",
+		"title_en": "CRIMFALL",
+		"descr_fi": "Helsinkiläinen folk-metal-ryhmittymä Crimfall julkaisi männä vuonna ”Amain”-nimisen kolmosalbuminsa, joka sai loistavan vastaanoton joka puolella. Ja ansaitusti – eeppistä ja vahvaa, tästä ei meininki juurikaan parane!",
+		"descr_en": "Helsinki, Finland based folk metal group Crimfall released their third album titled ”Amain” just last year. It’s epic and strong – folk metal madness doesn’t get any better than this!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T14:55:00+03:00",
+			"timeEnd": "2018-06-30T15:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/crimfall.jpeg",
+		"link_spotify": "spotify:artist:2LYjzOemK4INJt9oPu7XJu",
+		"link_band": "https://www.facebook.com/crimfall/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/crimfall",
+		"link_band_tuska_en": "http://tuska.fi/en/crimfall",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "crowbar",
+		"title_fi": "CROWBAR",
+		"title_en": "CROWBAR",
+		"descr_fi": "New Orleansin perinteikäs riffiveturi Crowbar puskee menemään. Tästä ei soundi paljon tuhdimmaksi enää muutu. Bändin johtohahmo Kirk Windstein on yksi väkevimpiä syvän etelän riffittelijöitä ja mistään mikki hiiri -soundeista ei tämän miehen kohdalla ole kyse. Kitaravalli on kerrostalon kokoinen ja kuviot sielukkaita. Saattaa tulla tippa linssiin raavaammallakin kuuntelijalla.",
+		"descr_en": "New Orleans’s traditional riff bulldozer Crowbar is back. You know it doesn’t get much heavier than this. Crowbar frontman Kirk Windstein is one of the most soulful riffmeisters from the deep south and his guitar sound – well, we’re talking building size here. Crowbar’s latest album is ”The Serpent Only Lies” from a few years back.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-29T14:45:00+03:00",
+			"timeEnd": "2018-06-29T15:35:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/crowbar.jpeg",
+		"link_spotify": "spotify:artist:3xtIpqzIOfQUxKce8BU4Ka",
+		"link_band": "https://www.facebook.com/crowbarmusic/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/crowbar",
+		"link_band_tuska_en": "http://tuska.fi/en/crowbar",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "deadcross",
+		"title_fi": "DEAD CROSS",
+		"title_en": "DEAD CROSS",
+		"descr_fi": "Mike Pattonin ja Dave Lombardon tähdittämä, monisyistä hardcorea tempova Dead Cross julkaisi yhtyeen nimeä kantavan debyyttialbumin viime vuonna. Patton tunnetaan paremmin Faith No Moren -yhtyeensä keulahahmona ja Lombardo mittavasta urastaan Slayerin rumpupallilla. Tätäkään hyvää ei ole näillä turuilla aiemmin nähty.",
+		"descr_en": "Dead Cross, the hardcore act featuring the likes of Mike Patton and Dave Lombardo, no less, are making their Finnish debut at Tuska. For those unfamiliar with the names, Patton is the frontman of Faith No More and Lombardo spent years on the drumthrone of the almighty Slayer. Dead Cross released their self titled debut last year. You know this is gonna be good.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-29T18:25:00+03:00",
+			"timeEnd": "2018-06-29T19:25:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/deadcross.jpeg",
+		"link_spotify": "spotify:artist:5o7MNRaQrt87SwYWxHEZvN",
+		"link_band": "https://www.facebook.com/deadcrossofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/dead-cross",
+		"link_band_tuska_en": "http://tuska.fi/en/dead-cross",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "europe",
+		"title_fi": "EUROPE",
+		"title_en": "EUROPE",
+		"descr_fi": "Jo 70-luvun lopussa perustettu Europe elää elämänsä uutta kevättä. Vaikka bändillä on tilillään rock-historian suurimpia hittejä, on bändin tämän hetkinen materiaali sielukkaampaa kuin koskaan. Tuore ”Walk The Earth”-albumi tavoittaa niin perinpohjaisen 70-luvun rock-tunnelman, ettei paremmasta väliä. Europe soi tasan samassa liigassa alan tunnustettujen jättien kanssa. Europe on tehnyt kiistatta yhden vuoden parhaista levyistä.",
+		"descr_en": "Founded at the tailend of the seventies, Europe is living a new spring. Although the band has scored some of the biggest hits and most legendary rock anthems of all time, their current material is more soulful than ever. Their fresh ”Walk The Earth” album captures the spirit of the times when rock and roll was still grand, and the album places them right up there in league with the classic big dogs. Europe has undeniably released one of the best records of the year.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-07-01T17:35:00+03:00",
+			"timeEnd": "2018-07-01T18:35:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/europe.jpeg",
+		"link_spotify": "spotify:artist:7Js6Lde8thlIHXggv2SCBz",
+		"link_band": "https://www.facebook.com/europetheband/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/europe",
+		"link_band_tuska_en": "http://tuska.fi/en/europe",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "feastem",
+		"title_fi": "FEASTEM",
+		"title_en": "FEASTEM",
+		"descr_fi": "Raahen lahja grindcorelle, sittemmin helsinkiläistynyt Feastem puskee edelleen vähintäänkin sata lasissa vaikka blastbeat jauhaakin jo pitkälle toista vuosikymmentä. Feastem on maailmalla Rotten Soundin ohella yksi Suomen tunnetuimpia nimiä grindcoren saralla. Bändi on kiertänyt Eurooppaa lukuisia kertoja sekä esiintynyt lähes kaikissa tyylisuuntansa johtavissa tapahtumissa, kuten Tšekissä järjestettävillä massiivisilla Obscene Extreme grind-festivaaleilla. Kuten suurin osa lajityyppinsä kärkinimistä, Feastem operoi erittäin menestyksellisesti täysin tutkan alla mitä suuren yleisön tietoisuuteen tulee. Pidetään se niin. Ne tietää ketkä tietää.",
+		"descr_en": "Feastem from Raahe, Finland, who have since re-rooted themselves to Helsinki, are one of Finland’s gifts to the grindcoring world. The band has been going strong for way over a decade and they are not slowing down any time soon. Ever, in fact. Feastem are alongside Rotten Sound one of Finland’s best known grind-exports; they have toured the European circuit plenty of times and appeared at many significant extreme metal gathertings such as Obscene Extreme. Like most grindcore greats, Feastem operate very successfully under the radar as far as the wider audience is concerned. Let’s keep it that way. Those who know, know.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T18:10:00+03:00",
+			"timeEnd": "2018-06-30T18:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/feastem.jpeg",
+		"link_spotify": "spotify:artist:1Z3vhCAL0qaIPoEKg04cPr",
+		"link_band": "https://www.facebook.com//Feastem/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/feastem",
+		"link_band_tuska_en": "http://tuska.fi/en/feastem",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "foreseen",
+		"title_fi": "FORESEEN",
+		"title_en": "FORESEEN",
+		"descr_fi": "Helsinkiläinen crossover-kone Foreseen tekee asiat perinteisellä diy-mallilla: hartiavoimin töitä, tuhansia kilometrejä pakettiautossa, itsejärkättyjä rundeja eikä mitään turhaa. Uudella ”Grave Danger”-albumilla riffit jauhavat kuin viimeistä päivää eikä löysiä anneta. Foreseen kiertää kesällä Eurooppa yhdessä amerikkalaisen Red Deathin kanssa ja kiertue alkaa Tuskasta. Liikkuvat taakse, nyt mennään.",
+		"descr_en": "Helsinki based crossover machine Foreseen are going about things in the original DIY-manner. Hard work, thousands of miles in the tour van, selfbooked tours and nothing extra. These guys aren’t waiting for someone to come get them from the rehearsal room. They’re out there doing it. You want some, go get some. Their new ”Grave Danger” album is loaded with badass riffs and their live act is all killer no filler.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T16:10:00+03:00",
+			"timeEnd": "2018-06-30T16:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/foreseen.jpeg",
+		"link_spotify": "spotify:artist:0GQRDxksaf79O8JDgxp91g",
+		"link_band": "https://www.facebook.com/Foreseen/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/foreseen",
+		"link_band_tuska_en": "http://tuska.fi/en/foreseen",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "galacticempire",
+		"title_fi": "GALACTIC EMPIRE",
+		"title_en": "GALACTIC EMPIRE",
+		"descr_fi": "Kuten nimestä voi päätellä, Galactic Empire juontaa juurensa Tähtien Sota -teemasta. Nyt ei puhuta mistään vaikutteiden ottamisesta vaan täydellisestä omistautumisesta. Galactic Empire soittaa moderneja metalliversioita John Williamsin säveltämästä Tähtien Sota -soundtrackista. Olkoon voima kanssasi.",
+		"descr_en": "As one can determine by their name, Galactic Empire draws its inspiration from Star Wars. Actually, talking about inspiration would be a serious understatement. We’re talking full-on dedication here. The band performs classic pieces from the iconic soundtrack of the Star Wars films written by John Williams. Dressed as the charachters from the movies, no less. May the force be with you.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-30T14:10:00+03:00",
+			"timeEnd": "2018-06-30T14:50:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/galacticempire.jpeg",
+		"link_spotify": "spotify:artist:07uYEzcM2ZbY0XacOINjUY",
+		"link_band": "https://www.facebook.com/pg/galacticempireofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/galactic-empire",
+		"link_band_tuska_en": "http://tuska.fi/en/galactic-empire",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "gloomygrim",
+		"title_fi": "GLOOMY GRIM",
+		"title_en": "GLOOMY GRIM",
+		"descr_fi": "Kotimainen black metal -yhtye Gloomy Grim herää viimein talvilevoltaan Tuskan lauteille! Yhtye kerää inspiraationsa kauhuleffojen soundtrackeista ja elämän pimeistä puolista, ja vuonna 2016 julkaistu bändin kuudes pitkäsoitto ”The Age of Aquarius” on juuri sitä itseään. Nämä bläkkiksen taitajat tulevat vauhdilla ja täräyttävät kovaa!",
+		"descr_en": "The Finnish Black Metal band Gloomy Grim has finally woken from hibernation and is ready to play at Tuska! The band draws its inspiration from horror-movie soundtracks and the dark life itself, which can be heard on their latest studio album ”The Age of Aquarius”. These masters of black metal will come with force and make the stage tremble!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T14:15:00+03:00",
+			"timeEnd": "2018-06-29T14:45:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/gloomygrim.jpeg",
+		"link_spotify": "spotify:artist:4m1sCnS2iWxn2Xj8xf9d4q",
+		"link_band": "https://www.facebook.com/AgathonTheBeast/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/gloomy-grim",
+		"link_band_tuska_en": "http://tuska.fi/en/gloomy-grim",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "gojira",
+		"title_fi": "GOJIRA",
+		"title_en": "GOJIRA",
+		"descr_fi": "Ranskan metallimahti Gojira on seuraavia metallikentän supertähtiä. Bändin pistämätön tyylikkyys, uskomaton riffivainu ja tinkimätön työmoraali on nostanut Gojiran raskaan sarjan kirkkaimman kärjen notkeaksi laitahyökkääjäksi. Bändin viimeisin ”Magma”-albumi on mieletön, kaiken murskaava katujyrä. Tuska ilmoittaa erittäin ylpeänä, että Gojira on Tuska 2018 lauantain pääesiintyjä.",
+		"descr_en": "French giant Gojira is the next big thing in metal. The next generation of metal superstars. The band’s sense of style, incredible feel for riffs and uncompromised work ethics have taken Gojira to where they are now. Gojira’s latest album ”Magma” is a no holds barred thrust of power. Tuska is extremely proud to announce Gojira as the headliner for Saturday June 30th 2018.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-30T22:30:00+03:00",
+			"timeEnd": "2018-07-01T00:00:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/gojira.jpeg",
+		"link_spotify": "spotify:artist:0GDGKpJFhVpcjIGF8N6Ewt",
+		"link_band": "https://www.facebook.com/GojiraMusic/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/gojira",
+		"link_band_tuska_en": "http://tuska.fi/en/gojira",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "grave_pleasures",
+		"title_fi": "GRAVE PLEASURES",
+		"title_en": "GRAVE PLEASURES",
+		"descr_fi": "Synkkääkin synkempi mutta ah niin jumalaisesti soiva Grave Pleasures on kulkenut pitkän tien täydellisen apokalyptisen melodian metsästyksessä. Yhtye aloitti uransa Beastmilk-nimellä ja julkaisi loistavan ”Climax”-albumin, ennen kuin miehistönvaihdosten myötä nimeksi vakiintui Grave Pleasures. Uudella nimellä bändi julkaisi ”Dreamcrash”-levyn, joka oli kenties se kuuluisa vaikea kakkosalbumi. Mutta nyt. Tuore ”Motherblood” -albumi on kiistaton täysosuma. Elämää suurempia melodiota, haikeutta ja raakaa voimaa samassa paketissa.",
+		"descr_en": "Darker than the night, more beautiful than life itself, Grave Pleasures has taken the road less traveled in their search of the perfect apocalyptic atmosphere. The band started off as Beastmilk and released their extraordinary ”Climax” debut album, before switching their moniker to Grave Pleasures after various line up changes. Their sophomore album ”Dreamcrash”, their first as Grave Pleasures, might have been the infamous difficult second album. But now. Their third effort ”Motherblood” is nothing but a jackpot. Larger than life melodies, melancholicly beautiful mixed with raw power. It’s all there.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-07-01T17:40:00+03:00",
+			"timeEnd": "2018-07-01T18:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/grave_pleasures.jpeg",
+		"link_spotify": "spotify:artist:7Gbgr3pNct3IvdhQLO8wPU",
+		"link_band": "https://www.facebook.com/gravepleasvres/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/grave-pleasures",
+		"link_band_tuska_en": "http://tuska.fi/en/grave-pleasures",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "hallatar",
+		"title_fi": "HALLATAR",
+		"title_en": "HALLATAR",
+		"descr_fi": "Doom-metallin kotimainen uusi kärkinimi, Hallatar, on todellinen tekijämiesten trio. Bändissä vaikuttavat biisintekijä Juha Raivion (Swallow The Sun) lisäksi Tomi Joutsen (Amorphis, Sinishtra) ja Gas Lipstick (mm. Dropzone, ex-HIM). Yhtyeen ”No Stars Upon The Bridge”-debyytti on sydäntäviiltävän vakuuttava ja silminnäkijälausunnot bändin ensimmäisistä keikoista ovat lumoutuneen haltioituneita. Tältä keikalta on lupa odottaa paljon.",
+		"descr_en": "Finland’s new doom metal supergroup Hallatar, is an ensemble of some of the finest metal musicians these neck of woods have to offer. Besides the main songwriter Juha Raivio (Swallow The Sun) the trio features vocalist Tomi Joutsen (Amorphis, Sinishtra) and drummer Gas Lipstick (Dropzone, ex-HIM). Hallatar’s ”No Stars Upon The Bridge” debut album is a painstakingly commanding piece of art. Hallatar just played their first ever live shows and the reports scream brilliance.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-30T19:10:00+03:00",
+			"timeEnd": "2018-06-30T20:05:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/hallatar.jpeg",
+		"link_spotify": "spotify:artist:5ztihvnD5Rio6dt2brPQEl",
+		"link_band": "https://www.facebook.com/Hallatardoom/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/hallatar",
+		"link_band_tuska_en": "http://tuska.fi/en/hallatar",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "hardaction",
+		"title_fi": "HARD ACTION",
+		"title_en": "HARD ACTION",
+		"descr_fi": "Helsinkiläis- / kouvolalainen Hard Action soittaa tyylipuhdasta action rockia Hellacoptersin ja muiden aikalaisten hengessä. Bändiä on siunattu poikkeuksellisella sävellysosaamisella ja soitto kulkee satojen keikkojen tuomalla varmuudella; yhtyeen jäsenet vaikuttavat useissa klubiympyröissä nimeä tehneissä kokoonpanoissa. Tuore kakkosalbumi ”Hot Wired Beat” on saanut erittäin suitsuttavia arvioita ympäri maailmaa, eikä suotta. Levy on parasta action rockia mitä on viime aikoina tehty missään.",
+		"descr_en": "Hard Action, based out of Helsinki and Kouvola, respectively, pays homage to the authentic action rock sound of the 90’s à la Hellacopters and the like. They pass with flying colors. They’ve got the songs, the skills and the style. Their new ”Hot Wired Beat” album has gathered rave reviews all around and no wonder. It’s undoubtedly the best action rock album made in years.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T15:15:00+03:00",
+			"timeEnd": "2018-06-29T15:45:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/hardaction.jpeg",
+		"link_spotify": "spotify:artist:1MNirWvVTlKC0ANZXSgN5l",
+		"link_band": "https://www.facebook.com/hardaction/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/hard-action",
+		"link_band_tuska_en": "http://tuska.fi/en/hard-action",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "ihsahn",
+		"title_fi": "IHSAHN",
+		"title_en": "IHSAHN",
+		"descr_fi": "Norjan vuonojen yli-instrumentalisti Ihsahn, oikealta nimeltään Vegard Sverre Tveitan, luotsaa miehen itsensä mukaan nimettyä yhtyettään vakaalla kädellä. Bändin proge-metalli luovii tyylikkäästi monella kentällä ja kiertää kuulijan pikkusormensa ympärille. Ihsahn on tullut tunnetuksi Norjan black metal -suuruuden Emperorin keulakuvana ja miehen soolotuotanto on luonnollista jatkoa tälle musta metallin suurnimen äänimaailmalle.",
+		"descr_en": "The multi-instrumentalist of the Norwegian fjords, Ihsahn, guides his namesake band with a steady hand. The band’s progressive metal lures the listener near and wraps them around their finger, and by then it’s too late. You’re done. Ihsahn earned his stripes as the lead-figure of Norway’s black metal giant Emperor. His solo material is a natural follow up to the sounds of the dark.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-07-01T16:30:00+03:00",
+			"timeEnd": "2018-07-01T17:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/ihsahn.jpeg",
+		"link_spotify": "spotify:artist:2E1jLcUfqd9w2XtybNB2Za",
+		"link_band": "https://www.facebook.com/ihsahnmusic",
+		"link_band_tuska_fi": "http://tuska.fi/fi/ihsahn",
+		"link_band_tuska_en": "http://tuska.fi/en/ihsahn",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "kreator",
+		"title_fi": "KREATOR",
+		"title_en": "KREATOR",
+		"descr_fi": "Yli 30 vuotta thrashia ei ole leikin asia. Eikä Kreator leiki. Mille Petrozza ja kumppanit ovat sahanneet rässiriffejä jo silloin kun faijanne puristelivat finnejä ja virittivät mopojaan. Kreatorin debyytti ”Endless Pain” ilmestyi vuonna 1985 ja tänä vuonna julkaistu ”Gods Of Violence” osoittaa bändin olevan kovemmassa ja tinkimättömämmässä vedossa kuin ikinä. Kreator lyö aina epäilijöille luun kurkkuun.",
+		"descr_en": "More than three decades of thrash metal is serious thing. And Kreator has always been strictly business. Mille Petrozza and his horde have been blasting shit to bits since day one and never missed a beat. Kreator’s debut album ”Endless Pain” was released in 1985. Their most recent work ”Gods Of Violence” shows that they are tighter and more ruthless than ever. Thanks for the decades of thrash, here’s to many more!",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-30T20:05:00+03:00",
+			"timeEnd": "2018-06-30T21:20:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/kreator.jpeg",
+		"link_spotify": "spotify:artist:3BM0EaYmkKWuPmmHFUTQHv",
+		"link_band": "https://www.facebook.com/KreatorOfficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/kreator",
+		"link_band_tuska_en": "http://tuska.fi/en/kreator",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "flyoverensemble",
+		"title_fi": "LAURI PORRA FLYOVER ENSEMBLE",
+		"title_en": "LAURI PORRA FLYOVER ENSEMBLE",
+		"descr_fi": "Lauri Porra on muusikko isolla M:llä. Säveltäjä ja monitaituri. Hän ymmärtää musiikkia tavalla, jolla vain harva ymmärtää. Hevi-pertit tuntevat miehen kenties parhaiten Stratovariuksen basson varresta mutta Porralla on monia hattuja. Hän on tehnyt kaikkea elokuvamusiikista klassiseen ja mitä ikinä siihen välille mahtuukaan. Tuskassa Porra esiintyy Flyover Ensemblensä kanssa, joka valmistelee parhaillaan uutta albumia.",
+		"descr_en": "Lauri Porra puts the capital M in Musician. A composer and multitalent, he comprehends music in a way that only very selected few do. Metalheads probably know him as the bass player of the almighty Stratovarius but Porra wears many hats. He has done everything from score to classical and whatever you can fit in between. At Tuska Porra performs with his Flyover Ensemble who are currently in the process of preparing a new album.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-07-01T16:25:00+03:00",
+			"timeEnd": "2018-07-01T17:10:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/flyoverensemble.jpeg",
+		"link_spotify": "spotify:artist:6PcS0mIfMV5JOY3NX2bkTn",
+		"link_band": "https://www.facebook.com/lauriporra",
+		"link_band_tuska_fi": "http://tuska.fi/fi/lauri-porra-flyover-ensemble",
+		"link_band_tuska_en": "http://tuska.fi/en/lauri-porra-flyover-ensemble",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "leprous",
+		"title_fi": "LEPROUS",
+		"title_en": "LEPROUS",
+		"descr_fi": "Eräs kiistatta modernin progen vetävimmistä ja mielenkiintoisimmista nimistä, norjalainen Leprous, ottaa Tuskan haltuun perjantaina alkuillasta. Yhtyeen viime vuotinen ”Malina” albumi on loistava osoitus bändin kyvystä luoda jotain ainutlaatuista ja kaunista. Leprous on yhtye, joka tulee kulkemaan vielä pitkän tien.",
+		"descr_en": "One of the most interesting and gracious names of the modern proge movement, Norway’s Leprous, will be taking over the moods at Tuska on Friday evening. The band’s most recent album ”Malina”, is a perfect storm of unique songwriting and beautiful musicianship. This will not be last time you will hear of this band.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-29T19:25:00+03:00",
+			"timeEnd": "2018-06-29T20:25:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/leprous.jpeg",
+		"link_spotify": "spotify:artist:4lgrzShsg2FLA89UM2fdO5",
+		"link_band": "https://www.facebook.com/leprousband/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/leprous",
+		"link_band_tuska_en": "http://tuska.fi/en/leprous",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "mantar",
+		"title_fi": "MANTAR",
+		"title_en": "MANTAR",
+		"descr_fi": "Saksan tykittely-duo Mantar opettaa tuskalaisia taas olemaan massiviisen äänivallin turvin. Järjettömänkokoisen kuuloinen kitara-/bassoyhdistelmä ei jätä mitään arvailujen varaan, riffi kulkee hevari tykkää!",
+		"descr_en": "German cannoning-duo Mantar are back with their colossal wall of sound. Dark-riffage and rolling thunder – we love it!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T17:15:00+03:00",
+			"timeEnd": "2018-06-29T18:00:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/mantar.jpeg",
+		"link_spotify": "spotify:artist:6rVRU7I6r1lt6bhXGYTRQL",
+		"link_band": "https://www.facebook.com/MantarBand/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/mantar",
+		"link_band_tuska_en": "http://tuska.fi/en/mantar",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "meshuggah",
+		"title_fi": "MESHUGGAH",
+		"title_en": "MESHUGGAH",
+		"descr_fi": "Matikkametallin ehdoton pioneeri ja kärkinimi Meshuggah palaa Tuskaan. Suvilahdessa etsitään siis jälleen transsimaisesti ykköstä väärästä paikasta muutaman vuoden tauon jälkeen! Bändin viimeisin studioalbumi ” The Violent Sleep of Reason” on järjestyksessään jo yhtyeen kahdeksas. Yleisöä ei kosiskella vieläkään.",
+		"descr_en": "Math metal pioneers Meshuggah will be gracing the Tuska stage, it’s been awhile since the last time. The Swedes have the audience looking like they know in which time signature the song is in. After all these year, very few have them figured out. The band’s latest studio album ” The Violent Sleep of Reason”, is their eighth one, and it’s still not getting any less complicated.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-29T21:25:00+03:00",
+			"timeEnd": "2018-06-29T22:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/meshuggah.jpeg",
+		"link_spotify": "spotify:artist:3ggwAqZD3lyT2sbovlmfQY",
+		"link_band": "https://www.facebook.com/meshuggah/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/meshuggah",
+		"link_band_tuska_en": "http://tuska.fi/en/meshuggah",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "mokoma",
+		"title_fi": "MOKOMA",
+		"title_en": "MOKOMA",
+		"descr_fi": "Lappeenrantalaislähtöinen Mokoma julkaisee pian jo kymmenennen studioalbuminsa ja bändi on jo vuosia sitten siirtynyt kotimaisen metallin raskaimpaan sarjaan. Mokoman laatu pitää; bändin levyt ovat aina varmaa tykitystä, säröt päällä ja kertsit kertsejä. Pidetään hevi hevinä.",
+		"descr_en": "Mokoma is one of the biggest names in Finnish metal. They’re about to release their 10th studioalbum, that itself speaks volumes of their status in Finnish music. Their albums always enter the official charts and Mokoma is one of the most sought after festival acts every summer. Mokoma stay true to their style: the distortion pedal stays on and you know when the chorus is coming up. Mokoma delivers quality.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-30T16:20:00+03:00",
+			"timeEnd": "2018-06-30T17:20:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/mokoma.jpeg",
+		"link_spotify": "spotify:artist:2LBteY4vnSD2zKwAgzOijB",
+		"link_band": "https://www.facebook.com/mokomamusic/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/mokoma",
+		"link_band_tuska_en": "http://tuska.fi/en/mokoma",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "moonsorrow",
+		"title_fi": "MOONSORROW",
+		"title_en": "MOONSORROW",
+		"descr_fi": "Pakanametalliryhmittymä Moonsorrow julkaisi viime vuonna kauan odotetun seitsemännen studioalbuminsa. ”Jumalten Aika” on synkkääkin synkempi matka menneisyyteen ja Moonsorrow:n eeppinen saaga jatkaa kulkuaan. Bändi moninainen sointi kaikuu ylväämpänä kuin koskaan, jyräten kaiken tieltään kohti vääjäämätöntä loppua. Odotus on ohi – nyt se palkitaan.",
+		"descr_en": "Pagan metal squad Moonsorrow unleashed their seventh studioalbum, titled ”Jumalten Aika” (”The Age Of Gods”) last year. ”Jumalten Aika” is a dark journey to the depths of the past and the plot of Moonsorrow’s epic saga just keeps on thickening. The band sounds bolder and more varied than ever, an all-crushing hammer of darkness clearing its path towards the end. The time of wait is over – it’s time to reap the rewards.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-29T17:25:00+03:00",
+			"timeEnd": "2018-06-29T18:25:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/moonsorrow.jpeg",
+		"link_spotify": "spotify:artist:4PdaU6ArZ8JTZvCX9ZWuTI",
+		"link_band": "https://www.facebook.com/moonsorrowofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/moonsorrow",
+		"link_band_tuska_en": "http://tuska.fi/en/moonsorrow",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "oni",
+		"title_fi": "ONI",
+		"title_en": "ONI",
+		"descr_fi": "Kanadalainen Oni veivaa modernia, erittäin metallista progea ja hyvin veivaakin. Bändin ”Ironshore”-albumi avasi bändille ovet itsensä Children Of Bodomin lämppäriksi ja kyseinen rundi toi Onin myös suomalaisten ihmeteltäväksi. Tätäkään ulkomaan ihmettä ei kannata jättää tsekkaamatta.",
+		"descr_en": "Canadian Oni delivers a dose of quality metallic proge. Their ”Ironshore” album secured them a slot as support for Children Of Bodom tour allowing Oni to spread their proge for the masses.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T19:10:00+03:00",
+			"timeEnd": "2018-06-30T19:55:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/oni.jpeg",
+		"link_spotify": "spotify:artist:6Rnp9z01jyCXbdynsTOQLB",
+		"link_band": "https://www.facebook.com/TheOniBand/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/oni",
+		"link_band_tuska_en": "http://tuska.fi/en/oni",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "parkway_drive",
+		"title_fi": "PARKWAY DRIVE",
+		"title_en": "PARKWAY DRIVE",
+		"descr_fi": "Se on sellanen homma, että Australian metalcore-ihme Parkway Drive laittaa hommat isolleen. Bändin suosio on paisunut maailmalla järjettömiin mittasuhteisiin ja nyt laitetaan Suomikin pakettiin. Vuonna 2003 Byron Bayssa perustettu Parkway Drive on edennyt urallaan vakain askein. Levy levyltä ja kiertue kiertueelta yhtye on laajentanut fanikuntaansa. Nyt ollaan siinä pisteessä, että Parkway Drive kiertää isoja lavoja täyden tuotannon kera ja tämä sirkus saapuu myös Tuskaan. Nyt laitetaan Suvilahdessa jalalla coreasti!",
+		"descr_en": "Australian metalcore phenomenon Parkway Drive are doing it big. Their relentless work with tour after tour and a successful record after another is paying off. The band’s popularity has gone through the roof internationally and now it’s time to take over Finland. The band from Byron Bay, New Wales are touring the world with a full production and now they are on their way to Tuska. Suvilahti, be prepared, the storm known as Parkway Drive are coming for you!",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-07-01T19:40:00+03:00",
+			"timeEnd": "2018-07-01T21:00:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/parkway_drive.jpeg",
+		"link_spotify": "spotify:artist:159qqlGwzE04xyqpfAwRLo",
+		"link_band": "https://www.facebook.com/parkwaydrive/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/parkway-drive",
+		"link_band_tuska_en": "http://tuska.fi/en/parkway-drive",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "reddeath",
+		"title_fi": "RED DEATH",
+		"title_en": "RED DEATH",
+		"descr_fi": "Piinkova crossover-jyräys on homman nimi Red Death -leirissä. Nämä Washington DC:n pojat eivät kysele lupia, bändin thrashia ja hardcorea yhdistelevä turpaanveto vetää maton alta muitta mutkitta. Viime vuonna ilmestynyt ”Formidable Darkness” tarjoilee suoraviivaista muilutusta suoraviivaisen muilutuksen ystäville. Red Death aloittaa Tuskasta yhteisen eurorundin Foreseenin kanssa.",
+		"descr_en": "Hard as f**k crossover pummeling is the name of the game in the Red Death camp. The Washington DC based quartet released their current ”Formidable Darkness” album last year and they take no prisoners. Red Death are starting their Euro tour with Foreseen from Tuska.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T17:10:00+03:00",
+			"timeEnd": "2018-06-30T17:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/reddeath.jpeg",
+		"link_spotify": "spotify:artist:1uBhFijojfN4nXW4huTJ4r",
+		"link_band": "https://www.facebook.com/REDDEATHDC/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/red-death",
+		"link_band_tuska_en": "http://tuska.fi/en/red-death",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "shirazlane",
+		"title_fi": "SHIRAZ LANE",
+		"title_en": "SHIRAZ LANE",
+		"descr_fi": "Pääkaupunkiseudun vankasta hard rock -perinteestä ponnistava Shiraz Lane tekee hommat tyylillä. Vuoden 2016 debyyttialbumi ”For Crying Out Loud” esitteli taidokasta ja tyylipuhdasta kovaa rockia jauhavan nuoren ja nälkäisen yhtyeen. Se kuuluisa kakkosalbumi, ”Carnival Days” on nyt valmis ja ilmestyy helmikuussa. Tämän kirjoitushetkellä siltä on irrotettu kaksi maukasta fiilistelypalaa, jotka ovat dominoineet soittolistoja oikein olan takaa. Shiraz Lanen taru on vasta aluillaan; kovaa ajoa odotettavissa!",
+		"descr_en": "Coming from the great hard rock heritage of the Helsinki area, Shiraz Lane know how to go about their business. The band’s ”For Crying Out Loud” debut album displayed a young and determined act, who know what they want and how to get it. The infamous ”second album” is now done. It’s called ”Carnival Days” and at the moment of writing this, Shiraz Lane has blessed us with two singles from the upcoming release, which have been completely dominating the playlists all around. Shiraz Lane is just getting started, this one’s going to be a hard ride!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T18:30:00+03:00",
+			"timeEnd": "2018-06-29T19:15:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/shirazlane.jpeg",
+		"link_spotify": "spotify:artist:0TTu3zbvW4iFfls1GDbyGk",
+		"link_band": "https://www.facebook.com/pg/ShirazLane/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/shiraz-lane-0",
+		"link_band_tuska_en": "http://tuska.fi/en/shiraz-lane-0",
+		"black_star": false,
+		"favored": false
+	},
+	{
 		"id": "six_inch",
 		"title_fi": "SIX INCH",
 		"title_en": "SIX INCH",
@@ -897,6 +715,164 @@
 		"link_band": "https://www.facebook.com/SixInchBand/",
 		"link_band_tuska_fi": "http://tuska.fi/fi/six-inch",
 		"link_band_tuska_en": "http://tuska.fi/en/six-inch",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "sticktoyourguns",
+		"title_fi": "STICK TO YOUR GUNS",
+		"title_en": "STICK TO YOUR GUNS",
+		"descr_fi": "Amerikan hardcore -ryhmä Stick To Your Guns saapuu Tuskaan ensi visiitilleen. Kalifornian auringon alla, tarkemmin Orange Countyn postikorttimaisemissa vuosituhannen vaihteen jälkeen perustettu STYG on ehtinyt nousta alansa eturiviin perinteisellä tyylillä: tekemällä kovia levyjä ja soittamalla vielä kovempia keikkoja ympäri maailmaa.",
+		"descr_en": "American hardcore outfit Stick To Your Guns will be making their Tuska debut next summer. Founded in sunny Orange County, California, Stick To Your Guns has risen to the top of the game with the traditional way of making killer records and playing in even more killer live shows around the world. For proof, check their new ”True View” album first and then show up to Tuska. See you in the pit!",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-07-01T14:45:00+03:00",
+			"timeEnd": "2018-07-01T15:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/sticktoyourguns.jpeg",
+		"link_spotify": "spotify:artist:2sqrupqcoipb7UzVKApEnJ",
+		"link_band": "https://www.facebook.com/STYGoc/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/stick-your-guns",
+		"link_band_tuska_en": "http://tuska.fi/en/stick-your-guns",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "temppelipallit",
+		"title_fi": "TEMPLE BALLS",
+		"title_en": "TEMPLE BALLS",
+		"descr_fi": "Oululainen hard rock -viisikko Temple Balls jytää niin, ettei paremmasta väliä. Bändi vakuutti Ranka Recordingsin head honchon Riku Pääkkösen, joka kiinnitti bändin talliinsa välittömästi. Esikoisalbumi ”Traded Dreams” soi kuin alansa merkkiteokset konsanaan ja Tempe Balls on sittemmin valloittanut keikkalavoja ihan Japania myöden",
+		"descr_en": "Hard rock from Oulu, Finland. If you have been to Oulu, you know those people do not play around. If they do hard rock, they do it hard. Soon after it’s conception, Temple Balls was signed to Ranka Recordings, the label founded by Riku Pääkkönen who also is the mastermind behind the world-reknown metal label Spinefarm. Temple Balls’s debut album ”Traded Dreams” has taken the band around quite a bit and they show no signs of slowing down. Hard rock till you drop.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-07-01T14:10:00+03:00",
+			"timeEnd": "2018-07-01T14:40:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/temppelipallit.jpeg",
+		"link_spotify": "spotify:artist:6eiOdKXmZuz3nWzLuJkCE2",
+		"link_band": "https://www.facebook.com/templeballsrocks/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/temple-balls",
+		"link_band_tuska_en": "http://tuska.fi/en/temple-balls",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "trioniskalaukaus",
+		"title_fi": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
+		"title_en": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
+		"descr_fi": "Rautiainen yhtyeineen oli Tuskan vakiokaartia aina tauolle jäämiseensä asti. Alunperinhän ukkojen piti esiintyä jokaisessa Tuskassa. Yli kymmenen vuoden tauko teki Niskalaukaukselle hyvää. Bändi jyrää nykyään iän tuomalla varmuudella ja silti aivan uudella, jopa nuorekkaalla energialla. Rautiaisen sävellyskynä on kenties terävämpi kuin koskaan, todisteeksi voi pistää pyörimään viime vuonna ilmestyneen ”Lauluja Suomesta”-albumin. Kyllä toimii.",
+		"descr_en": "Timo Rautiainen and his band Trio Niskalaukaus (neck shot) were the main stay on Tuska stage for years before their hiatus in 2004. In fact, they were supposed to play every Tuska. Their break (or break up) lasted for more than a decade, and you can tell it has worked wonders. The band plows ahead with the authority of an elder statesman, but with new found youthful energy. Listen to their latest ”Lauluja Suomesta” (songs from Finland) for proof.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-07-01T15:30:00+03:00",
+			"timeEnd": "2018-07-01T16:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/trioniskalaukaus.jpeg",
+		"link_spotify": "spotify:artist:6sJ8TvVdY3NLFxtG4TESzC",
+		"link_band": "https://www.facebook.com/timorautiainentrioniskalaukaus/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/timo-rautiainen-trio-niskalaukaus-0",
+		"link_band_tuska_en": "http://tuska.fi/en/timo-rautiainen-trio-niskalaukaus-0",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "the69eyes",
+		"title_fi": "THE 69 EYES",
+		"title_en": "THE 69 EYES",
+		"descr_fi": "Nyt mustat kajaalit valmiiksi, sillä The 69 Eyes on täällä! Kotimaisen goottirockin valtiaat tekevät odotetun paluun Tuskan lauteille. The 69 Eyesin uskomaton, lähes 30 vuotta jatkunut tarina hakee vertaistaan jopa rock’n rollin monimuotoisessa kaanonissa. Bändin yhdestoista albumi, vuonna 2016 ilmestynyt ”Universal Monsters” -nimeä kantava pitkäsoitto on tummanpuhuva paluumatka goottitunnelmaisen rockin syvimpiin syövereihin.",
+		"descr_en": "Get your black eyeliners ready, because The 69 Eyes are coming back to Tuska! This Finnish goth’n’roll legend has been together almost 30 years, and in 2016 they released their 11th studio album ”Universal Monsters”. The Helsinki Vampires are back!",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-30T15:35:00+03:00",
+			"timeEnd": "2018-06-30T16:20:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/the69eyes.jpeg",
+		"link_spotify": "spotify:artist:0Z1UczcSjwKNuv4HgdjH3b",
+		"link_band": "https://www.facebook.com/the69eyes",
+		"link_band_tuska_fi": "http://tuska.fi/fi/69-eyes",
+		"link_band_tuska_en": "http://tuska.fi/en/69-eyes",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "thecharmthefury",
+		"title_fi": "THE CHARM THE FURY",
+		"title_en": "THE CHARM THE FURY",
+		"descr_fi": "Hollantilainen The Charm The Fury pelaa rehdillä pakalla. Yhtyeen soundissa on vahvasti tämä päivä läsnä mutta perusta on kaivettu sieltä missä se on kunnossa, klassikkobändeistä on poimittu oleellinen ja lisätty omat mausteet päälle. Kun riffiosastokin on kohdillaan ja vokalisti Caroline Westendorp on maailmanluokan ärjyjä niin mikäs siinä on pistellessä. The Charm The Furyn viimeisin julkaisu on Nuclear Blastin kautta ilmestynyt ”The Sick, Dumb & Happy” ja sehän jytää.",
+		"descr_en": "Dutch quintet The Charm The Fury are definitely onto something. Modern metal with a foundation based on the classics, The Charm The Fury sounds like no one else but themselves. The current album ”The Sick, Dumb & Happy” kicks ass and we’re extremely glad to have them at Tuska.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T19:45:00+03:00",
+			"timeEnd": "2018-06-29T20:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/thecharmthefury.jpeg",
+		"link_spotify": "spotify:artist:1AaHt93G0EIiO4Bl4gaEC1",
+		"link_band": "https://www.facebook.com/thecharmthefury/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/charm-fury",
+		"link_band_tuska_en": "http://tuska.fi/en/charm-fury",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "turmionkatilot",
+		"title_fi": "TURMION KÄTILÖT",
+		"title_en": "TURMION KÄTILÖT",
+		"descr_fi": "Kotimaisen industrial metallin kuninkaalliset tekevät paluun Tuskaan! Nyt lateksihanskat ja niittivyöt valmiiksi, sillä Turmion Kätilöt tulee ruoskimaan rokkikansan aivan uusiin sfääreihin. Pistetään pitti pyörimään!",
+		"descr_en": "The royalty of Finnish industrial metal makes a comeback to Tuska! Now, get your latex gloves and stud belts ready, because Turmion Kätilöt will whip you into a whole new dimension. Let’s get the mosh pit going!",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-06-29T16:20:00+03:00",
+			"timeEnd": "2018-06-29T17:25:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/turmionkatilot.jpeg",
+		"link_spotify": "spotify:artist:76t3VPzCEYAlrZhVAY7yjg",
+		"link_band": "https://www.facebook.com/turmionkatilot/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/turmion-katilot-0",
+		"link_band_tuska_en": "http://tuska.fi/en/turmion-katilot-0",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "tribulation",
+		"title_fi": "TRIBULATION",
+		"title_en": "TRIBULATION",
+		"descr_fi": "Ruotsin moni-ilmeinen metallimoottori Tribulation tekee Tuska-debyyttinsä ensi kesänä Suvilahdessa. Vuonna 2004 perustettu Tribulation kiinnitti skenen huomion välittömästi ja esikoisalbumillaan bändiä verrattiin useisiin death metal -mestareihin. Sittemmin Tribulation on lähtenyt vahvasti rockin ja tunnelmoinnin, hämärän puolelle pakenevan maailman pariin. Tie on kulkenut pitkälle ensi albumin ajoista mutta räävitön ja pahansisuinen meininki on homman nimi edelleen. Tammikuussa ilmestyvällä ”Down Below” -nimisellä uutukaisella Tribulation jatkaa luonnollista kehitystä, eikä se kumartele kuvia vieläkään. Hyvä niin.",
+		"descr_en": "Sweden’s superb metal engine Tribulation are making their Tuska debut next summer. The band got started in 2004 and immdiately started making waves in the scene, drawing comparisons to many of the death metal masters. After a while Tribulation took a turn towards rock’n roll and atmospheric elements, yet being clearly drawn to the darker side. It’s been a long road, but relentless, yet beautiful and dark sound is still the name of the game. On their  new ”Down Below” album Tribulation will continue on their path of constant progress.",
+		"type": "band",
+		"schedule": [{
+			"stage": "second",
+			"timeBeg": "2018-06-29T15:35:00+03:00",
+			"timeEnd": "2018-06-29T16:20:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/tribulation.jpeg",
+		"link_spotify": "spotify:artist:7xTo7ipdBZezIoyAkmcRge",
+		"link_band": "https://www.facebook.com/Tribulationofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/tribulation",
+		"link_band_tuska_en": "http://tuska.fi/en/tribulation",
+		"black_star": false,
+		"favored": false
+	},
+	{
+		"id": "tuska_torstai",
+		"title_fi": "TUSKA TORSTAI",
+		"title_en": "TUSKA TORSTAI",
+		"descr_fi": "Tuska Torstai -kilpailun voittaja!",
+		"descr_en": "Tuska Torstai -competition winner!",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-29T16:15:00+03:00",
+			"timeEnd": "2018-06-29T16:45:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/tuska_torstai.png",
+		"link_band_tuska_fi": "http://tuska-torstai.fi/",
+		"link_band_tuska_en": "http://tuska-torstai.fi/",
 		"black_star": false,
 		"favored": false
 	},
