@@ -778,23 +778,23 @@
 		"black_star": false,
 		"favored": false
 	},
-	{
-		"id": "trioniskalaukaus",
-		"title_fi": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
-		"title_en": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
-		"descr_fi": "Rautiainen yhtyeineen oli Tuskan vakiokaartia aina tauolle jäämiseensä asti. Alunperinhän ukkojen piti esiintyä jokaisessa Tuskassa. Yli kymmenen vuoden tauko teki Niskalaukaukselle hyvää. Bändi jyrää nykyään iän tuomalla varmuudella ja silti aivan uudella, jopa nuorekkaalla energialla. Rautiaisen sävellyskynä on kenties terävämpi kuin koskaan, todisteeksi voi pistää pyörimään viime vuonna ilmestyneen ”Lauluja Suomesta”-albumin. Kyllä toimii.",
-		"descr_en": "Timo Rautiainen and his band Trio Niskalaukaus (neck shot) were the main stay on Tuska stage for years before their hiatus in 2004. In fact, they were supposed to play every Tuska. Their break (or break up) lasted for more than a decade, and you can tell it has worked wonders. The band plows ahead with the authority of an elder statesman, but with new found youthful energy. Listen to their latest ”Lauluja Suomesta” (songs from Finland) for proof.",
+ 	{
+		"id": "thecharmthefury",
+		"title_fi": "THE CHARM THE FURY",
+		"title_en": "THE CHARM THE FURY",
+		"descr_fi": "Hollantilainen The Charm The Fury pelaa rehdillä pakalla. Yhtyeen soundissa on vahvasti tämä päivä läsnä mutta perusta on kaivettu sieltä missä se on kunnossa, klassikkobändeistä on poimittu oleellinen ja lisätty omat mausteet päälle. Kun riffiosastokin on kohdillaan ja vokalisti Caroline Westendorp on maailmanluokan ärjyjä niin mikäs siinä on pistellessä. The Charm The Furyn viimeisin julkaisu on Nuclear Blastin kautta ilmestynyt ”The Sick, Dumb & Happy” ja sehän jytää.",
+		"descr_en": "Dutch quintet The Charm The Fury are definitely onto something. Modern metal with a foundation based on the classics, The Charm The Fury sounds like no one else but themselves. The current album ”The Sick, Dumb & Happy” kicks ass and we’re extremely glad to have them at Tuska.",
 		"type": "band",
 		"schedule": [{
-			"stage": "main",
-			"timeBeg": "2018-07-01T15:30:00+03:00",
-			"timeEnd": "2018-07-01T16:30:00+03:00"
+			"stage": "club",
+			"timeBeg": "2018-06-29T19:45:00+03:00",
+			"timeEnd": "2018-06-29T20:30:00+03:00"
 		}],
-		"img": "./assets/imgs/bands/trioniskalaukaus.jpeg",
-		"link_spotify": "spotify:artist:6sJ8TvVdY3NLFxtG4TESzC",
-		"link_band": "https://www.facebook.com/timorautiainentrioniskalaukaus/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/timo-rautiainen-trio-niskalaukaus-0",
-		"link_band_tuska_en": "http://tuska.fi/en/timo-rautiainen-trio-niskalaukaus-0",
+		"img": "./assets/imgs/bands/thecharmthefury.jpeg",
+		"link_spotify": "spotify:artist:1AaHt93G0EIiO4Bl4gaEC1",
+		"link_band": "https://www.facebook.com/thecharmthefury/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/charm-fury",
+		"link_band_tuska_en": "http://tuska.fi/en/charm-fury",
 		"black_star": false,
 		"favored": false
 	},
@@ -818,23 +818,43 @@
 		"black_star": false,
 		"favored": false
 	},
-	{
-		"id": "thecharmthefury",
-		"title_fi": "THE CHARM THE FURY",
-		"title_en": "THE CHARM THE FURY",
-		"descr_fi": "Hollantilainen The Charm The Fury pelaa rehdillä pakalla. Yhtyeen soundissa on vahvasti tämä päivä läsnä mutta perusta on kaivettu sieltä missä se on kunnossa, klassikkobändeistä on poimittu oleellinen ja lisätty omat mausteet päälle. Kun riffiosastokin on kohdillaan ja vokalisti Caroline Westendorp on maailmanluokan ärjyjä niin mikäs siinä on pistellessä. The Charm The Furyn viimeisin julkaisu on Nuclear Blastin kautta ilmestynyt ”The Sick, Dumb & Happy” ja sehän jytää.",
-		"descr_en": "Dutch quintet The Charm The Fury are definitely onto something. Modern metal with a foundation based on the classics, The Charm The Fury sounds like no one else but themselves. The current album ”The Sick, Dumb & Happy” kicks ass and we’re extremely glad to have them at Tuska.",
+ 	{
+		"id": "tribulation",
+		"title_fi": "TRIBULATION",
+		"title_en": "TRIBULATION",
+		"descr_fi": "Ruotsin moni-ilmeinen metallimoottori Tribulation tekee Tuska-debyyttinsä ensi kesänä Suvilahdessa. Vuonna 2004 perustettu Tribulation kiinnitti skenen huomion välittömästi ja esikoisalbumillaan bändiä verrattiin useisiin death metal -mestareihin. Sittemmin Tribulation on lähtenyt vahvasti rockin ja tunnelmoinnin, hämärän puolelle pakenevan maailman pariin. Tie on kulkenut pitkälle ensi albumin ajoista mutta räävitön ja pahansisuinen meininki on homman nimi edelleen. Tammikuussa ilmestyvällä ”Down Below” -nimisellä uutukaisella Tribulation jatkaa luonnollista kehitystä, eikä se kumartele kuvia vieläkään. Hyvä niin.",
+		"descr_en": "Sweden’s superb metal engine Tribulation are making their Tuska debut next summer. The band got started in 2004 and immdiately started making waves in the scene, drawing comparisons to many of the death metal masters. After a while Tribulation took a turn towards rock’n roll and atmospheric elements, yet being clearly drawn to the darker side. It’s been a long road, but relentless, yet beautiful and dark sound is still the name of the game. On their  new ”Down Below” album Tribulation will continue on their path of constant progress.",
 		"type": "band",
 		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-29T19:45:00+03:00",
-			"timeEnd": "2018-06-29T20:30:00+03:00"
+			"stage": "second",
+			"timeBeg": "2018-06-29T15:35:00+03:00",
+			"timeEnd": "2018-06-29T16:20:00+03:00"
 		}],
-		"img": "./assets/imgs/bands/thecharmthefury.jpeg",
-		"link_spotify": "spotify:artist:1AaHt93G0EIiO4Bl4gaEC1",
-		"link_band": "https://www.facebook.com/thecharmthefury/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/charm-fury",
-		"link_band_tuska_en": "http://tuska.fi/en/charm-fury",
+		"img": "./assets/imgs/bands/tribulation.jpeg",
+		"link_spotify": "spotify:artist:7xTo7ipdBZezIoyAkmcRge",
+		"link_band": "https://www.facebook.com/Tribulationofficial/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/tribulation",
+		"link_band_tuska_en": "http://tuska.fi/en/tribulation",
+		"black_star": false,
+		"favored": false
+	},
+ 	{
+		"id": "trioniskalaukaus",
+		"title_fi": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
+		"title_en": "TIMO RAUTIAINEN & TRIO NISKALAUKAUS",
+		"descr_fi": "Rautiainen yhtyeineen oli Tuskan vakiokaartia aina tauolle jäämiseensä asti. Alunperinhän ukkojen piti esiintyä jokaisessa Tuskassa. Yli kymmenen vuoden tauko teki Niskalaukaukselle hyvää. Bändi jyrää nykyään iän tuomalla varmuudella ja silti aivan uudella, jopa nuorekkaalla energialla. Rautiaisen sävellyskynä on kenties terävämpi kuin koskaan, todisteeksi voi pistää pyörimään viime vuonna ilmestyneen ”Lauluja Suomesta”-albumin. Kyllä toimii.",
+		"descr_en": "Timo Rautiainen and his band Trio Niskalaukaus (neck shot) were the main stay on Tuska stage for years before their hiatus in 2004. In fact, they were supposed to play every Tuska. Their break (or break up) lasted for more than a decade, and you can tell it has worked wonders. The band plows ahead with the authority of an elder statesman, but with new found youthful energy. Listen to their latest ”Lauluja Suomesta” (songs from Finland) for proof.",
+		"type": "band",
+		"schedule": [{
+			"stage": "main",
+			"timeBeg": "2018-07-01T15:30:00+03:00",
+			"timeEnd": "2018-07-01T16:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/trioniskalaukaus.jpeg",
+		"link_spotify": "spotify:artist:6sJ8TvVdY3NLFxtG4TESzC",
+		"link_band": "https://www.facebook.com/timorautiainentrioniskalaukaus/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/timo-rautiainen-trio-niskalaukaus-0",
+		"link_band_tuska_en": "http://tuska.fi/en/timo-rautiainen-trio-niskalaukaus-0",
 		"black_star": false,
 		"favored": false
 	},
@@ -855,26 +875,6 @@
 		"link_band": "https://www.facebook.com/turmionkatilot/",
 		"link_band_tuska_fi": "http://tuska.fi/fi/turmion-katilot-0",
 		"link_band_tuska_en": "http://tuska.fi/en/turmion-katilot-0",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "tribulation",
-		"title_fi": "TRIBULATION",
-		"title_en": "TRIBULATION",
-		"descr_fi": "Ruotsin moni-ilmeinen metallimoottori Tribulation tekee Tuska-debyyttinsä ensi kesänä Suvilahdessa. Vuonna 2004 perustettu Tribulation kiinnitti skenen huomion välittömästi ja esikoisalbumillaan bändiä verrattiin useisiin death metal -mestareihin. Sittemmin Tribulation on lähtenyt vahvasti rockin ja tunnelmoinnin, hämärän puolelle pakenevan maailman pariin. Tie on kulkenut pitkälle ensi albumin ajoista mutta räävitön ja pahansisuinen meininki on homman nimi edelleen. Tammikuussa ilmestyvällä ”Down Below” -nimisellä uutukaisella Tribulation jatkaa luonnollista kehitystä, eikä se kumartele kuvia vieläkään. Hyvä niin.",
-		"descr_en": "Sweden’s superb metal engine Tribulation are making their Tuska debut next summer. The band got started in 2004 and immdiately started making waves in the scene, drawing comparisons to many of the death metal masters. After a while Tribulation took a turn towards rock’n roll and atmospheric elements, yet being clearly drawn to the darker side. It’s been a long road, but relentless, yet beautiful and dark sound is still the name of the game. On their  new ”Down Below” album Tribulation will continue on their path of constant progress.",
-		"type": "band",
-		"schedule": [{
-			"stage": "second",
-			"timeBeg": "2018-06-29T15:35:00+03:00",
-			"timeEnd": "2018-06-29T16:20:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/tribulation.jpeg",
-		"link_spotify": "spotify:artist:7xTo7ipdBZezIoyAkmcRge",
-		"link_band": "https://www.facebook.com/Tribulationofficial/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/tribulation",
-		"link_band_tuska_en": "http://tuska.fi/en/tribulation",
 		"black_star": false,
 		"favored": false
 	},
@@ -917,42 +917,6 @@
 		"favored": false
 	},
 	{
-		"id": "round_table_1",
-		"title_fi": "PAHAN VASTAPUOLI",
-		"title_en": "CRITICAL HEADBANGING",
-		"descr_fi": "Paneelissa keskustellaan metallin eettisyydestä. Artistit näyttävät ottavan kasvavassa määrin kantaa ajankohtaisiin ja kriittisiin teemoihin kuten sosiaalisiin ongelmiin, ympäristöhaasteisiin, eläinten oikeuksiin ja tasa-arvokysymyksiin. Onko kriittisyys ja korkea moraali metallin uusi musta?",
-		"descr_en": "The panel discusses the role and impact of ethical voices within metal music. Musicians are increasingly addressing critical themes such as social problems, environmental issues, animal rights, and equality. Are criticality and morality the new black in metal?",
-		"type": "band",
-		"schedule": [{
-			"stage": "solmu",
-			"timeBeg": "2018-06-29T15:30:00+03:00",
-			"timeEnd": "2018-06-29T16:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/artists_placeholder.jpg",
-		"link_band_tuska_fi": "https://placeholder.com",
-		"link_band_tuska_en": "https://placeholder.com",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "night_vision_1",
-		"title_fi": "NIGHT VISION",
-		"title_en": "NIGHT VISION",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
-		"type": "band",
-		"schedule": [{
-			"stage": "solmu",
-			"timeBeg": "2018-06-29T17:00:00+03:00",
-			"timeEnd": "2018-06-29T18:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/artists_placeholder.jpg",
-		"link_band_tuska_fi": "https://placeholder.com",
-		"link_band_tuska_en": "https://placeholder.com",
-		"black_star": false,
-		"favored": false
-	},
-	{
 		"id": "round_table_2",
 		"title_fi": "HELVETIN MUSTAA, OSA 3",
 		"title_en": "BLACK AS HELL, PART 3",
@@ -965,8 +929,38 @@
 			"timeEnd": "2018-06-30T16:30:00+03:00"
 		}],
 		"img": "./assets/imgs/bands/artists_placeholder.jpg",
-		"link_band_tuska_fi": "https://placeholder.com",
-		"link_band_tuska_en": "https://placeholder.com",
+		"black_star": false,
+		"favored": false
+	},
+ 	{
+		"id": "round_table_3",
+		"title_fi": "METALLI JA NOSTALGIA",
+		"title_en": "METAL AND NOSTALGIA",
+		"descr_fi": "On huomattu että metalliyleisö ikääntyy ja diggaa vanhaa materiaalia. Ja useat artistit jatkavat pitkittyneitä uriaan, vuosikymmenestä toiseen. Rakastamme nostalgiaa, eikös vain? Ikuisesti nuori hevikansa. Mutta voiko nostalgiasta tulla kirous? Kuinka artistit tasapainoilevat edistyksen ja taantumuksen kiikkulaudalla?",
+		"descr_en": "A commonplace observation is that the metal audience is generally getting older, and likes the old stuff. And many artists are continuing their prolonged careers founded even decades ago. It is all about nostalgia. We all love nostalgia, don’t we. Forever young. But can nostalgia become a curse? How do the artists balance between modernity and backwardness?",
+		"type": "band",
+		"schedule": [{
+			"stage": "solmu",
+			"timeBeg": "2018-07-01T15:30:00+03:00",
+			"timeEnd": "2018-07-01T16:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/artists_placeholder.jpg",
+		"black_star": false,
+		"favored": false
+	},
+  	{
+		"id": "night_vision_1",
+		"title_fi": "NIGHT VISION",
+		"title_en": "NIGHT VISION",
+		"descr_fi": "Short films by Night Vision",
+		"descr_en": "Short films by Night Vision",
+		"type": "band",
+		"schedule": [{
+			"stage": "solmu",
+			"timeBeg": "2018-06-29T17:00:00+03:00",
+			"timeEnd": "2018-06-29T18:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/artists_placeholder.jpg",
 		"black_star": false,
 		"favored": false
 	},
@@ -983,30 +977,10 @@
 			"timeEnd": "2018-06-30T18:30:00+03:00"
 		}],
 		"img": "./assets/imgs/bands/artists_placeholder.jpg",
-		"link_band_tuska_fi": "https://placeholder.com",
-		"link_band_tuska_en": "https://placeholder.com",
 		"black_star": false,
 		"favored": false
 	},
-	{
-		"id": "round_table_3",
-		"title_fi": "METALLI JA NOSTALGIA",
-		"title_en": "METAL AND NOSTALGIA",
-		"descr_fi": "On huomattu että metalliyleisö ikääntyy ja diggaa vanhaa materiaalia. Ja useat artistit jatkavat pitkittyneitä uriaan, vuosikymmenestä toiseen. Rakastamme nostalgiaa, eikös vain? Ikuisesti nuori hevikansa. Mutta voiko nostalgiasta tulla kirous? Kuinka artistit tasapainoilevat edistyksen ja taantumuksen kiikkulaudalla?",
-		"descr_en": "A commonplace observation is that the metal audience is generally getting older, and likes the old stuff. And many artists are continuing their prolonged careers founded even decades ago. It is all about nostalgia. We all love nostalgia, don’t we. Forever young. But can nostalgia become a curse? How do the artists balance between modernity and backwardness?",
-		"type": "band",
-		"schedule": [{
-			"stage": "solmu",
-			"timeBeg": "2018-07-01T15:30:00+03:00",
-			"timeEnd": "2018-07-01T16:30:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/artists_placeholder.jpg",
-		"link_band_tuska_fi": "https://placeholder.com",
-		"link_band_tuska_en": "https://placeholder.com",
-		"black_star": false,
-		"favored": false
-	},
-	{
+ 	{
 		"id": "night_vision_3",
 		"title_fi": "NIGHT VISION",
 		"title_en": "NIGHT VISION",
@@ -1017,6 +991,22 @@
 			"stage": "solmu",
 			"timeBeg": "2018-07-01T17:00:00+03:00",
 			"timeEnd": "2018-07-01T18:30:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/artists_placeholder.jpg",
+		"black_star": false,
+		"favored": false
+	}
+ 	{
+		"id": "round_table_1",
+		"title_fi": "PAHAN VASTAPUOLI",
+		"title_en": "CRITICAL HEADBANGING",
+		"descr_fi": "Paneelissa keskustellaan metallin eettisyydestä. Artistit näyttävät ottavan kasvavassa määrin kantaa ajankohtaisiin ja kriittisiin teemoihin kuten sosiaalisiin ongelmiin, ympäristöhaasteisiin, eläinten oikeuksiin ja tasa-arvokysymyksiin. Onko kriittisyys ja korkea moraali metallin uusi musta?",
+		"descr_en": "The panel discusses the role and impact of ethical voices within metal music. Musicians are increasingly addressing critical themes such as social problems, environmental issues, animal rights, and equality. Are criticality and morality the new black in metal?",
+		"type": "band",
+		"schedule": [{
+			"stage": "solmu",
+			"timeBeg": "2018-06-29T15:30:00+03:00",
+			"timeEnd": "2018-06-29T16:30:00+03:00"
 		}],
 		"img": "./assets/imgs/bands/artists_placeholder.jpg",
 		"black_star": false,
