@@ -948,7 +948,7 @@
 		"black_star": false,
 		"favored": false
 	},
-  	{
+  {
 		"id": "night_vision_1",
 		"title_fi": "NIGHT VISION",
 		"title_en": "NIGHT VISION",
@@ -995,7 +995,7 @@
 		"img": "./assets/imgs/bands/artists_placeholder.jpg",
 		"black_star": false,
 		"favored": false
-	}
+	},
  	{
 		"id": "round_table_1",
 		"title_fi": "PAHAN VASTAPUOLI",
