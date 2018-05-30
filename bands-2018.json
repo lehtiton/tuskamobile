@@ -952,8 +952,8 @@
 		"id": "night_vision_1",
 		"title_fi": "NIGHT VISION",
 		"title_en": "NIGHT VISION",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"descr_fi": "Short films by Night Vision, pe",
+		"descr_en": "Short films by Night Vision, Fri",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
@@ -968,8 +968,8 @@
 		"id": "night_vision_2",
 		"title_fi": "NIGHT VISION",
 		"title_en": "NIGHT VISION",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"descr_fi": "Short films by Night Vision, la",
+		"descr_en": "Short films by Night Vision, Sat",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
@@ -984,8 +984,8 @@
 		"id": "night_vision_3",
 		"title_fi": "NIGHT VISION",
 		"title_en": "NIGHT VISION",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"descr_fi": "Short films by Night Vision, su",
+		"descr_en": "Short films by Night Vision, Sun",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
