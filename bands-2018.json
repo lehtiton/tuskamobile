@@ -480,6 +480,26 @@
 		"favored": false
 	},
 	{
+		"id": "hexhammer",
+		"title_fi": "HEXHAMMER",
+		"title_en": "HEXHAMMER",
+		"descr_fi": "Helsinkiläinen black n’ roll -rykmentti Hexhammer lyö pöytään voittavan käden mustanpuhuvaa rymistelyä. Yhtyeen nimeä kantava debyytti ei kysele lupia, välillä mennään kieli keskellä suuta ja toisinaan rehdisti ovi edellä. Tätä on helsinkiläinen rock n’ roll vuonna 2018.",
+		"descr_en": "Helsinki based black n’ roll squad Hexhammer hits you hard. The band’s self titled debut album does not ask for permissions: full throttle with transmission selector stuck on drive. This is what Finnish rock n’ roll in 2018 is all about.",
+		"type": "band",
+		"schedule": [{
+			"stage": "club",
+			"timeBeg": "2018-06-30T19:10:00+03:00",
+			"timeEnd": "2018-06-30T19:55:00+03:00"
+		}],
+		"img": "./assets/imgs/bands/artists_placeholder.jpg",
+		"link_spotify": "spotify:artist:1IoEm7MEiXz66XjDBkkqmQ",
+		"link_band": "https://www.facebook.com/hexhammerband/",
+		"link_band_tuska_fi": "http://tuska.fi/fi/hexhammer",
+		"link_band_tuska_en": "http://tuska.fi/en/hexhammer",
+		"black_star": false,
+		"favored": false
+	},
+	{
 		"id": "ihsahn",
 		"title_fi": "IHSAHN",
 		"title_en": "IHSAHN",
@@ -636,26 +656,6 @@
 		"link_band": "https://www.facebook.com/moonsorrowofficial/",
 		"link_band_tuska_fi": "http://tuska.fi/fi/moonsorrow",
 		"link_band_tuska_en": "http://tuska.fi/en/moonsorrow",
-		"black_star": false,
-		"favored": false
-	},
-	{
-		"id": "oni",
-		"title_fi": "ONI",
-		"title_en": "ONI",
-		"descr_fi": "Kanadalainen Oni veivaa modernia, erittäin metallista progea ja hyvin veivaakin. Bändin ”Ironshore”-albumi avasi bändille ovet itsensä Children Of Bodomin lämppäriksi ja kyseinen rundi toi Onin myös suomalaisten ihmeteltäväksi. Tätäkään ulkomaan ihmettä ei kannata jättää tsekkaamatta.",
-		"descr_en": "Canadian Oni delivers a dose of quality metallic proge. Their ”Ironshore” album secured them a slot as support for Children Of Bodom tour allowing Oni to spread their proge for the masses.",
-		"type": "band",
-		"schedule": [{
-			"stage": "club",
-			"timeBeg": "2018-06-30T19:10:00+03:00",
-			"timeEnd": "2018-06-30T19:55:00+03:00"
-		}],
-		"img": "./assets/imgs/bands/oni.jpeg",
-		"link_spotify": "spotify:artist:6Rnp9z01jyCXbdynsTOQLB",
-		"link_band": "https://www.facebook.com/TheOniBand/",
-		"link_band_tuska_fi": "http://tuska.fi/fi/oni",
-		"link_band_tuska_en": "http://tuska.fi/en/oni",
 		"black_star": false,
 		"favored": false
 	},
@@ -951,10 +951,10 @@
 	},
   {
 		"id": "night_vision_1",
-		"title_fi": "NIGHT VISION, PE",
-		"title_en": "NIGHT VISION, FRI",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"title_fi": "NIGHT VISIONS, PE",
+		"title_en": "NIGHT VISIONS, FRI",
+		"descr_fi": "Night Visions presents: Iron Sky The Coming Race ja universumin tulevaisuus. Ohjaaja, visionääri Timo Vuorensola esittelee juuri nyt kansainvälisesti odotetuimman kotimaisen elokuvan Iron Sky The Coming Racen, valottaa Iron Sky -universumin seuraavia siirtoja ja tarjoilee ennennäkemätöntä audiovisuaalista materiaalia saagasta eksklusiivisesti Tuska-kansalle.",
+		"descr_en": "Night Visions presents: Iron Sky The Coming Race and the future of universe. Director and visionary Timo Vuorensola presents internationally the most expected Finnish movie Iron Sky The Coming Race, sheds light on the next moves of Iron Sky universe and offers exclusive audiovisual material from movie saga to Tuska people.",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
@@ -967,10 +967,10 @@
 	},
 	{
 		"id": "night_vision_2",
-		"title_fi": "NIGHT VISION, LA",
-		"title_en": "NIGHT VISION, SAT",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"title_fi": "NIGHT VISIONS, LA",
+		"title_en": "NIGHT VISIONS, SAT",
+		"descr_fi": "Night Visions presents (Short Cuts): 1. Sound from the Deep (ohj. Joonas Allonen & Antti Laakso, Suomi 2017, kesto 29 min) 2. Voyager (ohj. Kjersti Helen Rasmussen, Norja 2017, kesto 7 min) 3. Don't Open Your Eyes (ohj. Adrian Garcia Bogliano, Ruotsi 2017, kesto 11 min) 4. Sons of Bitches (ohj. Arnaud Baur, Sveitsi 2017, kesto 20 min) 5. Alisa (ohj. Johannes Lilja & Anne-Mari Musturi, Suomi 2018, kesto 13 min) 6. Tuntematon Redux (ohj. Anssi Määttä, Suomi 2017, kesto 5 min)",
+		"descr_en": "Night Visions presents (Short Cuts): 1. Sound from the Deep (director Joonas Allonen & Antti Laakso, Finland 2017, length 29 mins) 2. Voyager (director Kjersti Helen Rasmussen, Norway 2017, length 7 mins) 3. Don't Open Your Eyes (director Adrian Garcia Bogliano, Sweden 2017, length 11 mins) 4. Sons of Bitches (director Arnaud Baur, Switzerland 2017, length 20 min) 5. Alisa (director Johannes Lilja & Anne-Mari Musturi, Finland 2018, length 13 min) 6. The unknown soldier Redux (director Anssi Määttä, Finland 2017, length 5 min)",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
@@ -983,10 +983,10 @@
 	},
  	{
 		"id": "night_vision_3",
-		"title_fi": "NIGHT VISION, SU",
-		"title_en": "NIGHT VISION, SUN",
-		"descr_fi": "Short films by Night Vision",
-		"descr_en": "Short films by Night Vision",
+		"title_fi": "NIGHT VISIONS, SU",
+		"title_en": "NIGHT VISIONS, SUN",
+		"descr_fi": "Night Visions presents: Rob Zombie: 31 (USA 2016, kesto 88 min). Rob Zombien toistaiseksi viimeisin pitkä elokuva sysää joukon kiertävän tivolin työntekijöitä suoraan helvetin esikartanoon. Sisältö luottaa muusikkolegendan aiemmastakin elokuvallisesta tuotannosta tuttuihin tavaramerkkeihin: tarjolla on rosoista white trash -estetiikkaa, silmäniskuja kulttileffojen kaanonin suuntaan sekä tietenkin tinkimättömän graafista, välillä katsojaa toden teolla koettelevaa kuvakerrontaa. Keskeisissä rooleissa loistavat mm. A Clockwork Orange -ikoni Malcolm McDowell sekä tietysti ohjaajamaestron parempi puolisko Sheri Moon Zombie.",
+		"descr_en": "Night Visions presents: Rob Zombie: 31 (USA 2016, length 88 mins). So far the latest movie of Rob Zombie thrusts bunch of funfair workers right next door to hell. The movie offers rough white trash aesthetics, winks to the direction of cult movie canons and of course uncopromisingly graphic visualization. Leading actors of the movie are A Clockwork Orange icon Malcom McDowell and of course director maestro’s better half Sheri Moon Zombie.",
 		"type": "band",
 		"schedule": [{
 			"stage": "solmu",
